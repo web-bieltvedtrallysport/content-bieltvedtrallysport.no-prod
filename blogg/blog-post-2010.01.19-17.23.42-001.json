@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.01.19-17.23.42-001",
+        "path": "/blogg/blog-post-2010.01.19-17.23.42-001",
+        "title": "Masseproduksjon:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Masseproduksjon:)", 
+                        "sent-timestamp": "19.01.2010 11:23:41", 
+                        "received-timestamp": "19.01.2010 11:23:42", 
+                        "message-id": "<32007348.1263918221167.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Masseproduksjon:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "19.01.2010 17:23:42",
+            "text-blocks": [
+                "Masseproduksjon:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.01.19-17.23.42-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01410.jpg"
+                }
+            ]
+        }
+    }
+}

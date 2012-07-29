@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.07.21-23.40.15-001",
+        "path": "/blogg/blog-post-2010.07.21-23.40.15-001",
+        "title": "Veldig fine innerskjermer",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Veldig fine innerskjermer", 
+                        "sent-timestamp": "21.07.2010 17:39:49", 
+                        "received-timestamp": "21.07.2010 17:40:15", 
+                        "message-id": "<15801498941079021@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Veldig fine innerskjermer",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "21.07.2010 23:40:15",
+            "text-blocks": [
+                "Og Lasse er veldig fornøyd:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.07.21-23.40.15-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0495.jpg"
+                }
+            ]
+        }
+    }
+}

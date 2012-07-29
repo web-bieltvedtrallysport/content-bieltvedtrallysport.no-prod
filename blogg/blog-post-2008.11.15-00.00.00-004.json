@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.11.15-00.00.00-004",
+        "path": "/blogg/blog-post-2008.11.15-00.00.00-004",
+        "title": "vinneren av kveldens største sje",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "vinneren av kveldens største sje",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "15.11.2008",
+            "text-blocks": [
+                "vinneren av kveldens største sjekk. Mats lysen. Noen sponsorer gikk sammen og ga han en halv million."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_491f41cf5979a.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.01.29-14.22.30-001",
+        "path": "/blogg/blog-post-2011.01.29-14.22.30-001",
+        "title": "Ss5",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ss5", 
+                        "sent-timestamp": "29.01.2011 08:18:31", 
+                        "received-timestamp": "29.01.2011 08:22:30", 
+                        "message-id": "<BLU0-SMTP175F2ABCF2080998CA9FABAA1E00@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Ss5",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "29.01.2011 14:22:30",
+            "text-blocks": [
+                "Denna prøva fikk vi ikke flyt på.. Har alltid slitt på den. Vet ikke hvorfor.. Men tiden blei jo ikke helt håpløs.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.01.29-14.22.30-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

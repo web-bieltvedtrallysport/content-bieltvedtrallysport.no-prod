@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.04.24-19.22.04-001",
+        "path": "/blogg/blog-post-2010.04.24-19.22.04-001",
+        "title": "Stakkars batteri",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Stakkars batteri", 
+                        "sent-timestamp": "24.04.2010 19:21:36", 
+                        "received-timestamp": "24.04.2010 19:22:04", 
+                        "message-id": "<4bd328b7.0e67f10a.7a65.5711@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Stakkars batteri",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "24.04.2010 19:22:04",
+            "text-blocks": [
+                "Ikke rart vi har startproblemer... Med nytt batteri ble alt så meget bedre:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.04.24-19.22.04-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0278.jpg"
+                }
+            ]
+        }
+    }
+}

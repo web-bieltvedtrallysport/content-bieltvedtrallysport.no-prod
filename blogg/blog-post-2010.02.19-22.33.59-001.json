@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.19-22.33.59-001",
+        "path": "/blogg/blog-post-2010.02.19-22.33.59-001",
+        "title": "Gutta følger med på OL",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Gutta følger med på OL", 
+                        "sent-timestamp": "19.02.2010 16:28:46", 
+                        "received-timestamp": "19.02.2010 16:33:59", 
+                        "message-id": "<4b7f03c5.1c05d00a.4388.ffff9809@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Gutta følger med på OL",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "19.02.2010 22:33:59",
+            "text-blocks": [
+                "Kveldsmaten er fortært og bilen står varmt og godt å venter på å få jobbe i morra. Nå er det OL som gjelder, før vi avslutter i dag. Gratulerer til Aksel Lund Svindal!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.19-22.33.59-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0059.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.11.03-22.09.11-001",
+        "path": "/blogg/blog-post-2011.11.03-22.09.11-001",
+        "title": "Rogers fetisj 2 av 2",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Rogers fetisj 2 av 2", 
+                        "sent-timestamp": "03.11.2011 17:09:10", 
+                        "received-timestamp": "03.11.2011 17:09:11", 
+                        "message-id": "<CAJO1iKx=OhE0M0UE=CtzZzFrAF0b9Ta53sjXu5MgVNE-nPoEHQ@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Rogers fetisj 2 av 2",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "03.11.2011 22:09:11",
+            "text-blocks": [
+                "Roger har oppheng når det kommer til to ting: Hodelykter og sittegressklippere :-) Og når han nå har fått sitteklipper med oppsamler får det ikke blitt stort bedre...hehe"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.11.03-22.09.11-001-image-1.jpg", 
+                    "height": "1536", 
+                    "width": "2048", 
+                    "orientation": "Landscape", 
+                    "original-name": "20111103_202300.jpg"
+                }
+            ]
+        }
+    }
+}

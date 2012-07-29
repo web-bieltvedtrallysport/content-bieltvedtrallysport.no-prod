@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.10.09-06.24.44-001",
+        "path": "/blogg/blog-post-2010.10.09-06.24.44-001",
+        "title": "Tidlig opp",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Tidlig opp", 
+                        "sent-timestamp": "09.10.2010 00:22:13", 
+                        "received-timestamp": "09.10.2010 00:24:44", 
+                        "message-id": "<BLU0-SMTP19361A336B786ECD4DB090DA1510@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Tidlig opp",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "09.10.2010 06:24:44",
+            "text-blocks": [
+                "Da er på vei opp til servic og litt morgen stell.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.10.09-06.24.44-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

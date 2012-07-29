@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.23-00.00.00-005",
+        "path": "/blogg/blog-post-2008.05.23-00.00.00-005",
+        "title": "inne til siste service. Hatt mye",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "inne til siste service. Hatt mye",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "23.05.2008",
+            "text-blocks": [
+                "inne til siste service. Hatt mye problemer i dag. Sliter med og finne flyten. Begynner og bli beder da, greit fornøyd med siste ss. Hatt en pungtering, tapte da 4 og et halvt minutt på ss 4. Bilen er ikke optimal og kjøre. Men vi er i gjennom første dag. Ny dag i morgen og nye muligheter.."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_4837116f588ce.jpg"
+                }
+            ]
+        }
+    }
+}

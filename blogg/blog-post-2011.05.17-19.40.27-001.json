@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.17-19.40.27-001",
+        "path": "/blogg/blog-post-2011.05.17-19.40.27-001",
+        "title": "Slik feirer jeg 17. mai i år",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Slik feirer jeg 17. mai i år", 
+                        "sent-timestamp": "17.05.2011 13:39:51", 
+                        "received-timestamp": "17.05.2011 13:40:27", 
+                        "message-id": "<-6583774131827462925@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Slik feirer jeg 17. mai i år",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.05.2011 19:40:27",
+            "text-blocks": [
+                "Med bilkjøring på tvers av Sverige."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.17-19.40.27-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1273.jpg"
+                }
+            ]
+        }
+    }
+}

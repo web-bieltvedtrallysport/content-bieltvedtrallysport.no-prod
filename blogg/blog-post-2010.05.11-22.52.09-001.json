@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.11-22.52.09-001",
+        "path": "/blogg/blog-post-2010.05.11-22.52.09-001",
+        "title": "Snart klart for South Swedish Rally",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Snart klart for South Swedish Rally", 
+                        "sent-timestamp": "11.05.2010 16:50:34", 
+                        "received-timestamp": "11.05.2010 16:52:09", 
+                        "message-id": "<4be9c375.1067f10a.09c9.443e@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Snart klart for South Swedish Rally",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.05.2010 22:52:09",
+            "text-blocks": [
+                "2XEilertsen tar seg av siste finpussen før bilen går på hengeren:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.11-22.52.09-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0338.jpg"
+                }
+            ]
+        }
+    }
+}

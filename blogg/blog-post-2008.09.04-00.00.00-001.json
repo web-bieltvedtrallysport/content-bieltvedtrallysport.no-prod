@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.04-00.00.00-001",
+        "path": "/blogg/blog-post-2008.09.04-00.00.00-001",
+        "title": "Det heter seg at det er bra å ko",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Det heter seg at det er bra å ko",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "04.09.2008",
+            "text-blocks": [
+                "Det heter seg at det er bra å koble ut med andre ting enn rally rett før et løp, for å øke motivasjonen. Så hva passer vel ikke bedre enn å lage pizza!? Å siden jeg skal hompe rundt i en rallybil, er den for anledningen laget av kyllingkjøttdeig (skal visst være så bra..)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48c011af3b5cf.jpg"
+                }
+            ]
+        }
+    }
+}

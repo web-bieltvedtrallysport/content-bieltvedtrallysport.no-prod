@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.06.06-00.00.00-002",
+        "path": "/blogg/blog-post-2008.06.06-00.00.00-002",
+        "title": "Ferdig med gjennomkjøring",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Ferdig med gjennomkjøring",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.06.2008",
+            "text-blocks": [
+                "Ferdig med gjenomkjøring og teknisk. Skal til Sørumsand og kjøre shakedown. En liten test før løpet begynner i morgen. På bildet ser dere Lars og Tina. De skal kjøre i morgen de også."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_484961a9b5bc0.jpg"
+                }
+            ]
+        }
+    }
+}

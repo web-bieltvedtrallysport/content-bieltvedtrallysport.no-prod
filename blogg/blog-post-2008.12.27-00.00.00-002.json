@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.12.27-00.00.00-002",
+        "path": "/blogg/blog-post-2008.12.27-00.00.00-002",
+        "title": "Da er det igang igjen etter en g",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er det igang igjen etter en g",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.12.2008",
+            "text-blocks": [
+                "Da er det igang igjen etter en god pause. Gjennom kjøring til romjulsrally i elverum. Flotte vinterveier. Litt litte brøytekanter. VI gleder oss til og kjøre ræser bil fort."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_49561a9d8c04a.jpg"
+                }
+            ]
+        }
+    }
+}

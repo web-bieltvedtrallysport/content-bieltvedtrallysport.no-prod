@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.12.28-13.03.06-001",
+        "path": "/blogg/blog-post-2010.12.28-13.03.06-001",
+        "title": "Årets julegave til TOOLS Norge :)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Årets julegave til TOOLS Norge :)", 
+                        "sent-timestamp": "28.12.2010 06:01:42", 
+                        "received-timestamp": "28.12.2010 07:03:06", 
+                        "message-id": "<7161248593637211675@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Årets julegave til TOOLS Norge :)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "28.12.2010 13:03:06",
+            "text-blocks": [
+                "Importert fra England, lakkert og dekorert i"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.12.28-13.03.06-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0890.jpg"
+                }
+            ]
+        }
+    }
+}

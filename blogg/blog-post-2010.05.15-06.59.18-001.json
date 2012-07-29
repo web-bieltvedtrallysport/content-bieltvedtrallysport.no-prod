@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.15-06.59.18-001",
+        "path": "/blogg/blog-post-2010.05.15-06.59.18-001",
+        "title": "Tidlig opp i dag.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "15.05.2010 00:59:17", 
+                        "received-timestamp": "15.05.2010 00:59:18", 
+                        "message-id": "<AX09NgltLzqJ2vkVH@xnotn03.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Tidlig opp i dag.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "15.05.2010 06:59:18",
+            "text-blocks": [
+                "Tidlig opp i dag. Ole fyller bensin."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.15-06.59.18-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "15052010562.jpg"
+                }
+            ]
+        }
+    }
+}

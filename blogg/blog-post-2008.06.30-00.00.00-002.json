@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.06.30-00.00.00-002",
+        "path": "/blogg/blog-post-2008.06.30-00.00.00-002",
+        "title": "Ble som vi regnet med",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Ble som vi regnet med",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.06.2008",
+            "text-blocks": [
+                "Ble som vi regnet med, ca. 15 hk mindre med Shell racefuel (FiA fuel) enn E85. Per har holdt på i hele dag, da det dukket opp problemer underveis med å aktivisere anti-lag systemet."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48689d4439c0c.jpg"
+                }
+            ]
+        }
+    }
+}

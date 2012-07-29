@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.02.11-00.00.00-001",
+        "path": "/blogg/blog-post-2009.02.11-00.00.00-001",
+        "title": "Dag 2 med gjennomkjøring er godt",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Dag 2 med gjennomkjøring er godt",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "11.02.2009",
+            "text-blocks": [
+                "Dag 2 med gjennomkjøring er godt i gang. Kjempe forhold på prøven i dag. Nydelig vær, kanskje litt kaldt."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/02/6b50f_DSC00441.JPG"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.07.02-00.00.00-002",
+        "path": "/blogg/blog-post-2008.07.02-00.00.00-002",
+        "title": "Nå er det bare nyte livet. 32 gr",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå er det bare nyte livet. 32 gr",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "02.07.2008",
+            "text-blocks": [
+                "Nå er det bare nyte livet. 32 grader og is hører sammen! Og hvis du lurer Kim: de hadde de ikke tutti frutti, men skal ta med hvis jeg finner.."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_486b4e0b64d64.jpg"
+                }
+            ]
+        }
+    }
+}

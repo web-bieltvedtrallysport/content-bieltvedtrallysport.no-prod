@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.16-00.00.00-003",
+        "path": "/blogg/blog-post-2009.05.16-00.00.00-003",
+        "title": "Nå begynner det og bli som normal",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå begynner det og bli som normal",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "16.05.2009",
+            "text-blocks": [
+                "Nå begynner det og bli som normalt.  har enda litt og gå på."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/c8b43_16052009.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.04.26-21.12.27-001",
+        "path": "/blogg/blog-post-2010.04.26-21.12.27-001",
+        "title": "Klar for test",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Klar for test", 
+                        "sent-timestamp": "26.04.2010 21:12:27", 
+                        "received-timestamp": "26.04.2010 21:12:27", 
+                        "message-id": "<w2l84e593e31004261212i27ae49aapac284fad572163a5@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Klar for test",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.04.2010 21:12:27",
+            "text-blocks": [
+                "Første løpet med årets støtdempere på grus underlag står for tur. Derfor er det ekstra viktig å få justert seg inn før start på Rally Sørland."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.04.26-21.12.27-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0270.jpg"
+                }
+            ]
+        }
+    }
+}

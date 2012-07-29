@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.06.27-23.27.41-001",
+        "path": "/blogg/blog-post-2011.06.27-23.27.41-001",
+        "title": "Obligatorisk nattbord-bibel",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Obligatorisk nattbord-bibel", 
+                        "sent-timestamp": "27.06.2011 17:26:19", 
+                        "received-timestamp": "27.06.2011 17:27:41", 
+                        "message-id": "<4034721057743280675@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Obligatorisk nattbord-bibel",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "27.06.2011 23:27:41",
+            "text-blocks": [
+                "Luna boka er et \"must\" for alle med interesse i mekanikk, kjemi, verktøy & utstyr. I tillegg til å være et oppslagsverk for hva som faktisk finnes av verktøy, er dette også en informasjonskilde for alt fra gjengetabeller, omregningstabeller, datablader til grunnleggende fremgangsprosedyrer etc.  Luna produktene kan kjøpes hos, ikke overraskende, TOOLS...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.06.27-23.27.41-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1343.jpg"
+                }
+            ]
+        }
+    }
+}

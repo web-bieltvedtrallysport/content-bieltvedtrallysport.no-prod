@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.27-20.30.23-001",
+        "path": "/blogg/blog-post-2009.07.27-20.30.23-001",
+        "title": "Krokket match.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Krokket match. Gjett hvem som vant....he", 
+                        "sent-timestamp": "27.07.2009 20:30:22", 
+                        "received-timestamp": "27.07.2009 20:30:23", 
+                        "message-id": "<24267974.1248719422722.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Krokket match.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "27.07.2009 20:30:23",
+            "text-blocks": [
+                "Krokket match. Gjett hvem som vant....hehe."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.27-20.30.23-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01109.jpg"
+                }
+            ]
+        }
+    }
+}

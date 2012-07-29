@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.28-00.00.00-001",
+        "path": "/blogg/blog-post-2009.04.28-00.00.00-001",
+        "title": "Vgblogg",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Vgblogg",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "28.04.2009",
+            "text-blocks": [
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/04/f7c0f_<DSC01038.JPG>“><img src="
+                }
+            ]
+        }
+    }
+}

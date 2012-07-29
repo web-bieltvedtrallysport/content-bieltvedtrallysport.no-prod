@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.04.28-17.40.01-001",
+        "path": "/blogg/blog-post-2012.04.28-17.40.01-001",
+        "title": "Ferdig for i dag",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ferdig for i dag", 
+                        "sent-timestamp": "28.04.2012 11:40:01", 
+                        "received-timestamp": "28.04.2012 11:40:01", 
+                        "message-id": "<CAJO1iKwi=QsVC_emsVLo=O0xnJ=XhyvMN0-SyeeY9EzvcFw_-Q@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Ferdig for i dag",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "28.04.2012 17:40:01",
+            "text-blocks": [
+                "5 mil kjøring på vei som minner veldig om Rally Sørland."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.04.28-17.40.01-001-image-1.jpg", 
+                    "height": "768", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120428_165022.jpg"
+                }
+            ]
+        }
+    }
+}

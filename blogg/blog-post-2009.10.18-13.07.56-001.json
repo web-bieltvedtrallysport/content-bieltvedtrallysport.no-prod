@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.10.18-13.07.56-001",
+        "path": "/blogg/blog-post-2009.10.18-13.07.56-001",
+        "title": "Har vært på studietur hos Voldsund Motor i Ålesund.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Har vært på studietur hos Voldsund Motor", 
+                        "sent-timestamp": "18.10.2009 07:07:55", 
+                        "received-timestamp": "18.10.2009 07:07:56", 
+                        "message-id": "<27618026.1255864075825.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Har vært på studietur hos Voldsund Motor i Ålesund.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "18.10.2009 13:07:56",
+            "text-blocks": [
+                "Har vært på studietur hos Voldsund Motor i Ålesund. Og er man først i Ålesund, må man jo selvfølgelig på akvariet..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.10.18-13.07.56-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01224.jpg"
+                }
+            ]
+        }
+    }
+}

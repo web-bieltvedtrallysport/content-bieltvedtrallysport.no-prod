@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "kontakt-oss",
+        "path": "/kontakt-oss",
+        "title": "Kontakt oss",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "kontakt_oss"
+    },
+    "content": {
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.06.19-00.00.00-002",
+        "path": "/blogg/blog-post-2009.06.19-00.00.00-002",
+        "title": "Da er vi innom TOOLS i Askim.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er vi innom TOOLS i Askim.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "19.06.2009",
+            "text-blocks": [
+                "Da er vi innom TOOLS i Askim."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/06/17af7_19062009.jpg"
+                }
+            ]
+        }
+    }
+}

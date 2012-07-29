@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.02.29-00.00.00-003",
+        "path": "/blogg/blog-post-2008.02.29-00.00.00-003",
+        "title": "Teknisk ok som alltid:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Teknisk ok som alltid:)",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "29.02.2008",
+            "text-blocks": [
+                "Teknisk ok som alltid:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47c8494e5f74e.jpg"
+                }
+            ]
+        }
+    }
+}

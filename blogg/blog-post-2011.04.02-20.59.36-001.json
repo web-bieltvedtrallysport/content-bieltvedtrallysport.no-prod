@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.02-20.59.36-001",
+        "path": "/blogg/blog-post-2011.04.02-20.59.36-001",
+        "title": "Ss1",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ss1", 
+                        "sent-timestamp": "02.04.2011 06:36:44", 
+                        "received-timestamp": "02.04.2011 14:59:36", 
+                        "message-id": "<BLU0-SMTP146F40C422A6079C621DA01A1A10@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Ss1",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.04.2011 20:59:36",
+            "text-blocks": [
+                "Da er vi klare for de første meterene på grus i år..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.02-20.59.36-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

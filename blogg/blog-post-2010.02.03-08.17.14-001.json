@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.03-08.17.14-001",
+        "path": "/blogg/blog-post-2010.02.03-08.17.14-001",
+        "title": "Herlig med snø.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "03.02.2010 02:17:07", 
+                        "received-timestamp": "03.02.2010 02:17:14", 
+                        "message-id": "<Awhc058YTTfmSfTzZ@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Herlig med snø.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "03.02.2010 08:17:14",
+            "text-blocks": [
+                "Herlig med snø. Men Oslo trafikken har ikke så godt av det. Møtte køen VELDIG tidlig i dag."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.03-08.17.14-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "03022010445.jpg"
+                }
+            ]
+        }
+    }
+}

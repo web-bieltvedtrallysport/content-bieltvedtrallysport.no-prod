@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.08-13.46.53-001",
+        "path": "/blogg/blog-post-2009.08.08-13.46.53-001",
+        "title": "André er godt igang med å få bilen i tipp topp stand igjen.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "André er godt igang med å få bilen i tip", 
+                        "sent-timestamp": "08.08.2009 13:46:52", 
+                        "received-timestamp": "08.08.2009 13:46:53", 
+                        "message-id": "<18558459.1249732012472.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "André er godt igang med å få bilen i tipp topp stand igjen.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "08.08.2009 13:46:53",
+            "text-blocks": [
+                "André er godt igang med å få bilen i tipp topp stand igjen. Morro å se fagfolk strekke opp bil."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.08-13.46.53-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01142.jpg"
+                }
+            ]
+        }
+    }
+}

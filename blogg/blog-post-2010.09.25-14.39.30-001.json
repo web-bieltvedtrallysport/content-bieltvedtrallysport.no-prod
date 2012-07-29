@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.09.25-14.39.30-001",
+        "path": "/blogg/blog-post-2010.09.25-14.39.30-001",
+        "title": "Masse dramatikk",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Masse dramatikk", 
+                        "sent-timestamp": "25.09.2010 08:36:33", 
+                        "received-timestamp": "25.09.2010 08:39:30", 
+                        "message-id": "<BLU0-SMTP110CE5AC224BA92527B5435A1630@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Masse dramatikk",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "25.09.2010 14:39:30",
+            "text-blocks": [
+                "Vi røk en drivaksel på ss 6. Veit ikke hvordan det går enda.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.09.25-14.39.30-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

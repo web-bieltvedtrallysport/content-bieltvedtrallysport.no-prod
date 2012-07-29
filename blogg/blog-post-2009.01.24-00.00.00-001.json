@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.01.24-00.00.00-001",
+        "path": "/blogg/blog-post-2009.01.24-00.00.00-001",
+        "title": "Da begynner det og nærme seg:) s",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da begynner det og nærme seg:) s",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.01.2009",
+            "text-blocks": [
+                "Da begynner det og nærme seg:) snør masse i dag. Dem sa at dem som brøyter hadde problemer med og få bort snøen. Enkelte steder føyker det helt igjen."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_497ac831929ba.jpg"
+                }
+            ]
+        }
+    }
+}

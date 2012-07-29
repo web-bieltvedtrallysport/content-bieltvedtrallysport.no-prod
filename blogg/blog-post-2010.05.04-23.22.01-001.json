@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.04-23.22.01-001",
+        "path": "/blogg/blog-post-2010.05.04-23.22.01-001",
+        "title": "Kul bil!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Kul bil!", 
+                        "sent-timestamp": "04.05.2010 23:21:30", 
+                        "received-timestamp": "04.05.2010 23:22:01", 
+                        "message-id": "<4be08ff7.0f67f10a.3b48.6721@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Kul bil!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "04.05.2010 23:22:01",
+            "text-blocks": [
+                "Og da tenker jeg på den røde...hehe"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.04-23.22.01-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0293.jpg"
+                }
+            ]
+        }
+    }
+}

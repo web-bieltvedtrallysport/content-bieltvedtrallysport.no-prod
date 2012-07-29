@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.02-00.00.00-001",
+        "path": "/blogg/blog-post-2009.05.02-00.00.00-001",
+        "title": "sveinung syntes deli var litt møk",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "sveinung syntes deli var litt møk",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.05.2009",
+            "text-blocks": [
+                "sveinung syntes deli var litt møkkete. Gutta jobber febrilsk bak på bilen. Har en bøye traværs bak."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/5cc67_02052009.jpg"
+                }
+            ]
+        }
+    }
+}

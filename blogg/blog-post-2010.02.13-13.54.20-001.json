@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.13-13.54.20-001",
+        "path": "/blogg/blog-post-2010.02.13-13.54.20-001",
+        "title": "På plass",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "På plass", 
+                        "sent-timestamp": "13.02.2010 07:52:32", 
+                        "received-timestamp": "13.02.2010 07:54:20", 
+                        "message-id": "<4b76a0f9.0f67f10a.2219.4bae@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "På plass",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "13.02.2010 13:54:20",
+            "text-blocks": [
+                "Med svensker, finner og oss nordmenn er vi 400 på tur!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.13-13.54.20-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0013.jpg"
+                }
+            ]
+        }
+    }
+}

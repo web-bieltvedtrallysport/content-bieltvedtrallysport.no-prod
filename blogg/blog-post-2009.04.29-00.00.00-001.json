@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.29-00.00.00-001",
+        "path": "/blogg/blog-post-2009.04.29-00.00.00-001",
+        "title": "bilen fra lange flate baller henge",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "bilen fra lange flate baller henge",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "29.04.2009",
+            "text-blocks": [
+                "bilen fra lange flate baller hengende etter en viking bil."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/04/f74fc_29042009.jpg"
+                }
+            ]
+        }
+    }
+}

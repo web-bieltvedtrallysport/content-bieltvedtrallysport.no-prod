@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.11.28-00.00.00-001",
+        "path": "/blogg/blog-post-2008.11.28-00.00.00-001",
+        "title": "Vektreduserende tiltak!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Vektreduserende tiltak!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "28.11.2008",
+            "text-blocks": [
+                "Vektreduserende tiltak! Med 1 visdomstann til i manko kommer jeg til å spare ca 1/10000 sek. pr løp…haha. Hører vel med at vekta ikke var største problemet. Har foreslått for Roger at han skal fjerne beina da det er dødvekt, men han er visst ikke like klar for det…:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_492fdf03f1eb5.jpg"
+                }
+            ]
+        }
+    }
+}

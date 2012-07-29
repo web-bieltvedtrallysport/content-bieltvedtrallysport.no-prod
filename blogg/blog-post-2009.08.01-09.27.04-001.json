@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.01-09.27.04-001",
+        "path": "/blogg/blog-post-2009.08.01-09.27.04-001",
+        "title": "På vei til service.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "01.08.2009 09:27:03", 
+                        "received-timestamp": "01.08.2009 09:27:04", 
+                        "message-id": "<Aaqd9TW6lf2SieXVy@xnotn03.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "På vei til service.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.08.2009 09:27:04",
+            "text-blocks": [
+                "På vei til service. Får se hvor ille det er."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.01-09.27.04-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "01082009239.jpg"
+                }
+            ]
+        }
+    }
+}

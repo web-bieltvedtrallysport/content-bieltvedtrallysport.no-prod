@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.01.26-17.52.16-001",
+        "path": "/blogg/blog-post-2012.01.26-17.52.16-001",
+        "title": "Ferdige for dagen",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ferdige for dagen", 
+                        "sent-timestamp": "26.01.2012 11:52:15", 
+                        "received-timestamp": "26.01.2012 11:52:16", 
+                        "message-id": "<CAJO1iKyD9f34FXQAfw+B0ACQUwA0i7wgN3Fd3=Ahg6bhGsrhtg@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Ferdige for dagen",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.01.2012 17:52:16",
+            "text-blocks": [
+                "Fått noen mil i ryggraden nå. Nå skal bilen til Elverum for gjennomgang. Nesten 13 mil SS venter oss på lørdag."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.01.26-17.52.16-001-image-1.jpg", 
+                    "height": "768", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120126_160555.jpg"
+                }
+            ]
+        }
+    }
+}

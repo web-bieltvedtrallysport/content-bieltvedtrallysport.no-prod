@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.10.28-14.23.23-001",
+        "path": "/blogg/blog-post-2009.10.28-14.23.23-001",
+        "title": "Nye treningsapparater på jobben.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nye treningsapparater på jobben. Den øve", 
+                        "sent-timestamp": "28.10.2009 09:23:22", 
+                        "received-timestamp": "28.10.2009 09:23:23", 
+                        "message-id": "<25818331.1256736202822.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Nye treningsapparater på jobben.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "28.10.2009 14:23:23",
+            "text-blocks": [
+                "Nye treningsapparater på jobben. Den øvelsen her er fin. Før slet jeg med vond rygg etter lange dager i rallysetet. Ikkeno problemer lenger:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.10.28-14.23.23-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01241.jpg"
+                }
+            ]
+        }
+    }
+}

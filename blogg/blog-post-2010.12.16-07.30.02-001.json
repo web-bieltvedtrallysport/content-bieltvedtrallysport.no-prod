@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.12.16-07.30.02-001",
+        "path": "/blogg/blog-post-2010.12.16-07.30.02-001",
+        "title": "Sjekk av ledningsnettet",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Sjekk av ledningsnettet", 
+                        "sent-timestamp": "16.12.2010 00:29:00", 
+                        "received-timestamp": "16.12.2010 01:30:02", 
+                        "message-id": "<6059458251956053082@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Sjekk av ledningsnettet",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "16.12.2010 07:30:02",
+            "text-blocks": [
+                "Nå sjekkes alt av jordingspunkter, utsatte ledningsstrømper etc. for skade. 400 mil på full gass setter sine spor:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.12.16-07.30.02-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0859.jpg"
+                }
+            ]
+        }
+    }
+}

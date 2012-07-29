@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.01.11-20.40.07-001",
+        "path": "/blogg/blog-post-2011.01.11-20.40.07-001",
+        "title": "Forbruksartikler fra TOOLS",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Forbruksartikler fra TOOLS", 
+                        "sent-timestamp": "11.01.2011 13:39:09", 
+                        "received-timestamp": "11.01.2011 14:40:07", 
+                        "message-id": "<2510626937858823275@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Forbruksartikler fra TOOLS",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.01.2011 20:40:07",
+            "text-blocks": [
+                "Vi har vært på handletur igjen...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.01.11-20.40.07-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0852.jpg"
+                }
+            ]
+        }
+    }
+}

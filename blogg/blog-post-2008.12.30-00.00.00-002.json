@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.12.30-00.00.00-002",
+        "path": "/blogg/blog-post-2008.12.30-00.00.00-002",
+        "title": "Hjemme igjen. Ble litt dårlig o",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Hjemme igjen. Ble litt dårlig o",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "30.12.2008",
+            "text-blocks": [
+                "Hjemme igjen. Ble litt dårlig oppdatering mot slutten av løpet i helga, grunnet lite strøm på mob. Her er Sveinung i gang med og gjøre om snø avledere bak. Hadde ca 40kilo med snø og is rundt bakstillinga når vi kom inn på service i helga."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_495a710fdf621.jpg"
+                }
+            ]
+        }
+    }
+}

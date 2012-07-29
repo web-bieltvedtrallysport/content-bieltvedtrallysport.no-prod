@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.02.10-13.40.04-001",
+        "path": "/blogg/blog-post-2012.02.10-13.40.04-001",
+        "title": "Studietur",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Studietur", 
+                        "sent-timestamp": "10.02.2012 07:40:04", 
+                        "received-timestamp": "10.02.2012 07:40:04", 
+                        "message-id": "<CAJO1iKzdtNM9Rt_fW3pzbOkM-TPDoQS1xoDbfE+ydr2n6hAmfg@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Studietur",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "10.02.2012 13:40:04",
+            "text-blocks": [
+                "Er på Svenske Rally for å studere kjørestiler:-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.02.10-13.40.04-001-image-1.jpg", 
+                    "height": "768", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120210_124838.jpg"
+                }
+            ]
+        }
+    }
+}

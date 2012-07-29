@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.05-00.00.00-002",
+        "path": "/blogg/blog-post-2009.05.05-00.00.00-002",
+        "title": "I kveld var deler av teamet i byen",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "I kveld var deler av teamet i byen",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "05.05.2009",
+            "text-blocks": [
+                "I kveld var deler av teamet i byen sammen med TOOLS og Petter. TOOLS lager noen radio “spotter”Vi hjalp til med noen lydeffekter og sånn."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/09b2e_DSC01044.jpg"
+                }
+            ]
+        }
+    }
+}

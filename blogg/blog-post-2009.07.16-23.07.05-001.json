@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.16-23.07.05-001",
+        "path": "/blogg/blog-post-2009.07.16-23.07.05-001",
+        "title": "Da har vi endelig fått en ny bloggløsning som ser ut til å fungere bra.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Da har vi endelig fått en ny bloggløsnin", 
+                        "sent-timestamp": "16.07.2009 23:07:04", 
+                        "received-timestamp": "16.07.2009 23:07:05", 
+                        "message-id": "<27932763.1247778424748.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Da har vi endelig fått en ny bloggløsning som ser ut til å fungere bra.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "16.07.2009 23:07:05",
+            "text-blocks": [
+                "Da har vi endelig fått en ny bloggløsning som ser ut til å fungere bra. Så fra nå av får også jeg lagt inn innlegg, i tillegg til Roger. På bildet ser dere reserve støtfangere til VM runden i Finland. Reglene sier nemlig at bilen skal kunne identifiseres med homologeringspapirene ut fra hver service."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.16-23.07.05-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01086.jpg"
+                }
+            ]
+        }
+    }
+}

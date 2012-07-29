@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.13-17.57.42-001",
+        "path": "/blogg/blog-post-2011.05.13-17.57.42-001",
+        "title": "Shakedown",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Shakedown", 
+                        "sent-timestamp": "13.05.2011 11:57:10", 
+                        "received-timestamp": "13.05.2011 11:57:42", 
+                        "message-id": "<BLU0-SMTP127FE83B620FC6D7611A79EA1880@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Shakedown",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "13.05.2011 17:57:42",
+            "text-blocks": [
+                "Da har vi kjørt Shakedown. Ble 3 turer.  Bilen føles bra. Men fy fader så raske veier det er..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.13-17.57.42-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

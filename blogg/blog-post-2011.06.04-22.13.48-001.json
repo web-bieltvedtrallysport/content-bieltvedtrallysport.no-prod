@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.06.04-22.13.48-001",
+        "path": "/blogg/blog-post-2011.06.04-22.13.48-001",
+        "title": "På vei hjem",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "På vei hjem", 
+                        "sent-timestamp": "04.06.2011 16:13:21", 
+                        "received-timestamp": "04.06.2011 16:13:48", 
+                        "message-id": "<BLU0-SMTP149F5FE62711E9CE7EAE421A17E0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "På vei hjem",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "04.06.2011 22:13:48",
+            "text-blocks": [
+                "Da har vi vendt nesa hjemover.. Gikk ganske bra Idag.. Ble raskeste gr.n bil og 3. Totalt..  Rune haiker med oss hjem..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.06.04-22.13.48-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

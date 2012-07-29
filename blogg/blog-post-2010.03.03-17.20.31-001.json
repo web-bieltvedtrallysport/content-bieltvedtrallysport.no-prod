@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.03.03-17.20.31-001",
+        "path": "/blogg/blog-post-2010.03.03-17.20.31-001",
+        "title": "Polish",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Polish", 
+                        "sent-timestamp": "03.03.2010 11:19:56", 
+                        "received-timestamp": "03.03.2010 11:20:31", 
+                        "message-id": "<4b8e8c4b.1701d00a.5095.70fe@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Polish",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "03.03.2010 17:20:31",
+            "text-blocks": [
+                "Morten er alltid innom onsdag før løp å sørger for pen bil og lav vindmotstand:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.03.03-17.20.31-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0131.jpg"
+                }
+            ]
+        }
+    }
+}

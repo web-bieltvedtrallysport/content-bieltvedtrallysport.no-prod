@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.01.07-07.33.16-001",
+        "path": "/blogg/blog-post-2011.01.07-07.33.16-001",
+        "title": "Subaru C4",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Subaru C4", 
+                        "sent-timestamp": "07.01.2011 00:32:00", 
+                        "received-timestamp": "07.01.2011 01:33:16", 
+                        "message-id": "<-1280462930123317956@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Subaru C4",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "07.01.2011 07:33:16",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.01.07-07.33.16-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0910.jpg"
+                }
+            ]
+        }
+    }
+}

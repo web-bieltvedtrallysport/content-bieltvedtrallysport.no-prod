@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.09.20-17.27.10-001",
+        "path": "/blogg/blog-post-2010.09.20-17.27.10-001",
+        "title": "Fortsatt ikke helt fornøyd",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Fortsatt ikke helt fornøyd", 
+                        "sent-timestamp": "20.09.2010 11:24:48", 
+                        "received-timestamp": "20.09.2010 11:27:10", 
+                        "message-id": "<BLU0-SMTP1761DE428B41AB362C7A3C4A17E0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Fortsatt ikke helt fornøyd",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "20.09.2010 17:27:10",
+            "text-blocks": [
+                "Bytting av fjærer igjen.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.09.20-17.27.10-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

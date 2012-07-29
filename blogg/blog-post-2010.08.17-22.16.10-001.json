@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.08.17-22.16.10-001",
+        "path": "/blogg/blog-post-2010.08.17-22.16.10-001",
+        "title": "Trening",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Trening", 
+                        "sent-timestamp": "17.08.2010 16:15:03", 
+                        "received-timestamp": "17.08.2010 16:16:10", 
+                        "message-id": "<9045432268605417415@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Trening",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.08.2010 22:16:10",
+            "text-blocks": [
+                "I dag skal det testes en ny demper shimming. Det blir spennende!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.08.17-22.16.10-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0590.jpg"
+                }
+            ]
+        }
+    }
+}

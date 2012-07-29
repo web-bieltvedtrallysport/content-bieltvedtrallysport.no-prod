@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.06.06-00.00.00-001",
+        "path": "/blogg/blog-post-2008.06.06-00.00.00-001",
+        "title": "I helga er er det Auskog Hørland",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "I helga er er det Auskog Hørland",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.06.2008",
+            "text-blocks": [
+                "I helga er er det Auskog Hørland. På vei til innsjekk. Nydelig rally vær."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48490b3e9fe85.jpg"
+                }
+            ]
+        }
+    }
+}

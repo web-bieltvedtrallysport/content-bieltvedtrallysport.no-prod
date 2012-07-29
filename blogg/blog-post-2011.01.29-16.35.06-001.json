@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.01.29-16.35.06-001",
+        "path": "/blogg/blog-post-2011.01.29-16.35.06-001",
+        "title": "Teknisk etterkontroll",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Teknisk etterkontroll", 
+                        "sent-timestamp": "29.01.2011 10:32:32", 
+                        "received-timestamp": "29.01.2011 10:35:06", 
+                        "message-id": "<BLU0-SMTP1956F7669F1CE10BA587874A1E00@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Teknisk etterkontroll",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "29.01.2011 16:35:06",
+            "text-blocks": [
+                "Da er vi inne til etterkontroll.. Alt i orden...", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.01.29-16.35.06-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

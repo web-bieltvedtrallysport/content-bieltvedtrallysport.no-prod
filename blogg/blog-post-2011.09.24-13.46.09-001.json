@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.24-13.46.09-001",
+        "path": "/blogg/blog-post-2011.09.24-13.46.09-001",
+        "title": "Ss5",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ss5", 
+                        "sent-timestamp": "24.09.2011 07:44:48", 
+                        "received-timestamp": "24.09.2011 07:46:09", 
+                        "message-id": "<BLU0-SMTP222BCD9A2AC66FF16E462EDA10E0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Ss5",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.09.2011 13:46:09",
+            "text-blocks": [
+                "Greit igjennom. Ikke helt flyt.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.24-13.46.09-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

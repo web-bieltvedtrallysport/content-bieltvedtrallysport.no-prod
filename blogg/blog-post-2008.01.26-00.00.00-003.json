@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.01.26-00.00.00-003",
+        "path": "/blogg/blog-post-2008.01.26-00.00.00-003",
+        "title": "Er nå på vei inn til servic….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Er nå på vei inn til servic….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.01.2008",
+            "text-blocks": [
+                "Er nå på vei inn til servic. Kjørte av veien på ss1 og tapte ca4 min. Mista litt fokus av det så ss2 var ikke helt topp. Ss 3 gikk greit. Sveinung justerer dempere, han er fornøyd med at han kjenner forbedringer på bilen."
+            ],
+            "images": [
+                {
+                    "name": ""
+                }
+            ]
+        }
+    }
+}

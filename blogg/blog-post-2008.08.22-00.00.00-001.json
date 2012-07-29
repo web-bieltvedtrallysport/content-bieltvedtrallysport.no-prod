@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.22-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.22-00.00.00-001",
+        "title": "Ingen sak å være meg, når jeg ko",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Ingen sak å være meg, når jeg ko",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "22.08.2008",
+            "text-blocks": [
+                "Ingen sak å være meg, når jeg kom ut i servicebilen i dag tidlig var alt pakket og klart for tur med en liten huskelapp på sete..:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48ae48946d846.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.19-08.44.48-001",
+        "path": "/blogg/blog-post-2009.07.19-08.44.48-001",
+        "title": "Ny dag.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "19.07.2009 08:44:46", 
+                        "received-timestamp": "19.07.2009 08:44:48", 
+                        "message-id": "<Au90xob_c-DeSOKfS@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Ny dag.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "19.07.2009 08:44:48",
+            "text-blocks": [
+                "Ny dag. Nye muligheter."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.19-08.44.48-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "19072009182.jpg"
+                }
+            ]
+        }
+    }
+}

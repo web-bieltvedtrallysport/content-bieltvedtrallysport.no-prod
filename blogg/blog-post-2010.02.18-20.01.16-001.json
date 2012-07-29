@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.18-20.01.16-001",
+        "path": "/blogg/blog-post-2010.02.18-20.01.16-001",
+        "title": "150 hk!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "150 hk!", 
+                        "sent-timestamp": "18.02.2010 14:00:57", 
+                        "received-timestamp": "18.02.2010 14:01:16", 
+                        "message-id": "<4b7d8e75.1067f10a.4cd6.ffffb0fa@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "150 hk!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "18.02.2010 20:01:16",
+            "text-blocks": [
+                "Ole og Per Einar har kjøpt leketøy. 2-takt på 800 ccm. gir ilter lyd..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.18-20.01.16-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0044.jpg"
+                }
+            ]
+        }
+    }
+}

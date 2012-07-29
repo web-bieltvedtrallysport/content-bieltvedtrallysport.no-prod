@@ -1,0 +1,71 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-44",
+        "path": "/fotoalbum/fotoalbum-44",
+        "title": "Aurskog Høland Rally 2011",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2011-aurskog-hoeland-rally-1", 
+                "original-image": {
+                    "file-name": "Sveinung Portrett - Geir Lundby PRL.jpg", 
+                    "rights": "PRL" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "",
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-aurskog-hoeland-rally/w180/2011-aurskog-hoeland-rally-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-aurskog-hoeland-rally/w285/2011-aurskog-hoeland-rally-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2011-aurskog-hoeland-rally/w500/2011-aurskog-hoeland-rally-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2011-aurskog-hoeland-rally-2", 
+                "original-image": {
+                    "file-name": "Sveinung SS5 - Geir Lundby PRL.jpg", 
+                    "rights": "PRL" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-aurskog-hoeland-rally/w180/2011-aurskog-hoeland-rally-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-aurskog-hoeland-rally/w285/2011-aurskog-hoeland-rally-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2011-aurskog-hoeland-rally/w500/2011-aurskog-hoeland-rally-2_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

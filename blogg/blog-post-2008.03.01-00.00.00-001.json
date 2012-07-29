@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.01-00.00.00-001",
+        "path": "/blogg/blog-post-2008.03.01-00.00.00-001",
+        "title": "nå er vi på vei ut til ss 3 etter…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "nå er vi på vei ut til ss 3 etter…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.03.2008",
+            "text-blocks": [
+                "Nå er vi på vei ut til ss 3 etter service. Pga varme grader ble det lange pigger, da vi tror issåla på veien er \"råtten\". Så får vi se om det stemmer. Starten er flyttet noen hundre meter pga grus. Ca 5 sek opp til kollevold, ca 10 opp til stenshornet. Nå er det bare og ladde som dem sier."
+            ],
+            "images": [
+                {
+                    "name": ""
+                }
+            ]
+        }
+    }
+}

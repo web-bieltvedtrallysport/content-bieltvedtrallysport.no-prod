@@ -1,0 +1,99 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-42",
+        "path": "/fotoalbum/fotoalbum-42",
+        "title": "Rally Finnskog 2011",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2011-rally-finnskog-1", 
+                "original-image": {
+                    "file-name": "2879.jpg", 
+                    "rights": "rsfoto.net" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "115", 
+                        "file": "/2011-rally-finnskog/w180/2011-rally-finnskog-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "183", 
+                        "file": "/2011-rally-finnskog/w285/2011-rally-finnskog-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "321", 
+                        "file": "/2011-rally-finnskog/w500/2011-rally-finnskog-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2011-rally-finnskog-2", 
+                "original-image": {
+                    "file-name": "Finnskogrally 2011 - FOTO_Robert Stormyrbakken II.jpg", 
+                    "rights": "rsfoto.net" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-rally-finnskog/w180/2011-rally-finnskog-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-rally-finnskog/w285/2011-rally-finnskog-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2011-rally-finnskog/w500/2011-rally-finnskog-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2011-rally-finnskog-3", 
+                "original-image": {
+                    "file-name": "Finnskogrally 2011 - FOTO_Thomas Myhre Hansen.JPG", 
+                    "rights": "rsfoto.net" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "110", 
+                        "file": "/2011-rally-finnskog/w180/2011-rally-finnskog-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "175", 
+                        "file": "/2011-rally-finnskog/w285/2011-rally-finnskog-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "306", 
+                        "file": "/2011-rally-finnskog/w500/2011-rally-finnskog-3_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

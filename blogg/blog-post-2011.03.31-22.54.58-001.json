@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.03.31-22.54.58-001",
+        "path": "/blogg/blog-post-2011.03.31-22.54.58-001",
+        "title": "Da er vi på tur nedover.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Da er vi på tur nedover.", 
+                        "sent-timestamp": "31.03.2011 16:45:01", 
+                        "received-timestamp": "31.03.2011 16:54:58", 
+                        "message-id": "<BLU0-SMTP205443AFCA8C5A3BDA967F1A1BF0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Da er vi på tur nedover.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "31.03.2011 22:54:58",
+            "text-blocks": [
+                "Kom et stykke ned i Sverige og plutselig så bare var den der igjen...:-)", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.03.31-22.54.58-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

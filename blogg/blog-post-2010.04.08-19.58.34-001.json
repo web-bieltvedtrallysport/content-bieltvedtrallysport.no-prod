@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.04.08-19.58.34-001",
+        "path": "/blogg/blog-post-2010.04.08-19.58.34-001",
+        "title": "Nyåpning i Askim",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nyåpning i Askim", 
+                        "sent-timestamp": "08.04.2010 13:57:51", 
+                        "received-timestamp": "08.04.2010 13:58:34", 
+                        "message-id": "<4bbe1946.0f67f10a.6cb7.184f@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Nyåpning i Askim",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "08.04.2010 19:58:34",
+            "text-blocks": [
+                "Han i midten av bildet er eldstebror til Roger, og prøver nå iherdig å prakke på meg utstyr fra Nilfisk ALTO :)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.04.08-19.58.34-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0234.jpg"
+                }
+            ]
+        }
+    }
+}

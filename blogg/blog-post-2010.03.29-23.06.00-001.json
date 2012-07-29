@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.03.29-23.06.00-001",
+        "path": "/blogg/blog-post-2010.03.29-23.06.00-001",
+        "title": "Bra greier",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Bra greier", 
+                        "sent-timestamp": "29.03.2010 17:05:18", 
+                        "received-timestamp": "29.03.2010 17:06:00", 
+                        "message-id": "<4bb11636.0e67f10a.4299.ffffc312@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Bra greier",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "29.03.2010 23:06:00",
+            "text-blocks": [
+                "Må si jeg er imponert av denne dogbox'en fra Martin Schanche Racing. Etter 270 mil SS bytter vi deler for 5000 kr bare for å være helt på den sikre siden. Det er mange clutch-frie mil for penga:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.03.29-23.06.00-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0181.jpg"
+                }
+            ]
+        }
+    }
+}

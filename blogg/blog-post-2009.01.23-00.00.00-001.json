@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.01.23-00.00.00-001",
+        "path": "/blogg/blog-post-2009.01.23-00.00.00-001",
+        "title": "ferdig med gjennomkjøring. Nå sk",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "ferdig med gjennomkjøring. Nå sk",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "23.01.2009",
+            "text-blocks": [
+                "ferdig med gjennomkjøring. Nå skal bilen settes i varmt verksted til i morgen."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_4979c311135f0.jpg"
+                }
+            ]
+        }
+    }
+}

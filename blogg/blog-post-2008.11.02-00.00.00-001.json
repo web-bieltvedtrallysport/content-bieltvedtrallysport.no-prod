@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.11.02-00.00.00-001",
+        "path": "/blogg/blog-post-2008.11.02-00.00.00-001",
+        "title": "Tauing av bil. Finn en feil… B",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Tauing av bil. Finn en feil… B",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "02.11.2008",
+            "text-blocks": [
+                "Tauing av bil. Finn en feil… Bilen stoppa 30 meter fra dieselpumpa:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_490dc0d60a9e8.jpg"
+                }
+            ]
+        }
+    }
+}

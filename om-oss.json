@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "om-oss",
+        "path": "/om-oss",
+        "title": "Om oss",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "om_oss"
+    },
+    "content": {
+    }
+}

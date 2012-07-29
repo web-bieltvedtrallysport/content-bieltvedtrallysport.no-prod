@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.09.22-19.20.33-001",
+        "path": "/blogg/blog-post-2009.09.22-19.20.33-001",
+        "title": "Etter grus kjøring er det viktig og gjøre ordentlig reint.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "22.09.2009 13:20:31", 
+                        "received-timestamp": "22.09.2009 13:20:33", 
+                        "message-id": "<A5tPdSeLJ1E3Ga9Xg@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Etter grus kjøring er det viktig og gjøre ordentlig reint.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "22.09.2009 19:20:33",
+            "text-blocks": [
+                "Etter grus kjøring er det viktig og gjøre ordentlig reint. Her ser dere Andre tar den jobben."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.09.22-19.20.33-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "22092009276.jpg"
+                }
+            ]
+        }
+    }
+}

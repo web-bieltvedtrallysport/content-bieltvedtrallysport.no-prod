@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.13-21.21.38-001",
+        "path": "/blogg/blog-post-2010.02.13-21.21.38-001",
+        "title": "Til og med live musikk her:-)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Til og med live musikk her:-)", 
+                        "sent-timestamp": "13.02.2010 15:20:41", 
+                        "received-timestamp": "13.02.2010 15:21:38", 
+                        "message-id": "<4b7709cf.0508d00a.42a9.ffffdb87@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Til og med live musikk her:-)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "13.02.2010 21:21:38",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.13-21.21.38-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0012.jpg"
+                }
+            ]
+        }
+    }
+}

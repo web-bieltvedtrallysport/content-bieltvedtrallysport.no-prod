@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.15-22.00.00-001",
+        "path": "/blogg/blog-post-2010.06.15-22.00.00-001",
+        "title": "Ut på tur!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ut på tur!", 
+                        "sent-timestamp": "21.06.2010 17:31:21", 
+                        "received-timestamp": "21.06.2010 17:31:51", 
+                        "message-id": "<4c1fda45.9becd80a.4746.0dbd@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Ut på tur!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "21.06.2010 23:31:51",
+            "text-blocks": [
+                "Vi har bråbestemt oss for å kjøre rally i Danmark til helga. Pga. kort varsel har kun en mekaniker mulighet for å være med, og testing har vi ikke rukket. Men vi gjør det beste ut av det. Måtte bare kjøre litt asfalt i år også:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.15-22.00.00-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0436.jpg"
+                }
+            ]
+        }
+    }
+}

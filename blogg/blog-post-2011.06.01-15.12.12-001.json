@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.06.01-15.12.12-001",
+        "path": "/blogg/blog-post-2011.06.01-15.12.12-001",
+        "title": "Fast Rebound System",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Fast Rebound System", 
+                        "sent-timestamp": "01.06.2011 09:11:22", 
+                        "received-timestamp": "01.06.2011 09:12:12", 
+                        "message-id": "<-4589742750954879643@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Fast Rebound System",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "01.06.2011 15:12:12",
+            "text-blocks": [
+                "Her har vi det støtdemper fabrikanten kaller FRS. Når ett av fjørbeinene har mindre enn 200 kg. vekt på seg (feks. over en bakketopp), sørger fjørskivene på bildet for at returdempingen (rebound) gradvis åpner seg helt opp og demperen skytes ut til max utfjøring. Smart løsning som fungerer bra over gupp og hopp, siden hjulene får mer kontakt med bakken. Idéen kommer opprinnelig fra flyindustrien hvor det hjelper til ved landing."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.06.01-15.12.12-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1310.jpg"
+                }
+            ]
+        }
+    }
+}

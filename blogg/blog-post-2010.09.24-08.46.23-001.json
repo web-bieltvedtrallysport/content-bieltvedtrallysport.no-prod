@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.09.24-08.46.23-001",
+        "path": "/blogg/blog-post-2010.09.24-08.46.23-001",
+        "title": "Klar for gjennomkjøring",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Klar for gjennomkjøring", 
+                        "sent-timestamp": "24.09.2010 02:44:30", 
+                        "received-timestamp": "24.09.2010 02:46:23", 
+                        "message-id": "<BLU0-SMTP140E31E6D2ED96FA4762728A1620@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Klar for gjennomkjøring",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.09.2010 08:46:23",
+            "text-blocks": [
+                "Video fra i fjor i bilen.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.09.24-08.46.23-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

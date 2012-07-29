@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.26-00.00.00-003",
+        "path": "/blogg/blog-post-2008.09.26-00.00.00-003",
+        "title": "Sitter nå og retter litt noter.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Sitter nå og retter litt noter.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.09.2008",
+            "text-blocks": [
+                "Sitter nå og retter litt noter. Vi prøver som alltid og gjøre det enklest mulig, men blir alikevel mye beskriving av svingene nå. Skal prøve og ta i litt ekstra i morgen og da vil Sveinung ha med mest mulig om hvor bilen skal plasseres i sving. Det er viktig når marginene blir mindre:) Skal ut og kjøre gjennom ss3 nå. Gromme veier."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48dcfedfb63bd.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.05-00.00.00-007",
+        "path": "/blogg/blog-post-2008.09.05-00.00.00-007",
+        "title": "Tar en liten opptattering på vær",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Tar en liten opptattering på vær",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "05.09.2008",
+            "text-blocks": [
+                "Tar en liten opptattering på været i morgen. Ser ut til og bli litt regn fra kl 10 og utover. Blir vannskelig og bestemme seg for hvilken deg man skal velge. Natta"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48c18da46eaa2.jpg"
+                }
+            ]
+        }
+    }
+}

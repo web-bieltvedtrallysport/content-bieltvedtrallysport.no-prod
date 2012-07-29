@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.03-00.00.00-007",
+        "path": "/blogg/blog-post-2008.05.03-00.00.00-007",
+        "title": "Sveinung er kjendis. Henger…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Sveinung er kjendis. Henger…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "03.05.2008",
+            "text-blocks": [
+                "Sveinung er kjendis. Henger reklame med bilde av han og greier i mandal."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_481c88c17e0c1.jpg"
+                }
+            ]
+        }
+    }
+}

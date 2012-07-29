@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.04-20.20.08-001",
+        "path": "/blogg/blog-post-2010.06.04-20.20.08-001",
+        "title": "Da har jeg kommet meg hjem..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "04.06.2010 14:20:06", 
+                        "received-timestamp": "04.06.2010 14:20:08", 
+                        "message-id": "<A-Qfgiv0D4fxGjOj4@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da har jeg kommet meg hjem..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "04.06.2010 20:20:08",
+            "text-blocks": [
+                "Da har jeg kommet meg hjem.. Litt deilig og uvant og være hjemme og grille dagen føre løp.. Marthe og Linn skal lage kylling og pasta salat til i morgen.."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.04-20.20.08-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "04062010583.jpg"
+                }
+            ]
+        }
+    }
+}

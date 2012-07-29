@@ -1,0 +1,99 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-06",
+        "path": "/fotoalbum/fotoalbum-06",
+        "title": "Teambilder februar 2008",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2008-teambilder-1-1", 
+                "original-image": {
+                    "file-name": "IMG_0874.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-teambilder-1/w180/2008-teambilder-1-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-teambilder-1/w285/2008-teambilder-1-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-teambilder-1/w500/2008-teambilder-1-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-teambilder-1-2", 
+                "original-image": {
+                    "file-name": "IMG_0934.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-teambilder-1/w180/2008-teambilder-1-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-teambilder-1/w285/2008-teambilder-1-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-teambilder-1/w500/2008-teambilder-1-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-teambilder-1-3", 
+                "original-image": {
+                    "file-name": "IMG_0937.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-teambilder-1/w180/2008-teambilder-1-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-teambilder-1/w285/2008-teambilder-1-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-teambilder-1/w500/2008-teambilder-1-3_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

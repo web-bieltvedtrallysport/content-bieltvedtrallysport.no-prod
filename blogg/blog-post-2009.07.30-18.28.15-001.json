@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.30-18.28.15-001",
+        "path": "/blogg/blog-post-2009.07.30-18.28.15-001",
+        "title": "Ikke lenge igjen..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "30.07.2009 18:28:14", 
+                        "received-timestamp": "30.07.2009 18:28:15", 
+                        "message-id": "<AYLjTqmS-NZXPKNtm@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Ikke lenge igjen..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "30.07.2009 18:28:15",
+            "text-blocks": [
+                "Ikke lenge igjen.. Skal kjøre mot Raikonen på første ss."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.30-18.28.15-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "30072009225.jpg"
+                }
+            ]
+        }
+    }
+}

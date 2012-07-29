@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.22-00.00.00-001",
+        "path": "/blogg/blog-post-2008.03.22-00.00.00-001",
+        "title": "Da er jeg i gang m blogg også!…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er jeg i gang m blogg også!…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "22.03.2008",
+            "text-blocks": [
+                "Da er jeg i gang m blogg også! Skal oppdatere litt mellom løpene om hva som skjer, mens kartleserens blogg må følges under løpene. Har brukt hele påsken på å være syk, så håper det snur seg snart..:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_47e57c7f25fd8.jpg"
+                }
+            ]
+        }
+    }
+}

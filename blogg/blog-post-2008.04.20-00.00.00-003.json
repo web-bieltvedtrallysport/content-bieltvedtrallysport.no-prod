@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.04.20-00.00.00-003",
+        "path": "/blogg/blog-post-2008.04.20-00.00.00-003",
+        "title": "Endelig første grustrening for…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Endelig første grustrening for…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "20.04.2008",
+            "text-blocks": [
+                "Endelig første grustrening for året! Pressening i yttersving må til hvis gressklipperen skal klare en sommer til.. Fikk ikke så mye ut av kjøringen siden veien er for treg. Men fant ut at rattrusten er der:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_480b7da47bfb6.jpg"
+                }
+            ]
+        }
+    }
+}

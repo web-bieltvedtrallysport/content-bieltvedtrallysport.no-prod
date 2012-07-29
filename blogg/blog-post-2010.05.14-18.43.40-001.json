@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.14-18.43.40-001",
+        "path": "/blogg/blog-post-2010.05.14-18.43.40-001",
+        "title": "Inne til service.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "14.05.2010 12:43:39", 
+                        "received-timestamp": "14.05.2010 12:43:40", 
+                        "message-id": "<A7bSF4OmwB3WdjBX2@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Inne til service.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "14.05.2010 18:43:40",
+            "text-blocks": [
+                "Inne til service. Går greit. Manglet litt flyt på de to første ss ene i dag.. Er bare og fortsette og gasse."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.14-18.43.40-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "14052010560.jpg"
+                }
+            ]
+        }
+    }
+}

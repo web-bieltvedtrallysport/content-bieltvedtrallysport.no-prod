@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.06.27-00.00.00-002",
+        "path": "/blogg/blog-post-2008.06.27-00.00.00-002",
+        "title": "Her er vi igang, Frank tegner og",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Her er vi igang, Frank tegner og",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "27.06.2008",
+            "text-blocks": [
+                "Her er vi igang, Frank tegner og forklarer. Har fått hjemmelekse for første gang på mange år..! Krevende, men interessant å sette seg inn i. Har trua på at det å \"rydde opp\" i hjernen kan hjelpe på å prestere bedre bak rattet. Også skjønner jeg mer av hva som må til for å psyke ut konkurrentene fremover..hehe=)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_486502a172088.jpg"
+                }
+            ]
+        }
+    }
+}

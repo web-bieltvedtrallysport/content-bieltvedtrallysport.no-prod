@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.08-00.00.00-003",
+        "path": "/blogg/blog-post-2008.03.08-00.00.00-003",
+        "title": "Her er kremen av norske…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Her er kremen av norske…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "08.03.2008",
+            "text-blocks": [
+                "Her er kremen av norske motorsportsutøvere samlet. Er på huysman. Sveinung skal kjøre det uhøytidelige race Of champion. Prata litt med deltagerene nå, ingen som driver med motorsport klarer og bare kjøre for morro. Her er det blodig alvor når hjelmen kommer på hodet:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47d2bd7a310a7.jpg"
+                }
+            ]
+        }
+    }
+}

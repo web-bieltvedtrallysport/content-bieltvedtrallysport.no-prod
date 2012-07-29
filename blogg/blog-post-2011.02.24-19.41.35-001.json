@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.24-19.41.35-001",
+        "path": "/blogg/blog-post-2011.02.24-19.41.35-001",
+        "title": "Rally Finnskog",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Rally Finnskog", 
+                        "sent-timestamp": "24.02.2011 13:39:59", 
+                        "received-timestamp": "24.02.2011 13:41:35", 
+                        "message-id": "<BLU0-SMTP1659D9315D1751855FD0109A1DA0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Rally Finnskog",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.02.2011 19:41:35",
+            "text-blocks": [
+                "Da har vi kommet oss til Kongsvinger.. Skal snart ta innskjekken og spise..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.24-19.41.35-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

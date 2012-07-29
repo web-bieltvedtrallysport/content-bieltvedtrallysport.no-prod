@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.01.20-12.35.25-001",
+        "path": "/blogg/blog-post-2010.01.20-12.35.25-001",
+        "title": "I dag har Andreas Brøvig og jeg laget reportasje om bilkjøring på vinterføre:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "I dag har Andreas Brøvig og jeg laget re", 
+                        "sent-timestamp": "20.01.2010 06:35:24", 
+                        "received-timestamp": "20.01.2010 06:35:25", 
+                        "message-id": "<2941430.1263987324599.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "I dag har Andreas Brøvig og jeg laget reportasje om bilkjøring på vinterføre:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "20.01.2010 12:35:25",
+            "text-blocks": [
+                "I dag har Andreas Brøvig og jeg laget reportasje om bilkjøring på vinterføre:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.01.20-12.35.25-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01411.jpg"
+                }
+            ]
+        }
+    }
+}

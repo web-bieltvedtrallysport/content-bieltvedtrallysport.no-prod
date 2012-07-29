@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.04.27-08.32.02-001",
+        "path": "/blogg/blog-post-2010.04.27-08.32.02-001",
+        "title": "Hispeed comp.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Hispeed comp.", 
+                        "sent-timestamp": "27.04.2010 08:32:02", 
+                        "received-timestamp": "27.04.2010 08:32:02", 
+                        "message-id": "<w2o84e593e31004262332n1a2555ccv201a10f317654ea2@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Hispeed comp.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "27.04.2010 08:32:02",
+            "text-blocks": [
+                "På testveien vi fikk benytte, var det et hopp som lignet noe av det man ser mye av i Finland. Supert ifht. å justere seg inn på dempernes hispeed bevegelse. Også er det jo sinnsykt kult å hoppe med bil da...:-) Bilen fungerer i alle fall fint og vi gleder oss til siste fin-tuning på onsdagen før løpet."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.04.27-08.32.02-001-image-1.JPG", 
+                    "height": "691", 
+                    "width": "1220", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC_0059_revA.JPG"
+                }
+            ]
+        }
+    }
+}

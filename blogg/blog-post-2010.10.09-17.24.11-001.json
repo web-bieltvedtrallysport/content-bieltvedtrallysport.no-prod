@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.10.09-17.24.11-001",
+        "path": "/blogg/blog-post-2010.10.09-17.24.11-001",
+        "title": "Studie",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Studie", 
+                        "sent-timestamp": "09.10.2010 11:22:22", 
+                        "received-timestamp": "09.10.2010 11:24:11", 
+                        "message-id": "<BLU0-SMTP127856F8D44BEC4BE547D62A1510@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Studie",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "09.10.2010 17:24:11",
+            "text-blocks": [
+                "Siden det ikke ble noe mer rally kjøring  på oss i dag, dro vi ut på et par ss for å studere de andre kjøre bil.. Det var fint det, men noe av det beste var å se at de kjørte rally med gammle lastebiler..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.10.09-17.24.11-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

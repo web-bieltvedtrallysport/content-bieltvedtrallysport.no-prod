@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "medieomtale",
+        "path": "/medieomtale",
+        "title": "Medieomtale",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "medieomtale"
+    },
+    "content": {
+    }
+}

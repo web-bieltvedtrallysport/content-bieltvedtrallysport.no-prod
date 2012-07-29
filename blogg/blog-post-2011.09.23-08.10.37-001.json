@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.23-08.10.37-001",
+        "path": "/blogg/blog-post-2011.09.23-08.10.37-001",
+        "title": "Snart klare for gjennomkjøring",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Snart klare for gjennomkjøring", 
+                        "sent-timestamp": "23.09.2011 02:10:24", 
+                        "received-timestamp": "23.09.2011 02:10:37", 
+                        "message-id": "<BLU0-SMTP3616D21451F4187CE0FC962A10F0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Snart klare for gjennomkjøring",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "23.09.2011 08:10:37",
+            "text-blocks": [
+                "Nå er vi på Hamar. Skal snart ut i skogen og lage noter.. Lastet ned en nyttig app for kartlesere i går: klokke kalkulator. Den var fiffi. Fint og kunne kontrollere at man har regnet ut riktig  tid imellom tidskontrollene på transport.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.23-08.10.37-001-image-1.PNG", 
+                    "height": "960", 
+                    "width": "640", 
+                    "orientation": "Portrait", 
+                    "original-name": "bilde.PNG"
+                }
+            ]
+        }
+    }
+}

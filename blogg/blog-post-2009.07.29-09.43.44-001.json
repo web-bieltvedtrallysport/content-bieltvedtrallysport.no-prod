@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.29-09.43.44-001",
+        "path": "/blogg/blog-post-2009.07.29-09.43.44-001",
+        "title": "Dagens gjennomkjøring er godt i gang.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "29.07.2009 09:43:42", 
+                        "received-timestamp": "29.07.2009 09:43:44", 
+                        "message-id": "<AlIywp5COtf-NuWWM@xnotn03.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Dagens gjennomkjøring er godt i gang.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "29.07.2009 09:43:44",
+            "text-blocks": [
+                "Dagens gjennomkjøring er godt i gang. Har vært igjennom 2 ss'er til nå. Krevende etapper."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.29-09.43.44-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "29072009216.jpg"
+                }
+            ]
+        }
+    }
+}

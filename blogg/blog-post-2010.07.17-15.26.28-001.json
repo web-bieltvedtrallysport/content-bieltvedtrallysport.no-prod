@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.07.17-15.26.28-001",
+        "path": "/blogg/blog-post-2010.07.17-15.26.28-001",
+        "title": "I dag er det notetrening",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "I dag er det notetrening", 
+                        "sent-timestamp": "17.07.2010 09:25:54", 
+                        "received-timestamp": "17.07.2010 09:26:28", 
+                        "message-id": "<-8423427645192335374@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "I dag er det notetrening",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.07.2010 15:26:28",
+            "text-blocks": [
+                "Fysisk trening og notetrening på ukjent vei er nok den mest kost-effektive treningen man kan gjøre som rallyutøver. Viktig med hjernetrim som dette faktisk er når det blir lange opphold mellom løpene."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.07.17-15.26.28-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0478.jpg"
+                }
+            ]
+        }
+    }
+}

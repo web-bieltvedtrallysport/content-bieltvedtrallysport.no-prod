@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.12.28-13.07.43-001",
+        "path": "/blogg/blog-post-2010.12.28-13.07.43-001",
+        "title": "Årets julegave til TOOLS Norge AS",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Årets julegave til TOOLS Norge AS", 
+                        "sent-timestamp": "28.12.2010 06:06:18", 
+                        "received-timestamp": "28.12.2010 07:07:43", 
+                        "message-id": "<-8381473337033437638@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Årets julegave til TOOLS Norge AS",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "28.12.2010 13:07:43",
+            "text-blocks": [
+                "Den bilen her ble overlevert til TOOLS rett før jul. Den er importert fra England, bygd opp, lakkert og dekorert i Kråkstad:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.12.28-13.07.43-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0890.jpg"
+                }
+            ]
+        }
+    }
+}

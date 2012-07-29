@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.20-16.26.39-001",
+        "path": "/blogg/blog-post-2010.02.20-16.26.39-001",
+        "title": "Da er vi på vei ned til mål.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "20.02.2010 10:26:35", 
+                        "received-timestamp": "20.02.2010 10:26:39", 
+                        "message-id": "<Ah_e4BIPzOHSKALCB@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi på vei ned til mål.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "20.02.2010 16:26:39",
+            "text-blocks": [
+                "Da er vi på vei ned til mål. Har godt bra i dag. Selvom vi har hatt våre problemer syntes vi at vi har løst de bra. Jeg er fornøyd som dere ser.."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.20-16.26.39-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "20022010469.jpg"
+                }
+            ]
+        }
+    }
+}

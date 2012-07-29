@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.01.10-00.00.00-007",
+        "path": "/blogg/blog-post-2009.01.10-00.00.00-007",
+        "title": "i regulerings pause. Ble nr 4 i",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "i regulerings pause. Ble nr 4 i",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "10.01.2009",
+            "text-blocks": [
+                "i regulerings pause. Ble nr 4 i klassen. Og 5 totalt. Sveinung er utmatta og tar  seg en blund:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_4968b4262526c.jpg"
+                }
+            ]
+        }
+    }
+}

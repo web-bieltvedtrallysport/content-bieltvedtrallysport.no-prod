@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.06.19-00.00.00-003",
+        "path": "/blogg/blog-post-2009.06.19-00.00.00-003",
+        "title": "Tid for teknisk. Møtte på en tri",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Tid for teknisk. Møtte på en tri",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "19.06.2009",
+            "text-blocks": [
+                "Tid for teknisk. Møtte på en trivelig gjeng med supportere."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/06/c98ac_19062009.jpg"
+                }
+            ]
+        }
+    }
+}

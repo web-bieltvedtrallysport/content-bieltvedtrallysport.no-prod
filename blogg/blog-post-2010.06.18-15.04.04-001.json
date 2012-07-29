@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.18-15.04.04-001",
+        "path": "/blogg/blog-post-2010.06.18-15.04.04-001",
+        "title": "Da er Ytre Enebakk satt på kartet i utlandet også:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "18.06.2010 09:04:03", 
+                        "received-timestamp": "18.06.2010 09:04:04", 
+                        "message-id": "<ANJxhNzCYTifsaKA1@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er Ytre Enebakk satt på kartet i utlandet også:)",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "18.06.2010 15:04:04",
+            "text-blocks": [
+                "Da er Ytre Enebakk satt på kartet i utlandet også:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.18-15.04.04-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "18062010608.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.16-00.00.00-005",
+        "path": "/blogg/blog-post-2009.05.16-00.00.00-005",
+        "title": "Da er vi ferdig med ss kjøringen.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er vi ferdig med ss kjøringen.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "16.05.2009",
+            "text-blocks": [
+                "Da er vi ferdig med ss kjøringen. Gikk greit på slutten syntes vi. Tross skjeve hjul bak. Svenskene er rare, bilen bak har kjørt etter oss på transport fra siste service og passet på at vi ikke gjør noe galt."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/ba095_16052009.jpg"
+                }
+            ]
+        }
+    }
+}

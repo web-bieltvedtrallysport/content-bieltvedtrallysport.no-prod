@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.01.24-00.00.00-005",
+        "path": "/blogg/blog-post-2009.01.24-00.00.00-005",
+        "title": "står og venter på ss8. Må brøyte",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "står og venter på ss8. Må brøyte",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.01.2009",
+            "text-blocks": [
+                "står og venter på ss8. Må brøytes. Ss7 ble strøket pga snø."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_497b27be35bda.jpg"
+                }
+            ]
+        }
+    }
+}

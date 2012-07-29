@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.16-00.00.00-001",
+        "path": "/blogg/blog-post-2009.04.16-00.00.00-001",
+        "title": "Marthe har tydeligvis en…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Marthe har tydeligvis en…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "16.04.2009",
+            "text-blocks": [
+                "Marthe har tydeligvis en hemmelig beundrer…hehe"
+            ],
+            "images": [
+                {
+                    "name": "http://30887.vgb.no/files/2009/04/5d8bb_<DSC01019.JPG>"
+                }
+            ]
+        }
+    }
+}

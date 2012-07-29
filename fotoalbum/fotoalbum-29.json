@@ -1,0 +1,239 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-29",
+        "path": "/fotoalbum/fotoalbum-29",
+        "title": "Rally Finland 2009",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2009-rally-finland-1", 
+                "original-image": {
+                    "file-name": "bieltvedtfinland5.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-finland/w180/2009-rally-finland-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-finland/w285/2009-rally-finland-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-finland/w500/2009-rally-finland-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-finland-2", 
+                "original-image": {
+                    "file-name": "bieltvedtfinland6.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-finland/w180/2009-rally-finland-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-finland/w285/2009-rally-finland-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-finland/w500/2009-rally-finland-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-finland-3", 
+                "original-image": {
+                    "file-name": "bieltvedtfinland7.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-finland/w180/2009-rally-finland-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-finland/w285/2009-rally-finland-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-finland/w500/2009-rally-finland-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-finland-4", 
+                "original-image": {
+                    "file-name": "IMG_0329.jpg", 
+                    "rights": "Thomas Myhre Hansen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "270", 
+                        "file": "/2009-rally-finland/w180/2009-rally-finland-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "428", 
+                        "file": "/2009-rally-finland/w285/2009-rally-finland-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "750", 
+                        "file": "/2009-rally-finland/w500/2009-rally-finland-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-finland-5", 
+                "original-image": {
+                    "file-name": "IMG_0338.jpg", 
+                    "rights": "Thomas Myhre Hansen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "270", 
+                        "file": "/2009-rally-finland/w180/2009-rally-finland-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "428", 
+                        "file": "/2009-rally-finland/w285/2009-rally-finland-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "750", 
+                        "file": "/2009-rally-finland/w500/2009-rally-finland-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-finland-6", 
+                "original-image": {
+                    "file-name": "IMG_0786.jpg", 
+                    "rights": "Thomas Myhre Hansen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-finland/w180/2009-rally-finland-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-finland/w285/2009-rally-finland-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-finland/w500/2009-rally-finland-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-finland-7", 
+                "original-image": {
+                    "file-name": "IMG_0805.JPG", 
+                    "rights": "Thomas Myhre Hansen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-finland/w180/2009-rally-finland-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-finland/w285/2009-rally-finland-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-finland/w500/2009-rally-finland-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-finland-8", 
+                "original-image": {
+                    "file-name": "IMG_0807.JPG", 
+                    "rights": "Thomas Myhre Hansen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-finland/w180/2009-rally-finland-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-finland/w285/2009-rally-finland-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-finland/w500/2009-rally-finland-8_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

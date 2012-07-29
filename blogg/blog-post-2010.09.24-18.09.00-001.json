@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.09.24-18.09.00-001",
+        "path": "/blogg/blog-post-2010.09.24-18.09.00-001",
+        "title": "Teknisk kontroll",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Teknisk kontroll", 
+                        "sent-timestamp": "24.09.2010 12:06:42", 
+                        "received-timestamp": "24.09.2010 12:09:00", 
+                        "message-id": "<BLU0-SMTP176B5A04108DDDE0B3563CAA1620@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Teknisk kontroll",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.09.2010 18:09:00",
+            "text-blocks": [
+                "Etter 1,5 timers venting er vi endelig inne.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.09.24-18.09.00-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

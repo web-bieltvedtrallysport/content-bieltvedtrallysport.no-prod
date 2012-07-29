@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "id": "video/video-006",
+        "path": "/video/video-006",
+        "title": "Aurskog Høland Rally 2011 SS10",
+        "classification": "content-document",
+        "type": "video",
+        "default-template": "video"
+    },
+    "content": {
+        "video": {
+            "heading": "Aurskog Høland Rally 2011 SS10",
+            "source": "http://player.vimeo.com/video/25149666",
+            "isVimeoVideo": "true"
+        }
+    }
+}

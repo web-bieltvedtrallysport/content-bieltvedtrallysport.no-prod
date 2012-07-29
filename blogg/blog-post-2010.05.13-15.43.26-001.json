@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.13-15.43.26-001",
+        "path": "/blogg/blog-post-2010.05.13-15.43.26-001",
+        "title": "Da er vi ferdig med dagens gjennomkjøring.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "13.05.2010 09:43:24", 
+                        "received-timestamp": "13.05.2010 09:43:26", 
+                        "message-id": "<A5nCtyuJ0WiQK5qX9@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi ferdig med dagens gjennomkjøring.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "13.05.2010 15:43:26",
+            "text-blocks": [
+                "Da er vi ferdig med dagens gjennomkjøring. Har nå vært og sjekket startlista. Gøy og være 2. bil på veien. Starter om ca 1 time. Så kjører vi en lang transport ned til ss 1 og 2.  To publikumsprøver."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.13-15.43.26-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "13052010555.jpg"
+                }
+            ]
+        }
+    }
+}

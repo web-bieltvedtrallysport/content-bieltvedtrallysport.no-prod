@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.30-00.00.00-003",
+        "path": "/blogg/blog-post-2009.04.30-00.00.00-003",
+        "title": "Da har gutta vasket bilen. Skal bo",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da har gutta vasket bilen. Skal bo",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "30.04.2009",
+            "text-blocks": [
+                "Da har gutta vasket bilen. Skal bort på teknisk med den etterpå."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/04/3d4a9_30042009.jpg"
+                }
+            ]
+        }
+    }
+}

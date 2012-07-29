@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.12.28-09.48.37-001",
+        "path": "/blogg/blog-post-2010.12.28-09.48.37-001",
+        "title": "Nyeste batteriserien fra Bosch",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nyeste batteriserien fra Bosch", 
+                        "sent-timestamp": "28.12.2010 02:47:08", 
+                        "received-timestamp": "28.12.2010 03:48:37", 
+                        "message-id": "<5323164967578297529@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Nyeste batteriserien fra Bosch",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "28.12.2010 09:48:37",
+            "text-blocks": [
+                "18 volt serie som har blitt sterkere, lettere og mindre i størrelse. Om ikke det er nok har batteriene også blitt kraftigere med 3,0Ah og svært lav selvutlading. Mer bilder og info kommer:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.12.28-09.48.37-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0885.jpg"
+                }
+            ]
+        }
+    }
+}

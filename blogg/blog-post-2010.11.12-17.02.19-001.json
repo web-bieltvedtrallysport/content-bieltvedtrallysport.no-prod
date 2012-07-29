@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.11.12-17.02.19-001",
+        "path": "/blogg/blog-post-2010.11.12-17.02.19-001",
+        "title": "Nye styrestag og endeledd",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nye styrestag og endeledd", 
+                        "sent-timestamp": "12.11.2010 10:01:29", 
+                        "received-timestamp": "12.11.2010 11:02:19", 
+                        "message-id": "<-9157629628730528044@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Nye styrestag og endeledd",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "12.11.2010 17:02:19",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.11.12-17.02.19-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0799.jpg"
+                }
+            ]
+        }
+    }
+}

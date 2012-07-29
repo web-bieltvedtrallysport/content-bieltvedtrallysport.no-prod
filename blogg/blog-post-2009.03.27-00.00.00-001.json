@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.03.27-00.00.00-001",
+        "path": "/blogg/blog-post-2009.03.27-00.00.00-001",
+        "title": "hei. Har vært lite blogging i det",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "hei. Har vært lite blogging i det",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.03.2009",
+            "text-blocks": [
+                "hei. Har vært lite blogging i det siste. Jobber med og få til noe som funker litt bedre:-) men bilen har det ikke vært stille rundt. Får en full gjennomgang for sommer sesongen setter inn…"
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/03/a26d0_27032009.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.18-11.42.43-001",
+        "path": "/blogg/blog-post-2009.07.18-11.42.43-001",
+        "title": "Da er vi på Finnskogen og tester.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "18.07.2009 11:42:41", 
+                        "received-timestamp": "18.07.2009 11:42:43", 
+                        "message-id": "<AIzZFuic3sCKKEE07@xnotn03.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi på Finnskogen og tester.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "18.07.2009 11:42:43",
+            "text-blocks": [
+                "Da er vi på Finnskogen og tester."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.18-11.42.43-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "18072009178.jpg"
+                }
+            ]
+        }
+    }
+}

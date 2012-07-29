@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.27-11.58.41-001",
+        "path": "/blogg/blog-post-2009.07.27-11.58.41-001",
+        "title": "Nå er vi innom Tommi  Mäkinen Racing.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "27.07.2009 11:58:40", 
+                        "received-timestamp": "27.07.2009 11:58:41", 
+                        "message-id": "<Aij6v54444yM8hqeM@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Nå er vi innom Tommi  Mäkinen Racing.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.07.2009 11:58:41",
+            "text-blocks": [
+                "Nå er vi innom Tommi  Mäkinen Racing. Finne biler de lager her."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.27-11.58.41-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "27072009194.jpg"
+                }
+            ]
+        }
+    }
+}

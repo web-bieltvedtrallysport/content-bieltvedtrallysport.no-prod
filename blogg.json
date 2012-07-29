@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "blogg",
+        "path": "/blogg",
+        "title": "Blogg",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "blogg"
+    },
+    "content": {
+    }
+}

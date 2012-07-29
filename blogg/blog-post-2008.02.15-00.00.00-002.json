@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.02.15-00.00.00-002",
+        "path": "/blogg/blog-post-2008.02.15-00.00.00-002",
+        "title": "Ferdig med gjennomkjøringa nå….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Ferdig med gjennomkjøringa nå….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "15.02.2008",
+            "text-blocks": [
+                "Ferdig med gjennomkjøringa nå. Veiene var veldig bra med mye is og litt brøytekanter som var harde. Er nå på vei ned til Kongsvinger for og møte service gutta. Skal ha bilen til teknisk kontroll. I kveld starter løpet med en pre-start kl 20.00. Skal da bare kjøre over start. Den ordentlige kjøringa begynner ikke for i morgen."
+            ],
+            "images": [
+                {
+                    "name": ""
+                }
+            ]
+        }
+    }
+}

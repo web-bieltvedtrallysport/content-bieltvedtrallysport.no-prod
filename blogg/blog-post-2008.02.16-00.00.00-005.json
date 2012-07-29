@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.02.16-00.00.00-005",
+        "path": "/blogg/blog-post-2008.02.16-00.00.00-005",
+        "title": "hipp hurra:) vi vant 2.plassen….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "hipp hurra:) vi vant 2.plassen….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "16.02.2008",
+            "text-blocks": [
+                "hipp hurra:) vi vant 2.plassen. Var glad vi kom til mål på ss6. Girspaken danser inne i bilen."
+            ],
+            "images": [
+                {
+                    "name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.01.15-10.52.04-001",
+        "path": "/blogg/blog-post-2010.01.15-10.52.04-001",
+        "title": "Mye jobb med smøring og renhold:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Mye jobb med smøring og renhold:) Men sn", 
+                        "sent-timestamp": "15.01.2010 04:52:03", 
+                        "received-timestamp": "15.01.2010 04:52:04", 
+                        "message-id": "<15526152.1263549123428.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Mye jobb med smøring og renhold:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "15.01.2010 10:52:04",
+            "text-blocks": [
+                "Mye jobb med smøring og renhold:) Men snarveier og slurv kan som kjent bli dyrt i lengden..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.01.15-10.52.04-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01402.jpg"
+                }
+            ]
+        }
+    }
+}

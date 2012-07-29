@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.03.04-13.35.23-001",
+        "path": "/blogg/blog-post-2011.03.04-13.35.23-001",
+        "title": "Her er et eksempel...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Her er et eksempel...", 
+                        "sent-timestamp": "04.03.2011 06:33:39", 
+                        "received-timestamp": "04.03.2011 07:35:23", 
+                        "message-id": "<2916460915503274216@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Her er et eksempel...",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "04.03.2011 13:35:23",
+            "text-blocks": [
+                "...på hvordan sprekker kommer til syne. Delene blir satt i et kraftig magnetfelt og spylt med en væske som inneholder bittesmå magnetiske partikler. Ved sprekk i metallet blir det en brytning av magnetfeltet som gjør at magnetvæsken samler seg i sprekken. Med UV lys kommer så sprekkene lett til syne."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.03.04-13.35.23-001-image-1.jpg", 
+                    "height": "1280", 
+                    "width": "960", 
+                    "orientation": "Portrait", 
+                    "original-name": "IMAG1060.jpg"
+                }
+            ]
+        }
+    }
+}

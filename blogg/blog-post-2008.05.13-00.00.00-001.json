@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.13-00.00.00-001",
+        "path": "/blogg/blog-post-2008.05.13-00.00.00-001",
+        "title": "Jeg må ha verdens beste jobb! Ikke…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Jeg må ha verdens beste jobb! Ikke…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "13.05.2008",
+            "text-blocks": [
+                "Jeg må ha verdens beste jobb! Ikke nok med at jeg får idrettspermisjon når det er rally, i tillegg trener jeg i arbeidstiden to ganger i uka på LHK."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4829516fd15c1.jpg"
+                }
+            ]
+        }
+    }
+}

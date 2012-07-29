@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.06.02-17.56.25-001",
+        "path": "/blogg/blog-post-2012.06.02-17.56.25-001",
+        "title": "Transport",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Transport", 
+                        "sent-timestamp": "02.06.2012 11:08:14", 
+                        "received-timestamp": "02.06.2012 11:56:25", 
+                        "message-id": "<BLU0-SMTP1875BFC104550EB86F90303A1090@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Transport",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.06.2012 17:56:25",
+            "text-blocks": [
+                "På vei ut til de siste ss'ene nå.. Syntes vi har kjørt bra. Men ligger som nr 2.  Lurer på om det er noe feil med en tid..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.06.02-17.56.25-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

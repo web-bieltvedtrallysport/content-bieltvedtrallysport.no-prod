@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.31-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.31-00.00.00-001",
+        "title": "Da er bilen igang igjen! Har jus",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er bilen igang igjen! Har jus",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "31.08.2008",
+            "text-blocks": [
+                "Da er bilen igang igjen! Har justert ned tenninga med 5% for ikke å risikere noe. Per Gulbrandsen legger siste hånd på verket i neste uke, så vi kan være sikre på at alt er i orden med mappingen."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48baa30b6a1fb.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.12.28-00.00.00-005",
+        "path": "/blogg/blog-post-2008.12.28-00.00.00-005",
+        "title": "Rigget opp service. Blir spennen",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Rigget opp service. Blir spennen",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "28.12.2008",
+            "text-blocks": [
+                "Rigget opp service. Blir spennende og teste bil. Er spente."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_49573ca4e84de.jpg"
+                }
+            ]
+        }
+    }
+}

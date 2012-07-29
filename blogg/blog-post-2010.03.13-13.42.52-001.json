@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.03.13-13.42.52-001",
+        "path": "/blogg/blog-post-2010.03.13-13.42.52-001",
+        "title": "Det syntes Sara og jeg blei litt kjedelig.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "13.03.2010 07:42:49", 
+                        "received-timestamp": "13.03.2010 07:42:52", 
+                        "message-id": "<AGLq648Efv6UPlbIZ@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Det syntes Sara og jeg blei litt kjedelig.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "13.03.2010 13:42:52",
+            "text-blocks": [
+                "Det syntes Sara og jeg blei litt kjedelig. Men det er mye annet fint og se på her da. Sara syntes GSR 14,4 V Med Li-ion batteri var fin;-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.03.13-13.42.52-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "13032010484.jpg"
+                }
+            ]
+        }
+    }
+}

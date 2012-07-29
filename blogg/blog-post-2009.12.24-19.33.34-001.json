@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.12.24-19.33.34-001",
+        "path": "/blogg/blog-post-2009.12.24-19.33.34-001",
+        "title": "Nissefar har blitt dårlig til beins.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nissefar har blitt dårlig til beins. Han", 
+                        "sent-timestamp": "24.12.2009 13:33:33", 
+                        "received-timestamp": "24.12.2009 13:33:34", 
+                        "message-id": "<3521138.1261679613889.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Nissefar har blitt dårlig til beins.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "24.12.2009 19:33:34",
+            "text-blocks": [
+                "Nissefar har blitt dårlig til beins. Han var sprekere den gangen han leste noter for meg... God jul til alle blogg-lesere!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.12.24-19.33.34-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01373.jpg"
+                }
+            ]
+        }
+    }
+}

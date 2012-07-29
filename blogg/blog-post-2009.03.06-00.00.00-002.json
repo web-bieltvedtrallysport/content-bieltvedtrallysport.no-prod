@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.03.06-00.00.00-002",
+        "path": "/blogg/blog-post-2009.03.06-00.00.00-002",
+        "title": "Da er notene ferdig også. Da er d",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er notene ferdig også. Da er d",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.03.2009",
+            "text-blocks": [
+                "Da er notene ferdig også. Da er deg senga som venter. Prøve og få noen timer søvn for det bråker løs i morgen:)"
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/03/72374_DSC00478.JPG"
+                }
+            ]
+        }
+    }
+}

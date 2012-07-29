@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.01.25-00.00.00-001",
+        "path": "/blogg/blog-post-2008.01.25-00.00.00-001",
+        "title": "Da er gjennomkjøringen i gang….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er gjennomkjøringen i gang….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "25.01.2008",
+            "text-blocks": [
+                "Da er gjennomkjøringen i gang. Dette er fra starten på ss2. Foreløbig er det fine veier, men det spørs åssen det er når vi kommer i morgen med startnr 67."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_4799a45502b75.jpg"
+                }
+            ]
+        }
+    }
+}

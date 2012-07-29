@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.10.25-00.00.00-007",
+        "path": "/blogg/blog-post-2008.10.25-00.00.00-007",
+        "title": "Da var bilen fiksa. Bare å tørke",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da var bilen fiksa. Bare å tørke",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "25.10.2008",
+            "text-blocks": [
+                "Da var bilen fiksa. Bare å tørke støv før Romjulsrally, så er vi klare:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4903370edc340.jpg"
+                }
+            ]
+        }
+    }
+}

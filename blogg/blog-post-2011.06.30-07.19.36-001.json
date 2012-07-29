@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.06.30-07.19.36-001",
+        "path": "/blogg/blog-post-2011.06.30-07.19.36-001",
+        "title": "Fra \"gamledager\"",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Fra \"gamledager\"", 
+                        "sent-timestamp": "30.06.2011 01:19:35", 
+                        "received-timestamp": "30.06.2011 01:19:36", 
+                        "message-id": "<BANLkTim-uxoje73TrhCqm7MFm7egL2+xAg@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Fra \"gamledager\"",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.06.2011 07:19:36",
+            "text-blocks": [
+                "Her er litt gamle bilder mens vi venter på nye rallyløp. Fra da vi høsten 2008 forberedte for innvendig lakkering av det chassis'et som jeg fortsatt bruker. Mesteparten av bilbyggingen ble utført av Voldsund Motorsport, men noe gjorde vi også."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.06.30-07.19.36-001-image-1.JPG", 
+                    "height": "1944", 
+                    "width": "2592", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC00725.JPG"
+                }, 
+                {
+                    "name": "blog-post-2011.06.30-07.19.36-001-image-2.JPG", 
+                    "height": "1944", 
+                    "width": "2592", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC00732.JPG"
+                }, 
+                {
+                    "name": "blog-post-2011.06.30-07.19.36-001-image-3.JPG", 
+                    "height": "1944", 
+                    "width": "2592", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC00753.JPG"
+                }
+            ]
+        }
+    }
+}

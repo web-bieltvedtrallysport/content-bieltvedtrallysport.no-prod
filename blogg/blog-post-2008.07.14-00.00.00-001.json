@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.07.14-00.00.00-001",
+        "path": "/blogg/blog-post-2008.07.14-00.00.00-001",
+        "title": "Her har vi et beist av en girkas",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Her har vi et beist av en girkas",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "14.07.2008",
+            "text-blocks": [
+                "Her har vi et beist av en girkasse, må være to stykker for å flytte den.. Den skal ses over før neste løp."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_487b984791642.jpg"
+                }
+            ]
+        }
+    }
+}

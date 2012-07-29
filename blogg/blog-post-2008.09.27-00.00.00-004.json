@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.27-00.00.00-004",
+        "path": "/blogg/blog-post-2008.09.27-00.00.00-004",
+        "title": "vi er i mål. Blei sølvet i år:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "vi er i mål. Blei sølvet i år:)",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.09.2008",
+            "text-blocks": [
+                "vi er i mål. Blei sølvet i år:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48de508eb101c.jpg"
+                }
+            ]
+        }
+    }
+}

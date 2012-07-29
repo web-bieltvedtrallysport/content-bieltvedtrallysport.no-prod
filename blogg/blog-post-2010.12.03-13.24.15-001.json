@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.12.03-13.24.15-001",
+        "path": "/blogg/blog-post-2010.12.03-13.24.15-001",
+        "title": "Fra motorverkstedet på Kjeller...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Fra motorverkstedet på Kjeller...", 
+                        "sent-timestamp": "03.12.2010 06:23:31", 
+                        "received-timestamp": "03.12.2010 07:24:15", 
+                        "message-id": "<1084718594426355108@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Fra motorverkstedet på Kjeller...",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "03.12.2010 13:24:15",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.12.03-13.24.15-001-image-1.jpg", 
+                    "height": "1280", 
+                    "width": "960", 
+                    "orientation": "Portrait", 
+                    "original-name": "IMAG0834.jpg"
+                }
+            ]
+        }
+    }
+}

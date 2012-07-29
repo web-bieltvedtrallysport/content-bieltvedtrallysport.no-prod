@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.01.14-20.19.52-001",
+        "path": "/blogg/blog-post-2010.01.14-20.19.52-001",
+        "title": "Da er demperne smurt.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "14.01.2010 14:19:51", 
+                        "received-timestamp": "14.01.2010 14:19:52", 
+                        "message-id": "<A8VQlL_VQROE3LFvq@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er demperne smurt.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "14.01.2010 20:19:52",
+            "text-blocks": [
+                "Da er demperne smurt."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.01.14-20.19.52-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "14012010426.jpg"
+                }
+            ]
+        }
+    }
+}

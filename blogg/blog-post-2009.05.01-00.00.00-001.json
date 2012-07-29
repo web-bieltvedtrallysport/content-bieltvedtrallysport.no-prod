@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.01-00.00.00-001",
+        "path": "/blogg/blog-post-2009.05.01-00.00.00-001",
+        "title": "Gjennom kjøringen er godt i gang.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Gjennom kjøringen er godt i gang.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.05.2009",
+            "text-blocks": [
+                "Gjennom kjøringen er godt i gang. Er noe helt spesiellt med sørlandet. Veiene, første helga i mai, sommer og sol."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/84ad4_01052009.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.23-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.23-00.00.00-001",
+        "title": "Her ligger slaktet… Hehe. Andr",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Her ligger slaktet… Hehe. Andr",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "23.08.2008",
+            "text-blocks": [
+                "Her ligger slaktet… Hehe. André og Kim er med i helga for og hjelpe til med og få bilen på teknisk og litt forskjellig. Er jo ikke service her da dette er et sprint rally.. Nå er det frokost og gjennomkjøring. Som gjelder."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48af9214746c5.jpg"
+                }
+            ]
+        }
+    }
+}

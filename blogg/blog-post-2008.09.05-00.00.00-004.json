@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.05-00.00.00-004",
+        "path": "/blogg/blog-post-2008.09.05-00.00.00-004",
+        "title": "Ferdig med noteskrivinga. På vei",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Ferdig med noteskrivinga. På vei",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "05.09.2008",
+            "text-blocks": [
+                "Ferdig med noteskrivinga. På vei tilbake til rallybasen. Har trua på at vi har fått laget bra noter. Gleder oss nå.blir spennende."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48c15007972d3.jpg"
+                }
+            ]
+        }
+    }
+}

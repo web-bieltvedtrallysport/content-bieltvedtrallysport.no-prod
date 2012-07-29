@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.07-11.07.31-001",
+        "path": "/blogg/blog-post-2011.09.07-11.07.31-001",
+        "title": "Rally for store og ATV for små",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Rally for store og ATV for små", 
+                        "sent-timestamp": "07.09.2011 05:07:31", 
+                        "received-timestamp": "07.09.2011 05:07:31", 
+                        "message-id": "<CAJO1iKyfp9ZTfN1jf6qnnqjp3JV+DQEwJ7mn8tEC6hXR8856Ow@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Rally for store og ATV for små",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "07.09.2011 11:07:31",
+            "text-blocks": [
+                "I går hadde vi i TOOLS Rallyteam et rally -og ATV event for vår hovedsponsor. Selv om værgudene ikke var med oss denne gangen, tør jeg påstå at vi alle hadde en morsom ettermiddag på Hvitsten Gård i Enebakk. Rallytelt og innendørs bevertning gjorde susen!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.07-11.07.31-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

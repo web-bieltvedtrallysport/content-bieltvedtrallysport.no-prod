@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.02.09-00.00.00-001",
+        "path": "/blogg/blog-post-2009.02.09-00.00.00-001",
+        "title": "Hehe. Toget blir dratt av en hjul-",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Hehe. Toget blir dratt av en hjul-",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "09.02.2009",
+            "text-blocks": [
+                "Hehe. Toget blir dratt av en hjul-laster. Er ikke bare på veien det blir kaos av all snøen."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/02/33337_DSC00427.JPG"
+                }
+            ]
+        }
+    }
+}

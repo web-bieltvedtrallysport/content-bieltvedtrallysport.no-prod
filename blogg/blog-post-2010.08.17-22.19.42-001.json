@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.08.17-22.19.42-001",
+        "path": "/blogg/blog-post-2010.08.17-22.19.42-001",
+        "title": "Finn en feil",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Finn en feil", 
+                        "sent-timestamp": "17.08.2010 16:19:05", 
+                        "received-timestamp": "17.08.2010 16:19:42", 
+                        "message-id": "<-4661395764256566524@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Finn en feil",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.08.2010 22:19:42",
+            "text-blocks": [
+                "Denne glassblåste ventilen er heldigvis ikke fra Subaruen..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.08.17-22.19.42-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0592.jpg"
+                }
+            ]
+        }
+    }
+}

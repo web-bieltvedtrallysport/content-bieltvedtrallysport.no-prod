@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.22-00.00.00-001",
+        "path": "/blogg/blog-post-2008.09.22-00.00.00-001",
+        "title": "Litt sponsor og pressekjøring i",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Litt sponsor og pressekjøring i",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "22.09.2008",
+            "text-blocks": [
+                "Litt sponsor og pressekjøring i dag. Mange STOOORE smil etterpå:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48d7c0ae9fea4.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.02.16-00.00.00-001",
+        "path": "/blogg/blog-post-2008.02.16-00.00.00-001",
+        "title": "På vei ut ut til ss 1. Over 4mil…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "På vei ut ut til ss 1. Over 4mil…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "16.02.2008",
+            "text-blocks": [
+                "På vei ut ut til ss 1. Over 4mil på bar asfaltvei. Ikke bra for piggene i dekka, men er jo likt for alle. Vi skal kline til fra start."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47b68a40acf73.jpg"
+                }
+            ]
+        }
+    }
+}

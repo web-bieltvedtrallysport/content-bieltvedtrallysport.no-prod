@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.22-13.43.26-001",
+        "path": "/blogg/blog-post-2010.02.22-13.43.26-001",
+        "title": "Må ha-kalender",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Må ha-kalender", 
+                        "sent-timestamp": "22.02.2010 07:42:06", 
+                        "received-timestamp": "22.02.2010 07:43:26", 
+                        "message-id": "<4b827bec.1c07d00a.3ed7.ffffc9d2@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Må ha-kalender",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "22.02.2010 13:43:26",
+            "text-blocks": [
+                "Mange verktøynyheter, konkurranser og månedens tilbud."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.22-13.43.26-001-image-1.jpg", 
+                    "height": "1280", 
+                    "width": "960", 
+                    "orientation": "Portrait", 
+                    "original-name": "IMAG0067.jpg"
+                }
+            ]
+        }
+    }
+}

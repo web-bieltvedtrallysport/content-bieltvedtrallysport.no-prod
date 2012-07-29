@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.08.09-22.21.00-001",
+        "path": "/blogg/blog-post-2010.08.09-22.21.00-001",
+        "title": "Full fart:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Full fart:)", 
+                        "sent-timestamp": "09.08.2010 16:20:32", 
+                        "received-timestamp": "09.08.2010 16:21:00", 
+                        "message-id": "<-1566382433762867812@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Full fart:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "09.08.2010 22:21:00",
+            "text-blocks": [
+                "Det nærmer seg TOOLS Dagene, og vi tjuvstarter med rallykjøring i Mandal på torsdag. Kommer til å bli liv, da det ventes masse folk ifbm. Skalldyr-festivalen. Gleder meg!:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.08.09-22.21.00-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0557.jpg"
+                }
+            ]
+        }
+    }
+}

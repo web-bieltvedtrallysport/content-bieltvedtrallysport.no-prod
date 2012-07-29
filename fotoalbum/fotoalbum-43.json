@@ -1,0 +1,183 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-43",
+        "path": "/fotoalbum/fotoalbum-43",
+        "title": "Rally Talsi 2011",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2011-rally-talsi-1", 
+                "original-image": {
+                    "file-name": "15_05_2011IMG_1720.jpg", 
+                    "rights": "PRL" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-rally-talsi/w180/2011-rally-talsi-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-rally-talsi/w285/2011-rally-talsi-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "334", 
+                        "file": "/2011-rally-talsi/w500/2011-rally-talsi-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2011-rally-talsi-2", 
+                "original-image": {
+                    "file-name": "IMG_6801.JPG", 
+                    "rights": "PRL" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-rally-talsi/w180/2011-rally-talsi-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-rally-talsi/w285/2011-rally-talsi-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2011-rally-talsi/w500/2011-rally-talsi-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2011-rally-talsi-3", 
+                "original-image": {
+                    "file-name": "IMG_7123.JPG", 
+                    "rights": "PRL" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-rally-talsi/w180/2011-rally-talsi-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-rally-talsi/w285/2011-rally-talsi-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2011-rally-talsi/w500/2011-rally-talsi-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2011-rally-talsi-4", 
+                "original-image": {
+                    "file-name": "IMG_7168.JPG", 
+                    "rights": "PRL" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-rally-talsi/w180/2011-rally-talsi-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-rally-talsi/w285/2011-rally-talsi-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2011-rally-talsi/w500/2011-rally-talsi-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2011-rally-talsi-5", 
+                "original-image": {
+                    "file-name": "IMG_7443.JPG", 
+                    "rights": "PRL" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-rally-talsi/w180/2011-rally-talsi-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-rally-talsi/w285/2011-rally-talsi-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2011-rally-talsi/w500/2011-rally-talsi-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2011-rally-talsi-6", 
+                "original-image": {
+                    "file-name": "IMG_7589.JPG", 
+                    "rights": "PRL" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2011-rally-talsi/w180/2011-rally-talsi-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2011-rally-talsi/w285/2011-rally-talsi-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2011-rally-talsi/w500/2011-rally-talsi-6_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

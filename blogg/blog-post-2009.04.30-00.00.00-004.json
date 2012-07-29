@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.30-00.00.00-004",
+        "path": "/blogg/blog-post-2009.04.30-00.00.00-004",
+        "title": "Da har vi vært ute og spist. Er t",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da har vi vært ute og spist. Er t",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "30.04.2009",
+            "text-blocks": [
+                "Da har vi vært ute og spist. Er tilbake på rommet nå, der vi ser igjennom inboard fra i fjor."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/04/79eb3_30042009.jpg"
+                }
+            ]
+        }
+    }
+}

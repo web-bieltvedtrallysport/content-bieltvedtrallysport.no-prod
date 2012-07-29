@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.15-08.35.44-001",
+        "path": "/blogg/blog-post-2009.08.15-08.35.44-001",
+        "title": "Nødlanding?",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nødlanding? Står midt ute i åkeren... Ua", 
+                        "sent-timestamp": "15.08.2009 08:35:43", 
+                        "received-timestamp": "15.08.2009 08:35:44", 
+                        "message-id": "<25309992.1250318143074.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Nødlanding?",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "15.08.2009 08:35:44",
+            "text-blocks": [
+                "Nødlanding? Står midt ute i åkeren... Uansett, blir ikke kjøring i morra, vi finner rett og slett ikke feilen. Per Johansson har feilsøkt til klokka 3 i natt, og vi har tatt over i dag. Siste teori er at ECU en spiller oss et puss. Det får vi ikke gjort noe med før til uka."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.15-08.35.44-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01153.jpg"
+                }
+            ]
+        }
+    }
+}

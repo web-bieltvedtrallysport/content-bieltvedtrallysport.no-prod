@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.06.22-00.00.00-004",
+        "path": "/blogg/blog-post-2008.06.22-00.00.00-004",
+        "title": "Pappa igang med vasking av bilen",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Pappa igang med vasking av bilen",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "22.06.2008",
+            "text-blocks": [
+                "Pappa igang med vasking av bilen. Gjørme og sand overalt!"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_485e720c17d35.jpg"
+                }
+            ]
+        }
+    }
+}

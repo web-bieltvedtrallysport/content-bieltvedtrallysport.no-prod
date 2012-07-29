@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.24-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.24-00.00.00-001",
+        "title": "Christian Østby er innom for å s",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Christian Østby er innom for å s",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "24.08.2008",
+            "text-blocks": [
+                "Christian Østby er innom for å sjekke lov og orden på Bieltvedt Gård med siste impulskjøpet sitt. Ble litt stressa da bilen kom i reneste Durty Harry stil med sirene og blålys inn på tunet…."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48b19b15b63e0.jpg"
+                }
+            ]
+        }
+    }
+}

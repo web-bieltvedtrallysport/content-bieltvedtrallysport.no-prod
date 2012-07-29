@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.29-22.15.54-001",
+        "path": "/blogg/blog-post-2011.04.29-22.15.54-001",
+        "title": "Ferdig for dagen..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ferdig for dagen..", 
+                        "sent-timestamp": "29.04.2011 16:14:15", 
+                        "received-timestamp": "29.04.2011 16:15:54", 
+                        "message-id": "<BLU0-SMTP461460357A23D3D62C1459A19A0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Ferdig for dagen..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "29.04.2011 22:15:54",
+            "text-blocks": [
+                "Da er dagens kjøring over. Gått bra, hadde litt lite bensin så vi måtte kjøre økoløp på siste ss.. Men alt i alt fornøyd.. Ligger 3 tot. Nå er det senga som gjelder..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.29-22.15.54-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

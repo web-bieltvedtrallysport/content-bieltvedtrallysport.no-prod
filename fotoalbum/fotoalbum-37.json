@@ -1,0 +1,407 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-37",
+        "path": "/fotoalbum/fotoalbum-37",
+        "title": "Rally Hedemarken 2010",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2010-rally-hedemarken-1", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 015.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-2", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 016.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-3", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 017.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-4", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 018.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-5", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 019.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-6", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 020.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-7", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 666.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-8", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 667.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-8_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-9", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 668.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-9_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-9_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-9_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-10", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 669.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-10_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-10_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-10_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-11", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 670.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-11_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-11_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-11_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-12", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 671.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-12_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-12_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-12_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-13", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 672.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-13_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-13_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-13_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-hedemarken-14", 
+                "original-image": {
+                    "file-name": "Rally Hedemarken 2010 673.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-hedemarken/w180/2010-rally-hedemarken-14_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-hedemarken/w285/2010-rally-hedemarken-14_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-hedemarken/w500/2010-rally-hedemarken-14_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

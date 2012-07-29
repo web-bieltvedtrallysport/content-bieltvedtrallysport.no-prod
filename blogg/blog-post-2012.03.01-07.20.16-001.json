@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.03.01-07.20.16-001",
+        "path": "/blogg/blog-post-2012.03.01-07.20.16-001",
+        "title": "Vintersesongen 2012 fullført",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Vintersesongen 2012 fullført", 
+                        "sent-timestamp": "01.03.2012 01:20:15", 
+                        "received-timestamp": "01.03.2012 01:20:16", 
+                        "message-id": "<CAJO1iKzuVt-+9R5jaO-z1TcRt0aEKXaX_P1Odx-TzJctcmK2qg@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Vintersesongen 2012 fullført",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "01.03.2012 07:20:16",
+            "text-blocks": [
+                "Numedalsrally ble dessverre avlyst pga. mildvær. Opprulling av gulvmattene og bortrydding av ishjul er et tydelig tegn på nettopp det. Skjønner godt at arrangøren måtte avlyse. Nå får vi glede oss til Rally Sørland istede :-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.03.01-07.20.16-001-image-1.jpg", 
+                    "height": "1200", 
+                    "width": "1600", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120229_193933.jpg"
+                }
+            ]
+        }
+    }
+}

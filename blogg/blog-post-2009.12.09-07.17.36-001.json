@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.12.09-07.17.36-001",
+        "path": "/blogg/blog-post-2009.12.09-07.17.36-001",
+        "title": "Kristian reparerer bakstillingstraversen.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Kristian reparerer bakstillingstraversen", 
+                        "sent-timestamp": "09.12.2009 01:17:36", 
+                        "received-timestamp": "09.12.2009 01:17:36", 
+                        "message-id": "<2460599.1260339456011.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Kristian reparerer bakstillingstraversen.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "09.12.2009 07:17:36",
+            "text-blocks": [
+                "Kristian reparerer bakstillingstraversen. Pga. stor bevegelse i innfesting mellom travers og bilens karosseri pga myke foringer, oppstår det tretthetsbrudd i traversen. Med poliurethane foringer fra og med 2010 sesongen håper vi problemet er løst."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.12.09-07.17.36-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01340.jpg"
+                }
+            ]
+        }
+    }
+}

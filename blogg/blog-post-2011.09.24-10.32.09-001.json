@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.24-10.32.09-001",
+        "path": "/blogg/blog-post-2011.09.24-10.32.09-001",
+        "title": "Ss 2",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ss 2", 
+                        "sent-timestamp": "24.09.2011 04:31:00", 
+                        "received-timestamp": "24.09.2011 04:32:09", 
+                        "message-id": "<BLU0-SMTP456102494F61C6A93E5D89BA10E0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Ss 2",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.09.2011 10:32:09",
+            "text-blocks": [
+                "Urytmisk i starten. Siste halvdel grei..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.24-10.32.09-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

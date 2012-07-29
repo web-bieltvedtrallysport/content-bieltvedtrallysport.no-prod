@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.09.25-11.42.02-001",
+        "path": "/blogg/blog-post-2009.09.25-11.42.02-001",
+        "title": "Da er vi ute og kjører igjennom etappene.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "25.09.2009 05:42:01", 
+                        "received-timestamp": "25.09.2009 05:42:02", 
+                        "message-id": "<AOyxHTj8q3cd0TtE9@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi ute og kjører igjennom etappene.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "25.09.2009 11:42:02",
+            "text-blocks": [
+                "Da er vi ute og kjører igjennom etappene. Mye likt som i fjor. Så mye av jobben ble gjort i går med inboard på rommet."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.09.25-11.42.02-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "25092009285.jpg"
+                }
+            ]
+        }
+    }
+}

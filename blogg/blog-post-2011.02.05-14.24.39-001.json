@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.05-14.24.39-001",
+        "path": "/blogg/blog-post-2011.02.05-14.24.39-001",
+        "title": "Nyttig liten sak",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nyttig liten sak", 
+                        "sent-timestamp": "05.02.2011 07:23:43", 
+                        "received-timestamp": "05.02.2011 08:24:39", 
+                        "message-id": "<-1179382228606007689@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Nyttig liten sak",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "05.02.2011 14:24:39",
+            "text-blocks": [
+                "Denne Bosch GSR 10,8 volt's drillen gjør jobben med småskruer langt mer effektiv. Sammen med den supersterke Bosch GDS 18 volt's muttertrekkeren dekkes alle behov for hurtig skruing på bil."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.05-14.24.39-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0966.jpg"
+                }
+            ]
+        }
+    }
+}

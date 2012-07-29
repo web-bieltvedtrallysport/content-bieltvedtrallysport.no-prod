@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "terminliste",
+        "path": "/terminliste",
+        "title": "Terminliste",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "terminliste"
+    },
+    "content": {
+    }
+}

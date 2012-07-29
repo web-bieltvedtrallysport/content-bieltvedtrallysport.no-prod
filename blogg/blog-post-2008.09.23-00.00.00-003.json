@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.23-00.00.00-003",
+        "path": "/blogg/blog-post-2008.09.23-00.00.00-003",
+        "title": "Lunch",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Lunch",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "23.09.2008",
+            "text-blocks": [
+                "Og mat må man ha… Etterpå blir det ny test tur på en annen veisløyfe, 3 km. en vei. Har oppdaget noen mindre svakheter med bilens innstillinger som vi håper å forbedre."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48d8d5f321c81.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.12.19-12.04.31-001",
+        "path": "/blogg/blog-post-2009.12.19-12.04.31-001",
+        "title": "Her har vi Mr.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Her har vi Mr. Himeno fra demperleverand", 
+                        "sent-timestamp": "19.12.2009 06:04:30", 
+                        "received-timestamp": "19.12.2009 06:04:31", 
+                        "message-id": "<15360094.1261220670818.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Her har vi Mr.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "19.12.2009 12:04:31",
+            "text-blocks": [
+                "Her har vi Mr. Himeno fra demperleverandøren TEIN utenfor Elgstua hotell. Han skal være med oss på vinterens første test. Himeno var veldig entusiastisk over hvor stor en ekte \"moose\" kunne bli...hehe"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.12.19-12.04.31-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01343.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.08.09-15.11.55-001",
+        "path": "/blogg/blog-post-2011.08.09-15.11.55-001",
+        "title": "50 Psi. i dekkene...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "50 Psi. i dekkene...", 
+                        "sent-timestamp": "09.08.2011 09:11:00", 
+                        "received-timestamp": "09.08.2011 09:11:55", 
+                        "message-id": "<-2911349015209773760@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "50 Psi. i dekkene...",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "09.08.2011 15:11:55",
+            "text-blocks": [
+                "...og 8 m.m. spredning på bakhjulene burde innby til publikumsvennlig asfaltkjøring i Kristiansand og Haugesund...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.08.09-15.11.55-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1479.jpg"
+                }
+            ]
+        }
+    }
+}

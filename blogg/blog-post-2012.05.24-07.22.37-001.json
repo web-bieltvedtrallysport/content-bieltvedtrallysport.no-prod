@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.05.24-07.22.37-001",
+        "path": "/blogg/blog-post-2012.05.24-07.22.37-001",
+        "title": "Norske rallyveier = verdens beste!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Norske rallyveier = verdens beste!", 
+                        "sent-timestamp": "24.05.2012 01:22:36", 
+                        "received-timestamp": "24.05.2012 01:22:37", 
+                        "message-id": "<CAJO1iKzNFd+=UGg7QLozaNF=-yp4Dq_are53q-kDbNnFK97U0g@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Norske rallyveier = verdens beste!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "24.05.2012 07:22:37",
+            "text-blocks": [
+                "Vi fant frem et gammelt sett med bærebruer som har gått 250 mil SS(!) Etter måling, vask og sprekksjekk var de gode som nye igjen :-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.05.24-07.22.37-001-image-1.jpg", 
+                    "height": "768", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120523_170716.jpg"
+                }
+            ]
+        }
+    }
+}

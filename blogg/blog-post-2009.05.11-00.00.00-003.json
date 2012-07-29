@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.11-00.00.00-003",
+        "path": "/blogg/blog-post-2009.05.11-00.00.00-003",
+        "title": "Nå skal diffene ut.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå skal diffene ut.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "11.05.2009",
+            "text-blocks": [
+                "Nå skal diffene ut."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/93184_11052009.jpg"
+                }
+            ]
+        }
+    }
+}

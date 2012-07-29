@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.25-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.25-00.00.00-001",
+        "title": "Anders oppdaterer bloggen sin. V",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Anders oppdaterer bloggen sin. V",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "25.08.2008",
+            "text-blocks": [
+                "Anders oppdaterer bloggen sin. Vi er på Ullevaal og skal se Vålerenga mot Strømsgodset. Til venstre sitter Johan Marius Svingen i  og til høyre har vi Frode Skaar, han som bl.a. komenterer Rallycross EM på NRK sammen med Atle Gulbrandsen."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48b2e49b7b456.jpg"
+                }
+            ]
+        }
+    }
+}

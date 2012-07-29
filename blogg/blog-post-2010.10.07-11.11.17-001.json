@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.10.07-11.11.17-001",
+        "path": "/blogg/blog-post-2010.10.07-11.11.17-001",
+        "title": "Lunchtid",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Lunchtid", 
+                        "sent-timestamp": "07.10.2010 05:10:41", 
+                        "received-timestamp": "07.10.2010 05:11:17", 
+                        "message-id": "<-4732361680404692466@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Lunchtid",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "07.10.2010 11:11:17",
+            "text-blocks": [
+                "Tid for mat. Legg merke til klærne; her er det kaldt.. Men sola skinner og vi er klare!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.10.07-11.11.17-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0703.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.10.30-23.00.02-001",
+        "path": "/blogg/blog-post-2011.10.30-23.00.02-001",
+        "title": "Oslo Motor Show",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Oslo Motor Show", 
+                        "sent-timestamp": "30.10.2011 18:00:01", 
+                        "received-timestamp": "30.10.2011 18:00:02", 
+                        "message-id": "<CAJO1iKwE5_qVZCF2stQM3vHOQhV95g98G2AQ7T5e30n3gx5P=w@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Oslo Motor Show",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.10.2011 23:00:02",
+            "text-blocks": [
+                "Glemte å ta bilde før nå, men har ikke alle fall kjørt showkjøring i dag... Masse folk, og faktisk så mange at ikke alle fikk sett på."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.10.30-23.00.02-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1666.jpg"
+                }
+            ]
+        }
+    }
+}

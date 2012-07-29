@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.27-16.38.25-001",
+        "path": "/blogg/blog-post-2009.07.27-16.38.25-001",
+        "title": "Innsjekk ferdig.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "27.07.2009 16:38:23", 
+                        "received-timestamp": "27.07.2009 16:38:25", 
+                        "message-id": "<AkxLxwG6UFb7cLvmS@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Innsjekk ferdig.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.07.2009 16:38:25",
+            "text-blocks": [
+                "Innsjekk ferdig."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.27-16.38.25-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "27072009197.jpg"
+                }
+            ]
+        }
+    }
+}

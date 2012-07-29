@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.01-16.38.18-001",
+        "path": "/blogg/blog-post-2010.05.01-16.38.18-001",
+        "title": "Da er vi på vei til mål..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "01.05.2010 16:38:17", 
+                        "received-timestamp": "01.05.2010 16:38:18", 
+                        "message-id": "<ABoFm-QKFAQqLvm4e@xnotn03.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi på vei til mål..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.05.2010 16:38:18",
+            "text-blocks": [
+                "Da er vi på vei til mål.. Blei  en bra dag detta:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.01-16.38.18-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "01052010529.jpg"
+                }
+            ]
+        }
+    }
+}

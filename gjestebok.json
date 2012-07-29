@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "gjestebok",
+        "path": "/gjestebok",
+        "title": "Gjestebok",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "gjestebok"
+    },
+    "content": {
+    }
+}

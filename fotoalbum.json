@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "fotoalbum",
+        "path": "/fotoalbum",
+        "title": "Fotoalbum",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+    }
+}

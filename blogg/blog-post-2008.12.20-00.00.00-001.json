@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.12.20-00.00.00-001",
+        "path": "/blogg/blog-post-2008.12.20-00.00.00-001",
+        "title": "På vei hjem over fjellet. Har væ",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "På vei hjem over fjellet. Har væ",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "20.12.2008",
+            "text-blocks": [
+                "På vei hjem over fjellet. Har vært en lærerik tur, og morro å jobbe med Gordon fra Proflex."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_494d010b71a0b.jpg"
+                }
+            ]
+        }
+    }
+}

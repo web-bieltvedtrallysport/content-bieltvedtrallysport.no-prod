@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.06.28-00.00.00-002",
+        "path": "/blogg/blog-post-2008.06.28-00.00.00-002",
+        "title": "Skjer ALLTID noe på Momarken..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Skjer ALLTID noe på Momarken..",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "28.06.2008",
+            "text-blocks": [
+                "Skjer ALLTID noe på Momarken.."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4866609eaa023.jpg"
+                }
+            ]
+        }
+    }
+}

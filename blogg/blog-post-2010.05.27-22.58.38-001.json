@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.27-22.58.38-001",
+        "path": "/blogg/blog-post-2010.05.27-22.58.38-001",
+        "title": "Endelig på hjula igjen!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Endelig på hjula igjen!", 
+                        "sent-timestamp": "27.05.2010 16:58:05", 
+                        "received-timestamp": "27.05.2010 16:58:38", 
+                        "message-id": "<4bfedcfc.0e67f10a.53e3.50f9@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Endelig på hjula igjen!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "27.05.2010 22:58:38",
+            "text-blocks": [
+                "Hjulene er på plass og nye motoren startet opp. Førstkommende søndag drar vi til Kongsvinger for å trene samt få kjørt inn motoren før mapping i forkant av Aurskog-Høland Rally."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.27-22.58.38-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0372.jpg"
+                }
+            ]
+        }
+    }
+}

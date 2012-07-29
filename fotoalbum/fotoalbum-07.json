@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-07",
+        "path": "/fotoalbum/fotoalbum-07",
+        "title": "Rally Sørland 2008",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2008-rally-sorland-1", 
+                "original-image": {
+                    "file-name": "_DSC1465-2.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "123", 
+                        "file": "/2008-rally-sorland/w180/2008-rally-sorland-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "194", 
+                        "file": "/2008-rally-sorland/w285/2008-rally-sorland-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "341", 
+                        "file": "/2008-rally-sorland/w500/2008-rally-sorland-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-sorland-2", 
+                "original-image": {
+                    "file-name": "_DSC1835-2.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "125", 
+                        "file": "/2008-rally-sorland/w180/2008-rally-sorland-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "198", 
+                        "file": "/2008-rally-sorland/w285/2008-rally-sorland-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "347", 
+                        "file": "/2008-rally-sorland/w500/2008-rally-sorland-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-sorland-3", 
+                "original-image": {
+                    "file-name": "IMGP3126.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-sorland/w180/2008-rally-sorland-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-sorland/w285/2008-rally-sorland-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-rally-sorland/w500/2008-rally-sorland-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-sorland-4", 
+                "original-image": {
+                    "file-name": "IMGP3132.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-sorland/w180/2008-rally-sorland-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-sorland/w285/2008-rally-sorland-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-rally-sorland/w500/2008-rally-sorland-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-sorland-5", 
+                "original-image": {
+                    "file-name": "IMGP3172.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-sorland/w180/2008-rally-sorland-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-sorland/w285/2008-rally-sorland-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-rally-sorland/w500/2008-rally-sorland-5_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.11.21-16.54.14-001",
+        "path": "/blogg/blog-post-2009.11.21-16.54.14-001",
+        "title": "Det røde feltet i midten er TOOLS jakker!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "DSC01296", 
+                        "sent-timestamp": "21.11.2009 10:54:13", 
+                        "received-timestamp": "21.11.2009 10:54:14", 
+                        "message-id": "<8861546.1258818853398.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Det røde feltet i midten er TOOLS jakker!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "21.11.2009 16:54:14",
+            "text-blocks": [
+                "Det røde feltet i midten er TOOLS jakker! 460 gjester er på plass."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.11.21-16.54.14-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01296.jpg"
+                }
+            ]
+        }
+    }
+}

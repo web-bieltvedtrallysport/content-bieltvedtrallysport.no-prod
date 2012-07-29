@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.04.19-06.12.05-001",
+        "path": "/blogg/blog-post-2010.04.19-06.12.05-001",
+        "title": "Steinsprutskydd",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Steinsprutskydd", 
+                        "sent-timestamp": "19.04.2010 06:11:35", 
+                        "received-timestamp": "19.04.2010 06:12:05", 
+                        "message-id": "<4bcbd811.0f67f10a.3877.0bee@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Steinsprutskydd",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "19.04.2010 06:12:05",
+            "text-blocks": [
+                "Da er den evige kampen for å beskytte gulv, tank, eksos og bakaksel igang:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.04.19-06.12.05-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0251.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.17-18.48.55-001",
+        "path": "/blogg/blog-post-2009.07.17-18.48.55-001",
+        "title": "Da skulle alt være klart.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Da skulle alt være klart. Vi skal kjøre", 
+                        "sent-timestamp": "17.07.2009 18:48:54", 
+                        "received-timestamp": "17.07.2009 18:48:55", 
+                        "message-id": "<30943018.1247849334915.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Da skulle alt være klart.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.07.2009 18:48:55",
+            "text-blocks": [
+                "Da skulle alt være klart. Vi skal kjøre test i helgen med Tapio Laukkanen for å forsikre oss om at bilens innstillinger er ok. Tapio har god erfaring med denne typen bil, så det skal bli spennende:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.17-18.48.55-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01088.jpg"
+                }
+            ]
+        }
+    }
+}

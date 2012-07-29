@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.04.26-00.00.00-004",
+        "path": "/blogg/blog-post-2008.04.26-00.00.00-004",
+        "title": "Sveinung i samtale med en ingeniør",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Sveinung i samtale med en ingeniør",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.04.2008",
+            "text-blocks": [
+                "Sveinung i samtale med en ingeniør fra prodrive, som er med Grøndal. Senterdiffen virker ikke. Er redd at bakdiffen ikke tåler belastningen den får da. Lyste en rød lampe når de kom i mål om høyt temp på bakdiffen. Blir nok nødt til å bryte i dag. Synd, men det er bare tre virkedager etter helga før Rally Sørlandet. Kan ikke da satse på at det går, og brenne opp bakkdiffen. Vil da få problemer med og få deler tidsnok."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_481347684f516.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.01-15.25.26-001",
+        "path": "/blogg/blog-post-2010.06.01-15.25.26-001",
+        "title": "Det hadde vært noe det Ole...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "01.06.2010 09:25:22", 
+                        "received-timestamp": "01.06.2010 09:25:26", 
+                        "message-id": "<A8NtnNvTB3mxZHG_2@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Det hadde vært noe det Ole...",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.06.2010 15:25:26",
+            "text-blocks": [
+                "Det hadde vært noe det Ole... ;-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.01-15.25.26-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "01062010575.jpg"
+                }
+            ]
+        }
+    }
+}

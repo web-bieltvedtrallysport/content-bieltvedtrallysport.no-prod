@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.08.12-15.36.01-001",
+        "path": "/blogg/blog-post-2010.08.12-15.36.01-001",
+        "title": "Da er vi i Mandal",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Da er vi i Mandal", 
+                        "sent-timestamp": "12.08.2010 09:35:36", 
+                        "received-timestamp": "12.08.2010 09:36:01", 
+                        "message-id": "<4706912447672126796@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Da er vi i Mandal",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "12.08.2010 15:36:01",
+            "text-blocks": [
+                "Først prøve litt bil med Petter bak rattet...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.08.12-15.36.01-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0566.jpg"
+                }
+            ]
+        }
+    }
+}

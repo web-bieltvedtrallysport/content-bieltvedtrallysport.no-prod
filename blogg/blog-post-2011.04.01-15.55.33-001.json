@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.01-15.55.33-001",
+        "path": "/blogg/blog-post-2011.04.01-15.55.33-001",
+        "title": "Road book",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Road book", 
+                        "sent-timestamp": "01.04.2011 09:46:56", 
+                        "received-timestamp": "01.04.2011 09:55:33", 
+                        "message-id": "<BLU0-SMTP93360327491607D2CDF04AA1BE0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Road book",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.04.2011 15:55:33",
+            "text-blocks": [
+                "Dette må være den ss'n med minst tulipan noter jeg har kjørt", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.01-15.55.33-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

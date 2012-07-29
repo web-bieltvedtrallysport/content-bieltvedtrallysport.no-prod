@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.30-12.30.52-001",
+        "path": "/blogg/blog-post-2011.04.30-12.30.52-001",
+        "title": "Service",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Service", 
+                        "sent-timestamp": "30.04.2011 06:24:51", 
+                        "received-timestamp": "30.04.2011 06:30:52", 
+                        "message-id": "<BLU0-SMTP117EEC87DB8A03267C7A0A5A19D0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Service",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "30.04.2011 12:30:52",
+            "text-blocks": [
+                "Da er vi inne til service.. Så nær var vi et stort tidstap på ss 4. Alt i orden ellers.. Litt lite blogging i dag pga så korte transport.... Ligger 2. Totalt...", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.30-12.30.52-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

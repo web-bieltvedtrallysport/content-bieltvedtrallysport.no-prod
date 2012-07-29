@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.22-20.29.33-001",
+        "path": "/blogg/blog-post-2011.09.22-20.29.33-001",
+        "title": "Ny samarbeidspartner",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ny samarbeidspartner", 
+                        "sent-timestamp": "22.09.2011 14:29:09", 
+                        "received-timestamp": "22.09.2011 14:29:33", 
+                        "message-id": "<217333237075245518@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Ny samarbeidspartner",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "22.09.2011 20:29:33",
+            "text-blocks": [
+                "Vi har på tampen av sesongen fått med enda en støttespiller på laget. Harald Grønvold Maskinforetning driver mekanisk landbruksverksted i Ski med døgnvakt. I tillegg selges alt fra traktorer og biltilhengere til hageutstyr, og så klart produkter fra TOOLS sortimentet:) Se www.gronvold.as."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.22-20.29.33-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1587.jpg"
+                }
+            ]
+        }
+    }
+}

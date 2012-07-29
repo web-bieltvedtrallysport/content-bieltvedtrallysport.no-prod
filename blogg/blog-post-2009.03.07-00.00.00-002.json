@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.03.07-00.00.00-002",
+        "path": "/blogg/blog-post-2009.03.07-00.00.00-002",
+        "title": "da ligger Sveinung ute og justere",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "da ligger Sveinung ute og justere",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "07.03.2009",
+            "text-blocks": [
+                "da ligger Sveinung ute og justere spissing. Var borti en halmball. Tapte ikke så mye på det:)"
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/03/5d209_DSC00481.JPG"
+                }
+            ]
+        }
+    }
+}

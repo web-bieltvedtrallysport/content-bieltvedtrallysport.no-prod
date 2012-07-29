@@ -1,0 +1,323 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-04",
+        "path": "/fotoalbum/fotoalbum-04",
+        "title": "Rally Hadeland 2008",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2008-rally-hadeland-1", 
+                "original-image": {
+                    "file-name": "_DSC2736.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-2", 
+                "original-image": {
+                    "file-name": "_DSC2740.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-3", 
+                "original-image": {
+                    "file-name": "_DSC2741.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-4", 
+                "original-image": {
+                    "file-name": "_DSC2742.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-5", 
+                "original-image": {
+                    "file-name": "_DSC3209.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-6", 
+                "original-image": {
+                    "file-name": "_DSC3210.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-7", 
+                "original-image": {
+                    "file-name": "_DSC3211.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-8", 
+                "original-image": {
+                    "file-name": "_DSC3212.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-8_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-9", 
+                "original-image": {
+                    "file-name": "_DSC3213.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-9_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-9_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-9_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-10", 
+                "original-image": {
+                    "file-name": "_DSC3214.JPG", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-10_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "191", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-10_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "335", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-10_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-hadeland-11", 
+                "original-image": {
+                    "file-name": "Rally Hadeland 26 jan 2008 106.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "121", 
+                        "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-11_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-11_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-11_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

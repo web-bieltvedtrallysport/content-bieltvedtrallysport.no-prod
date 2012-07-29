@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.10.25-00.00.00-009",
+        "path": "/blogg/blog-post-2008.10.25-00.00.00-009",
+        "title": "Lave dørkarmer i Østerike. Roger",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Lave dørkarmer i Østerike. Roger",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "25.10.2008",
+            "text-blocks": [
+                "Lave dørkarmer i Østerike. Roger på drøye 1,80 må nesten kromme ryggen for å komme igjennom..hehe. Sånn ellers venter vi på at vinnerene skal kåres. Det skjer rundt klokka 8 i kveld."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4903529bdf660.jpg"
+                }
+            ]
+        }
+    }
+}

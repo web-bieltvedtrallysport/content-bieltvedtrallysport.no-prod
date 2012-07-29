@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.08.27-19.13.08-001",
+        "path": "/blogg/blog-post-2011.08.27-19.13.08-001",
+        "title": "Hjemme",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Hjemme", 
+                        "sent-timestamp": "27.08.2011 13:12:39", 
+                        "received-timestamp": "27.08.2011 13:13:08", 
+                        "message-id": "<BLU0-SMTP166E22A1AD01D90A5FCF3B4A1120@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Hjemme",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.08.2011 19:13:08",
+            "text-blocks": [
+                "Da er vi hjemme igjen.. Var ikke helt fornøyd med kjøre egenskapene. Nå er senter- diffen ute..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.08.27-19.13.08-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

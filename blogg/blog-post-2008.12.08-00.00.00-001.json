@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.12.08-00.00.00-001",
+        "path": "/blogg/blog-post-2008.12.08-00.00.00-001",
+        "title": "Sponsormiddag",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Sponsormiddag",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "08.12.2008",
+            "text-blocks": [
+                "Ledelsen i TOOLS Norge var så imponert over alle mekanikerne i teamet som står på for å holde hjulene igang. Det resulterte i at hele gjengen ble bedt med til Wallmanns Salonger i Oslo, med middag og show på en gang. Mye bra underholdning, alt fra klassiske julelåter til 80-talls slagere :-)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_493d697e6fafb.jpg"
+                }
+            ]
+        }
+    }
+}

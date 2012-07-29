@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.13-21.37.25-001",
+        "path": "/blogg/blog-post-2009.08.13-21.37.25-001",
+        "title": "Var ikke lett å finne ut av denne motoren.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Var ikke lett å finne ut av denne motore", 
+                        "sent-timestamp": "13.08.2009 21:37:21", 
+                        "received-timestamp": "13.08.2009 21:37:25", 
+                        "message-id": "<1658491.1250192241639.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Var ikke lett å finne ut av denne motoren.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "13.08.2009 21:37:25",
+            "text-blocks": [
+                "Var ikke lett å finne ut av denne motoren. Pappa og Olav Bodilsen drar til Sverige og Autotech med bilen for forhåpentligvis å løse problemet."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.13-21.37.25-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01152.jpg"
+                }
+            ]
+        }
+    }
+}

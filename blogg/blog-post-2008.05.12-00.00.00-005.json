@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.12-00.00.00-005",
+        "path": "/blogg/blog-post-2008.05.12-00.00.00-005",
+        "title": "And the winner is…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "And the winner is…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "12.05.2008",
+            "text-blocks": [
+                "Her har vi vinneren og den nye bilen hans! Morten Rønning, en liten og kul kar fra Namsos som såvidt rakk fram til pedalene, men som kjørte helt rått!! Hadde ikke kjørt forhjulstrekk før, men satte nest best tid. Prøvde venstrebremsing for første gang, og gjorde det til 20 i stil.. Var best i bakhjulstrekk, og nest best i gokart. Verdig vinner med kjempetalent for bilkjøring, som imponerte alle i juryen stort med sin progresjon, bilbeherskelse og attakk inn i svingene!"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48285abe3ffc3.jpg"
+                }
+            ]
+        }
+    }
+}

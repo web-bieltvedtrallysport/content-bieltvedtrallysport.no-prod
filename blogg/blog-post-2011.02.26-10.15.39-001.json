@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.26-10.15.39-001",
+        "path": "/blogg/blog-post-2011.02.26-10.15.39-001",
+        "title": "Frokost",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Frokost", 
+                        "sent-timestamp": "26.02.2011 04:13:35", 
+                        "received-timestamp": "26.02.2011 04:15:39", 
+                        "message-id": "<BLU0-SMTP144DA281DBEB9358DF5357CA1DC0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Frokost",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.02.2011 10:15:39",
+            "text-blocks": [
+                "Ferdig med frokosten nå... Ble litt sener i dag en vi hadde håpet på.. Gutta gjorde en kjempe innsats i natt. Bytta delene inni kassa, fikk den inn i bilen igjen.. Skuffelsen var derfor stor når telefonen ringte kl:04.30 i dag.. Etter en prøve tur var ikke alt helt i orden.. Innså da at vi ikke ville rekke en runde til med kasse ut- inn..  Da var det bare å kaste inn håndkleet..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.26-10.15.39-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

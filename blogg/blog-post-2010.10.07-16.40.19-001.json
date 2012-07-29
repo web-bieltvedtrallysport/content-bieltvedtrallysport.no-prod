@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.10.07-16.40.19-001",
+        "path": "/blogg/blog-post-2010.10.07-16.40.19-001",
+        "title": "Shakedown",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Shakedown", 
+                        "sent-timestamp": "07.10.2010 10:38:10", 
+                        "received-timestamp": "07.10.2010 10:40:19", 
+                        "message-id": "<BLU0-SMTP198709C7B207571C77FB2BFA16F0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Shakedown",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "07.10.2010 16:40:19",
+            "text-blocks": [
+                "Nå driver vi og kjører Shakedown. Blei gjort en del endringer på bilen etter Hedemarken. Så litt uvant, men til det bedere. Går sinnsykt fort her til tider.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.10.07-16.40.19-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

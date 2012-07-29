@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.20-00.00.00-002",
+        "path": "/blogg/blog-post-2008.09.20-00.00.00-002",
+        "title": "Nå er vi på vei vil Rally Tr??gst",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå er vi på vei vil Rally Tr??gst",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "20.09.2008",
+            "text-blocks": [
+                "Nå er vi på vei vil Rally Trøgstad. Et sprint rally som blir en gjennomkjøring/test føre Hedmarken neste helg. Sveinung er litt plaget av en forkjølese som henger i, for se åssen det går."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48d49a7b0aa6a.jpg"
+                }
+            ]
+        }
+    }
+}

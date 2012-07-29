@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.18-00.00.00-001",
+        "path": "/blogg/blog-post-2008.03.18-00.00.00-001",
+        "title": "Klar til lakk. Ble en del nye…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Klar til lakk. Ble en del nye…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "18.03.2008",
+            "text-blocks": [
+                "Klar til lakk. Ble en del nye deler pluss at André la mye jobb i bakskjermen..(= lite sparkel.) Flink gutt det.."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47e00709c15b2.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.11.30-17.54.28-001",
+        "path": "/blogg/blog-post-2009.11.30-17.54.28-001",
+        "title": "Genial julegave til far!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Genial julegave til far! Først støvsuger", 
+                        "sent-timestamp": "30.11.2009 11:54:27", 
+                        "received-timestamp": "30.11.2009 11:54:28", 
+                        "message-id": "<16776722.1259600067599.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Genial julegave til far!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.11.2009 17:54:28",
+            "text-blocks": [
+                "Genial julegave til far! Først støvsuger man bort bøss, deretter blåsepistol for å løsne ureinheter som går festet seg og til slutt støvsuges det en gang til. Alt i ett verktøy til under 400,-. Dagens TOOLS reklame:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.11.30-17.54.28-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01311.jpg"
+                }
+            ]
+        }
+    }
+}

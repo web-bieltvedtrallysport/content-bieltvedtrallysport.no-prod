@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.01.28-14.52.32-001",
+        "path": "/blogg/blog-post-2011.01.28-14.52.32-001",
+        "title": "Snart ferdig med gjennomkjøring",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Snart ferdig med gjennomkjøring", 
+                        "sent-timestamp": "28.01.2011 08:49:09", 
+                        "received-timestamp": "28.01.2011 08:52:32", 
+                        "message-id": "<BLU0-SMTP13867427CC772253C7187EA1E10@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Snart ferdig med gjennomkjøring",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "28.01.2011 14:52:32",
+            "text-blocks": [
+                "For et sovehjerte... Som gutta i formel 1, tar Sveinung seg en liten lur rett før det braker løs. Det for at sansene skal være helt skjerpet. Så da må jeg kjøre transport etappen opp til ss.. Detta blir nok bra.. :-) 2 stk ss til så er vi ferdig..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.01.28-14.52.32-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

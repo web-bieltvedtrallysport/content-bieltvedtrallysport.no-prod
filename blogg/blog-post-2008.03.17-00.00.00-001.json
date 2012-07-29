@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.17-00.00.00-001",
+        "path": "/blogg/blog-post-2008.03.17-00.00.00-001",
+        "title": "Her er André og jeg igang med og…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Her er André og jeg igang med og…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "17.03.2008",
+            "text-blocks": [
+                "Her er André og jeg igang med og rette opp bilen etter Nummedal. Ble en del jobb."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47dec5ed14baa.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.02.15-00.00.00-002",
+        "path": "/blogg/blog-post-2009.02.15-00.00.00-002",
+        "title": "inne til service. Har gått helt g",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "inne til service. Har gått helt g",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "15.02.2009",
+            "text-blocks": [
+                "inne til service. Har gått helt greit, men tapte litt på siste ss."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/02/891be_DSC00460.JPG"
+                }
+            ]
+        }
+    }
+}

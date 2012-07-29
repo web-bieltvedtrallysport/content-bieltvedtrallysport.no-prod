@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.05.04-18.10.31-001",
+        "path": "/blogg/blog-post-2012.05.04-18.10.31-001",
+        "title": "Siste måltid",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Siste måltid", 
+                        "sent-timestamp": "04.05.2012 12:10:12", 
+                        "received-timestamp": "04.05.2012 12:10:31", 
+                        "message-id": "<BLU0-SMTP2829A0D0FF6F5DBE5D80A5AA12C0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Siste måltid",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "04.05.2012 18:10:31",
+            "text-blocks": [
+                "Siste måltid før start..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.05.04-18.10.31-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

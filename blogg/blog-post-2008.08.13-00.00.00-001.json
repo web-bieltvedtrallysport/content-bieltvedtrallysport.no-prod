@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.13-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.13-00.00.00-001",
+        "title": "Her har vi Andreas Brøvig…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Her har vi Andreas Brøvig…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "13.08.2008",
+            "text-blocks": [
+                "Her har vi Andreas Brøvig i Brøvig Televisjon AS. Han lager film fra årets kjøring som Lars Brænna og jeg skal presentere for TOOLS Norge sin årsmøteforsamling 22. august. Filmen blir også lagt ut på hjemmesiden etter hvert. Kul sak på drøye 3 minutter!"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48a3343fc9a72.jpg"
+                }
+            ]
+        }
+    }
+}

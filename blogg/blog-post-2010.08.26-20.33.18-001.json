@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.08.26-20.33.18-001",
+        "path": "/blogg/blog-post-2010.08.26-20.33.18-001",
+        "title": "Snarvisitt Østlandet",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Snarvisitt Østlandet", 
+                        "sent-timestamp": "26.08.2010 14:32:58", 
+                        "received-timestamp": "26.08.2010 14:33:18", 
+                        "message-id": "<-4956897818304097629@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Snarvisitt Østlandet",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.08.2010 20:33:18",
+            "text-blocks": [
+                "På vei hjem fra Haugesund nå, må jo innom jobben litt også:) Retur Vestlandet blir søndag kveld for å være klar i Bergen mandag formiddag for nytt rallyshow:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.08.26-20.33.18-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0635.jpg"
+                }
+            ]
+        }
+    }
+}

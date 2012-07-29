@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.03.01-00.00.00-001",
+        "path": "/blogg/blog-post-2009.03.01-00.00.00-001",
+        "title": "skikkelig bilpark i TOOLS Rallytea",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "skikkelig bilpark i TOOLS Rallytea",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.03.2009",
+            "text-blocks": [
+                "skikkelig bilpark i TOOLS Rallyteam sitt verksted om dagen. Nå er gearkassa i bilen igjen etter sjekk."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/03/cb492_DSC01015.jpg"
+                }
+            ]
+        }
+    }
+}

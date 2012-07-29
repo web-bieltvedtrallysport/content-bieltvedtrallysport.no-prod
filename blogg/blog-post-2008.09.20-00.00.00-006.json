@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.20-00.00.00-006",
+        "path": "/blogg/blog-post-2008.09.20-00.00.00-006",
+        "title": "regrup. Ss2 var notene helt på j",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "regrup. Ss2 var notene helt på j",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "20.09.2008",
+            "text-blocks": [
+                "regrup. Ss2 var notene helt på jordet. Ss3 gjør noen små endringer på bilen. Uten hell..  Justerer videre på neste prøve.."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48d4d2eeef2d8.jpg"
+                }
+            ]
+        }
+    }
+}

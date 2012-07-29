@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.02-13.18.59-001",
+        "path": "/blogg/blog-post-2011.02.02-13.18.59-001",
+        "title": "Skulle bare ha skiftet frontruta :-)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Skulle bare ha skiftet frontruta :-)", 
+                        "sent-timestamp": "02.02.2011 07:17:35", 
+                        "received-timestamp": "02.02.2011 07:18:59", 
+                        "message-id": "<BLU0-SMTP91C26AA79D5914BE3ED136A1E40@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Skulle bare ha skiftet frontruta :-)",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.02.2011 13:18:59",
+            "text-blocks": [
+                "Her er det litt mer jobb en bare og lime inn ruta.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.02-13.18.59-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

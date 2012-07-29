@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.04.26-09.46.44-001",
+        "path": "/blogg/blog-post-2010.04.26-09.46.44-001",
+        "title": "Klare for test",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Klare for test", 
+                        "sent-timestamp": "26.04.2010 09:45:56", 
+                        "received-timestamp": "26.04.2010 09:46:44", 
+                        "message-id": "<4bd544e1.0f67f10a.7563.ffff9228@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Klare for test",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.04.2010 09:46:44",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.04.26-09.46.44-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0269.jpg"
+                }
+            ]
+        }
+    }
+}

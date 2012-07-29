@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.10.26-00.00.00-002",
+        "path": "/blogg/blog-post-2008.10.26-00.00.00-002",
+        "title": "Med ca 70 mil igjen burde vi vær",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Med ca 70 mil igjen burde vi vær",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.10.2008",
+            "text-blocks": [
+                "Med ca 70 mil igjen burde vi være hjemme i morgen tidlig en gang. Akkurat entret Danmark nå. Har vært en lærerik og kul tur. Morro å være med på, og et inspirerende opplegg for unge rallyførere med VM ambisjoner:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4904d27d259ac.jpg"
+                }
+            ]
+        }
+    }
+}

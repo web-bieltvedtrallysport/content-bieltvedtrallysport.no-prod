@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.02.29-00.00.00-002",
+        "path": "/blogg/blog-post-2008.02.29-00.00.00-002",
+        "title": "Det føyker bra 1100 m.o.h….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Det føyker bra 1100 m.o.h….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "29.02.2008",
+            "text-blocks": [
+                "Det føyker bra 1100 m.o.h. Transport til ss7 smådøla syd."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47c7ca8f6f9d3.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.19-12.18.26-001",
+        "path": "/blogg/blog-post-2010.06.19-12.18.26-001",
+        "title": "Nå er det re-grup..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "19.06.2010 06:18:25", 
+                        "received-timestamp": "19.06.2010 06:18:26", 
+                        "message-id": "<AH0ShDRtAiKjJqCwe@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Nå er det re-grup..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "19.06.2010 12:18:26",
+            "text-blocks": [
+                "Nå er det re-grup.. Den eneste feilen vi vet om er en ventil hette som mangler.. Og det bør vi rekke på 45 min servicen:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.19-12.18.26-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "19062010618.jpg"
+                }
+            ]
+        }
+    }
+}

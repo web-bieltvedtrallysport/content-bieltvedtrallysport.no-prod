@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.01.25-00.00.00-001",
+        "path": "/blogg/blog-post-2009.01.25-00.00.00-001",
+        "title": "Flydag hos naboen. Endelig er de",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Flydag hos naboen. Endelig er de",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "25.01.2009",
+            "text-blocks": [
+                "Flydag hos naboen. Endelig er det myk snø som tar imot for ukontrollerte nødlandinger. Pleier å bli mange av dem…"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_497c5f543b317.jpg"
+                }
+            ]
+        }
+    }
+}

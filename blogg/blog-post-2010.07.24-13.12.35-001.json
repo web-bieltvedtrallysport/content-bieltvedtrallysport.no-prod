@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.07.24-13.12.35-001",
+        "path": "/blogg/blog-post-2010.07.24-13.12.35-001",
+        "title": "Test med Østberg",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Test med Østberg", 
+                        "sent-timestamp": "24.07.2010 07:12:35", 
+                        "received-timestamp": "24.07.2010 07:12:35", 
+                        "message-id": "<AANLkTi=JtRK3jb_sDNMc8AKT3pPicmZFU=xYPF=47+Pt@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Test med Østberg",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "24.07.2010 13:12:35",
+            "text-blocks": [
+                "Dette bildet er fra test med Mads for noen dager siden. Satt på ett par km. før girkassa røk. Heftig opplevelse med WRC:-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.07.24-13.12.35-001-image-1.JPG", 
+                    "height": "2048", 
+                    "width": "3648", 
+                    "orientation": "Landscape", 
+                    "original-name": "20.07.2010 044.JPG"
+                }
+            ]
+        }
+    }
+}

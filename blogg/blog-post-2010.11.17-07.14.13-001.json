@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.11.17-07.14.13-001",
+        "path": "/blogg/blog-post-2010.11.17-07.14.13-001",
+        "title": "Sprekk sjekk",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Sprekk sjekk", 
+                        "sent-timestamp": "17.11.2010 00:12:38", 
+                        "received-timestamp": "17.11.2010 01:14:13", 
+                        "message-id": "<3623060172062819477@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Sprekk sjekk",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.11.2010 07:14:13",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.11.17-07.14.13-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0801.jpg"
+                }
+            ]
+        }
+    }
+}

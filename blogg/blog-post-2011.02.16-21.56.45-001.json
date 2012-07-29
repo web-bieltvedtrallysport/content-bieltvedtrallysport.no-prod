@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.16-21.56.45-001",
+        "path": "/blogg/blog-post-2011.02.16-21.56.45-001",
+        "title": "Klart for test",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Klart for test", 
+                        "sent-timestamp": "16.02.2011 14:55:20", 
+                        "received-timestamp": "16.02.2011 15:56:45", 
+                        "message-id": "<-1356322693810546543@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Klart for test",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "16.02.2011 21:56:45",
+            "text-blocks": [
+                "Det nærmer seg tid for test og trening..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.16-21.56.45-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0996.jpg"
+                }
+            ]
+        }
+    }
+}

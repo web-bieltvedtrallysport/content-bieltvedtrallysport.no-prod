@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.03.06-11.31.52-001",
+        "path": "/blogg/blog-post-2010.03.06-11.31.52-001",
+        "title": "Da er vi på vei til ss4.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "06.03.2010 05:31:51", 
+                        "received-timestamp": "06.03.2010 05:31:52", 
+                        "message-id": "<AzjucbMp2PpLXL5TP@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi på vei til ss4.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.03.2010 11:31:52",
+            "text-blocks": [
+                "Da er vi på vei til ss4. Har slitt litt med og finne flyten på de 2 første ssene men løsnet  på ss3. Har vært på service og fått nye hjul.  så nå skal det laddes..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.03.06-11.31.52-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "06032010479.jpg"
+                }
+            ]
+        }
+    }
+}

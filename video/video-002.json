@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "id": "video/video-002",
+        "path": "/video/video-002",
+        "title": "Video TOOLS Rallyteam 2008",
+        "classification": "content-document",
+        "type": "video",
+        "default-template": "video"
+    },
+    "content": {
+        "video": {
+            "heading": "Video TOOLS Rallyteam 2008",
+            "source": "http://toolsrallyteam.no-static-resources.s3.amazonaws.com/videos/Sv08web2.wmv",
+            "isVimeoVideo": "false"
+        }
+    }
+}

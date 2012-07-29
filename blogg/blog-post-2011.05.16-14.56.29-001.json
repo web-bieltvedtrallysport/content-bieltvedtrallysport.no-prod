@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.16-14.56.29-001",
+        "path": "/blogg/blog-post-2011.05.16-14.56.29-001",
+        "title": "Da har vi landet på Gardemoen",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Da har vi landet på Gardemoen", 
+                        "sent-timestamp": "16.05.2011 08:53:09", 
+                        "received-timestamp": "16.05.2011 08:56:29", 
+                        "message-id": "<BLU0-SMTP1001DFA62FDA1767574E0E1A18D0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Da har vi landet på Gardemoen",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "16.05.2011 14:56:29",
+            "text-blocks": [
+                "Bare og åpne alle baggene for å finne rette eier..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.16-14.56.29-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

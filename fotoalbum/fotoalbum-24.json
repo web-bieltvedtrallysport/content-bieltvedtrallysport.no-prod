@@ -1,0 +1,855 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-24",
+        "path": "/fotoalbum/fotoalbum-24",
+        "title": "Numedalsrally 2009",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2009-numedalrally-1", 
+                "original-image": {
+                    "file-name": "IMG_9468.jpg", 
+                    "rights": "Andreas Brøvig" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "334", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-2", 
+                "original-image": {
+                    "file-name": "IMG_9469.jpg", 
+                    "rights": "Andreas Brøvig" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "334", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-3", 
+                "original-image": {
+                    "file-name": "__DSC2760-2.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-4", 
+                "original-image": {
+                    "file-name": "__DSC2765-2.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "117", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "185", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "325", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-5", 
+                "original-image": {
+                    "file-name": "__DSC3327-2.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "144", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "400", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-6", 
+                "original-image": {
+                    "file-name": "__DSC3330-2.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-7", 
+                "original-image": {
+                    "file-name": "_DSC2754.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-8", 
+                "original-image": {
+                    "file-name": "_DSC2755.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-8_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-9", 
+                "original-image": {
+                    "file-name": "_DSC2756.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-9_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-9_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-9_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-10", 
+                "original-image": {
+                    "file-name": "_DSC2757.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-10_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-10_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-10_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-11", 
+                "original-image": {
+                    "file-name": "_DSC2758.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-11_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-11_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-11_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-12", 
+                "original-image": {
+                    "file-name": "_DSC2759.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-12_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-12_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-12_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-13", 
+                "original-image": {
+                    "file-name": "_DSC2760.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-13_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-13_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-13_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-14", 
+                "original-image": {
+                    "file-name": "_DSC2761.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-14_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-14_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-14_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-15", 
+                "original-image": {
+                    "file-name": "_DSC2762.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-15_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-15_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-15_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-16", 
+                "original-image": {
+                    "file-name": "_DSC2763.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-16_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-16_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-16_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-17", 
+                "original-image": {
+                    "file-name": "_DSC2764.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-17_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-17_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-17_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-18", 
+                "original-image": {
+                    "file-name": "_DSC2765.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-18_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-18_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-18_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-19", 
+                "original-image": {
+                    "file-name": "_DSC2766.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-19_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-19_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-19_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-20", 
+                "original-image": {
+                    "file-name": "_DSC2767.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-20_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-20_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-20_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-21", 
+                "original-image": {
+                    "file-name": "_DSC2768.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-21_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-21_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-21_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-22", 
+                "original-image": {
+                    "file-name": "_DSC3324.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-22_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-22_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-22_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-23", 
+                "original-image": {
+                    "file-name": "_DSC3325.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-23_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-23_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-23_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-24", 
+                "original-image": {
+                    "file-name": "_DSC3326.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-24_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-24_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-24_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-25", 
+                "original-image": {
+                    "file-name": "_DSC3327.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-25_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-25_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-25_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-26", 
+                "original-image": {
+                    "file-name": "_DSC3328.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-26_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-26_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-26_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-27", 
+                "original-image": {
+                    "file-name": "_DSC3329.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-27_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-27_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-27_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-28", 
+                "original-image": {
+                    "file-name": "_DSC3330.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-28_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-28_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-28_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-29", 
+                "original-image": {
+                    "file-name": "_DSC3331.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-29_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-29_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-29_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-numedalrally-30", 
+                "original-image": {
+                    "file-name": "_DSC3332.jpg", 
+                    "rights": " Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-numedalsrally/w180/2009-numedalrally-30_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-numedalsrally/w285/2009-numedalrally-30_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-numedalsrally/w500/2009-numedalrally-30_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

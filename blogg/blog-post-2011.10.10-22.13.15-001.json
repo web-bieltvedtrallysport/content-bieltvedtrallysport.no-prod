@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.10.10-22.13.15-001",
+        "path": "/blogg/blog-post-2011.10.10-22.13.15-001",
+        "title": "TilhengerService",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "TilhengerService", 
+                        "sent-timestamp": "10.10.2011 16:12:34", 
+                        "received-timestamp": "10.10.2011 16:13:15", 
+                        "message-id": "<-510259963503501698@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "TilhengerService",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "10.10.2011 22:13:15",
+            "text-blocks": [
+                "Nå var det på høy tid med et sjau på skaphengeren... Nye bremser og sånt:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.10.10-22.13.15-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1635.jpg"
+                }
+            ]
+        }
+    }
+}

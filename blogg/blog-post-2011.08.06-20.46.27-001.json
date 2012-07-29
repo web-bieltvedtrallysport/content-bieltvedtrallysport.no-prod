@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.08.06-20.46.27-001",
+        "path": "/blogg/blog-post-2011.08.06-20.46.27-001",
+        "title": "Sommerferie offisielt avsluttet :-)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Sommerferie offisielt avsluttet :-)", 
+                        "sent-timestamp": "06.08.2011 14:45:30", 
+                        "received-timestamp": "06.08.2011 14:46:27", 
+                        "message-id": "<-1802237144142163094@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Sommerferie offisielt avsluttet :-)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "06.08.2011 20:46:27",
+            "text-blocks": [
+                "Endelig rallybilkjøring igjen! Nå skal bil & utstyr klargjøres for TOOLS Rallyshow. Først ut er Kristiansand 10. august og så Haugesund 11. august."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.08.06-20.46.27-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1463.jpg"
+                }
+            ]
+        }
+    }
+}

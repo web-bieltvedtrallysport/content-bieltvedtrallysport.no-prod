@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.10-00.00.00-007",
+        "path": "/blogg/blog-post-2009.04.10-00.00.00-007",
+        "title": "da er vi fremme. Fin vei. skal ha",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "da er vi fremme. Fin vei. skal ha",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "10.04.2009",
+            "text-blocks": [
+                "da er vi fremme. Fin vei. skal ha to arbeids plasser i helgen. På bildet ser dere kontor plassen i clio S-1600."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/04/f755d_10042009.jpg"
+                }
+            ]
+        }
+    }
+}

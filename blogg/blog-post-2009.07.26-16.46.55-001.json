@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.26-16.46.55-001",
+        "path": "/blogg/blog-post-2009.07.26-16.46.55-001",
+        "title": "Da sitter vi og venter på båten:-)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "26.07.2009 16:46:53", 
+                        "received-timestamp": "26.07.2009 16:46:55", 
+                        "message-id": "<A7QmnaOkP4UULFa_s@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da sitter vi og venter på båten:-)",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.07.2009 16:46:55",
+            "text-blocks": [
+                "Da sitter vi og venter på båten:-) ser lystigere ut en det er."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.26-16.46.55-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "26072009190.jpg"
+                }
+            ]
+        }
+    }
+}

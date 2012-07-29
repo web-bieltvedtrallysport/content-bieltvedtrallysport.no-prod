@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.09-14.20.52-001",
+        "path": "/blogg/blog-post-2011.09.09-14.20.52-001",
+        "title": "L E Torphs Memorial",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "L E Torphs Memorial", 
+                        "sent-timestamp": "09.09.2011 08:17:47", 
+                        "received-timestamp": "09.09.2011 08:20:52", 
+                        "message-id": "<BLU0-SMTP2248399F35610A008FE769A1010@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "L E Torphs Memorial",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "09.09.2011 14:20:52",
+            "text-blocks": [
+                "Da har vi kjørt gjennom noen ettaper. Fine veier.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.09-14.20.52-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

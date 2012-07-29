@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.30-16.36.25-001",
+        "path": "/blogg/blog-post-2009.08.30-16.36.25-001",
+        "title": "Da er endelig Ascona 400'en som pappa har jobba med ferdig:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Da er endelig Ascona 400'en som pappa ha", 
+                        "sent-timestamp": "30.08.2009 10:36:24", 
+                        "received-timestamp": "30.08.2009 10:36:25", 
+                        "message-id": "<11977467.1251642984183.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Da er endelig Ascona 400'en som pappa har jobba med ferdig:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.08.2009 16:36:25",
+            "text-blocks": [
+                "Da er endelig Ascona 400'en som pappa har jobba med ferdig:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.30-16.36.25-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01182.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.12-00.15.40-001",
+        "path": "/blogg/blog-post-2010.06.12-00.15.40-001",
+        "title": "Ny diff-setting",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ny diff-setting", 
+                        "sent-timestamp": "11.06.2010 18:15:12", 
+                        "received-timestamp": "11.06.2010 18:15:40", 
+                        "message-id": "<4c12b58a.df0ce30a.2a03.7730@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Ny diff-setting",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "12.06.2010 00:15:40",
+            "text-blocks": [
+                "Før rallybilen bygges om for asfalt, skal jeg teste på grus i morra. En strammere bakdiff må prøves for å se om det er noe vi bør bruke seinere i år."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.12-00.15.40-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0414.jpg"
+                }
+            ]
+        }
+    }
+}

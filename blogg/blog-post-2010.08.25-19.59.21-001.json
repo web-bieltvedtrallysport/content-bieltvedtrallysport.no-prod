@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.08.25-19.59.21-001",
+        "path": "/blogg/blog-post-2010.08.25-19.59.21-001",
+        "title": "TOOLS Dagen Stavanger",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "TOOLS Dagen Stavanger", 
+                        "sent-timestamp": "25.08.2010 13:58:57", 
+                        "received-timestamp": "25.08.2010 13:59:21", 
+                        "message-id": "<7250187479383669588@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "TOOLS Dagen Stavanger",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "25.08.2010 19:59:21",
+            "text-blocks": [
+                "Da er vi på plass, og seinere i dag blir det rallyshow:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.08.25-19.59.21-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0616.jpg"
+                }
+            ]
+        }
+    }
+}

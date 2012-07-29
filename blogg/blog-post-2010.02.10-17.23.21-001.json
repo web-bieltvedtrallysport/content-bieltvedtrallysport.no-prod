@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.10-17.23.21-001",
+        "path": "/blogg/blog-post-2010.02.10-17.23.21-001",
+        "title": "Roger, Lars og jeg på visitt hos TOOLS.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "10.02.2010 11:23:17", 
+                        "received-timestamp": "10.02.2010 11:23:21", 
+                        "message-id": "<AUuhmNFbsfusl5G5J@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Roger, Lars og jeg på visitt hos TOOLS.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "10.02.2010 17:23:21",
+            "text-blocks": [
+                "Roger, Lars og jeg på visitt hos TOOLS. Gjennomgang program for Swedish Rally tur med 150 gjester:-) Rally Hokksund endte forresten bedre enn det startet. Bilsyke for kartleseren i starten ble bedret med reisesyke tabletter og frisk mat. Da var det full trøkk på de de siste fartsprøvene:-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.10-17.23.21-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0020.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.10.08-16.17.01-001",
+        "path": "/blogg/blog-post-2010.10.08-16.17.01-001",
+        "title": "Pre-start",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Pre-start", 
+                        "sent-timestamp": "08.10.2010 10:13:55", 
+                        "received-timestamp": "08.10.2010 10:17:01", 
+                        "message-id": "<BLU0-SMTP1365D0B239243438D886C5CA1500@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Pre-start",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "08.10.2010 16:17:01",
+            "text-blocks": [
+                "Venter på og starte... Her rally populert.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.10.08-16.17.01-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

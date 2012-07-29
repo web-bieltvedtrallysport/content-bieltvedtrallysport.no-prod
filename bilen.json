@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "bilen",
+        "path": "/bilen",
+        "title": "Bilen",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "bilen"
+    },
+    "content": {
+    }
+}

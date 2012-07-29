@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.01-18.49.34-001",
+        "path": "/blogg/blog-post-2009.08.01-18.49.34-001",
+        "title": "Det var ikke slik vi ville dette skulle ende.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "01.08.2009 18:49:32", 
+                        "received-timestamp": "01.08.2009 18:49:34", 
+                        "message-id": "<AeHHlrHxz55GLXu1g@xnotn03.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Det var ikke slik vi ville dette skulle ende.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.08.2009 18:49:34",
+            "text-blocks": [
+                "Det var ikke slik vi ville dette skulle ende. Må desverre gi oss. Gutta har holdt på i mange mange timer, fått hjelp av Prodrive, Mäkinen Racing og noen andre lokale genier. Finner ikke ut av motor problemene."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.01-18.49.34-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "360", 
+                    "orientation": "Portrait", 
+                    "original-name": "01082009244.jpg"
+                }
+            ]
+        }
+    }
+}

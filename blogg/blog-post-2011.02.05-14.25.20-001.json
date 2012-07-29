@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.05-14.25.20-001",
+        "path": "/blogg/blog-post-2011.02.05-14.25.20-001",
+        "title": "Forbruksvare...:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Forbruksvare...:)", 
+                        "sent-timestamp": "05.02.2011 07:24:27", 
+                        "received-timestamp": "05.02.2011 08:25:20", 
+                        "message-id": "<7609697247635783547@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Forbruksvare...:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "05.02.2011 14:25:20",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.05-14.25.20-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0971.jpg"
+                }
+            ]
+        }
+    }
+}

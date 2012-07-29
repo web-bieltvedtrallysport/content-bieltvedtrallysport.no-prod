@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.04.26-21.07.05-001",
+        "path": "/blogg/blog-post-2010.04.26-21.07.05-001",
+        "title": "Notetrening",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Notetrening", 
+                        "sent-timestamp": "26.04.2010 21:06:30", 
+                        "received-timestamp": "26.04.2010 21:07:05", 
+                        "message-id": "<4bd5e454.1067f10a.5cbc.ffffbe1a@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Notetrening",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.04.2010 21:07:05",
+            "text-blocks": [
+                "Ute å kjører note-dikterings trening. Bra å få noen mil med det, slik at det sitter i kroppen fra første meter på gjennomkjøringen fredag før løpet:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.04.26-21.07.05-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0286.jpg"
+                }
+            ]
+        }
+    }
+}

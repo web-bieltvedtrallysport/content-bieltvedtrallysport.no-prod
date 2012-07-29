@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.03-00.00.00-002",
+        "path": "/blogg/blog-post-2008.05.03-00.00.00-002",
+        "title": "er i regulerings pause nå. På vei…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "er i regulerings pause nå. På vei…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "03.05.2008",
+            "text-blocks": [
+                "er i regulerings pause nå. På vei inntil servic. Går bedre. Men kan kjøre fortere. Her sitter ove jony, kartleseren Til martin stenshornet."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_481c38e0e1110.jpg"
+                }
+            ]
+        }
+    }
+}

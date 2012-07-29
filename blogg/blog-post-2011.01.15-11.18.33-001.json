@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.01.15-11.18.33-001",
+        "path": "/blogg/blog-post-2011.01.15-11.18.33-001",
+        "title": "Regulerings pause",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Regulerings pause", 
+                        "sent-timestamp": "15.01.2011 05:17:30", 
+                        "received-timestamp": "15.01.2011 05:18:33", 
+                        "message-id": "<BLU0-SMTP92F4E086527FDBCDF9F972A1F20@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Regulerings pause",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "15.01.2011 11:18:33",
+            "text-blocks": [
+                "Inn til service nå. Mye styr rundt nm om dagen..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.01.15-11.18.33-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

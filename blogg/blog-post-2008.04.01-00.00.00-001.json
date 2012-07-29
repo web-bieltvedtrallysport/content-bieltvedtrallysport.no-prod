@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.04.01-00.00.00-001",
+        "path": "/blogg/blog-post-2008.04.01-00.00.00-001",
+        "title": "Nå skal Subaruen hentes hos…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå skal Subaruen hentes hos…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "01.04.2008",
+            "text-blocks": [
+                "Nå skal Subaruen hentes hos lakkereren.."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_47f256874990b.jpg"
+                }
+            ]
+        }
+    }
+}

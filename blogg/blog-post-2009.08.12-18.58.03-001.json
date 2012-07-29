@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.12-18.58.03-001",
+        "path": "/blogg/blog-post-2009.08.12-18.58.03-001",
+        "title": "Asfalt fjører og store bremser på plass.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Asfalt fjører og store bremser på plass.", 
+                        "sent-timestamp": "12.08.2009 18:58:01", 
+                        "received-timestamp": "12.08.2009 18:58:03", 
+                        "message-id": "<18009172.1250096281703.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Asfalt fjører og store bremser på plass.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "12.08.2009 18:58:03",
+            "text-blocks": [
+                "Asfalt fjører og store bremser på plass. Når vi får bilen på hjula igjen, er neste å finne ut av motorproblemet som oppsto etter hoppet i Finland. Hvis det løser seg blir vi klare til Flesberg Rally på lørdag."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.12-18.58.03-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01151.jpg"
+                }
+            ]
+        }
+    }
+}

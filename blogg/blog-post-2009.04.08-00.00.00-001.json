@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.08-00.00.00-001",
+        "path": "/blogg/blog-post-2009.04.08-00.00.00-001",
+        "title": "nå er bilen nesten helt klar for",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "nå er bilen nesten helt klar for",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "08.04.2009",
+            "text-blocks": [
+                "nå er bilen nesten helt klar for sommer sesongen… Tor lufter bremser. Skal en tur til Sverige i påsken og teste på grus med bilen for første gang. Skal bli godt og komme i gang igjen."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/04/5ebf7_08042009.jpg"
+                }
+            ]
+        }
+    }
+}

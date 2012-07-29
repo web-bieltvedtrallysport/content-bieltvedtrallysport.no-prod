@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.12.19-12.19.34-001",
+        "path": "/blogg/blog-post-2009.12.19-12.19.34-001",
+        "title": "Himeno var nok ikke helt forberedt på Norsk kulde, så vi dresset han opp med lue, hansker, ullsokker (",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Himeno var nok ikke helt forberedt på No", 
+                        "sent-timestamp": "19.12.2009 06:19:33", 
+                        "received-timestamp": "19.12.2009 06:19:34", 
+                        "message-id": "<19703903.1261221573573.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Himeno var nok ikke helt forberedt på Norsk kulde, så vi dresset han opp med lue, hansker, ullsokker (",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "19.12.2009 12:19:34",
+            "text-blocks": [
+                "Himeno var nok ikke helt forberedt på Norsk kulde, så vi dresset han opp med lue, hansker, ullsokker (sponset av Autoclean Elverum) og termodress. Her jobbes det med forskjellige demper settinger."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.12.19-12.19.34-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01345.jpg"
+                }
+            ]
+        }
+    }
+}

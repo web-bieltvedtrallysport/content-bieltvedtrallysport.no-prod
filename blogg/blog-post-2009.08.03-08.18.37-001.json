@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.03-08.18.37-001",
+        "path": "/blogg/blog-post-2009.08.03-08.18.37-001",
+        "title": "På vei over til søta bror.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "På vei over til søta bror.", 
+                        "sent-timestamp": "03.08.2009 08:18:36", 
+                        "received-timestamp": "03.08.2009 08:18:37", 
+                        "message-id": "<15922755.1249280316274.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "På vei over til søta bror.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "03.08.2009 08:18:37",
+            "text-blocks": [
+                "På vei over til søta bror."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.03-08.18.37-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01137.jpg"
+                }
+            ]
+        }
+    }
+}

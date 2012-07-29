@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.10.08-10.19.52-001",
+        "path": "/blogg/blog-post-2010.10.08-10.19.52-001",
+        "title": "Ferdig meg recce.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ferdig meg recce.", 
+                        "sent-timestamp": "08.10.2010 04:17:16", 
+                        "received-timestamp": "08.10.2010 04:19:52", 
+                        "message-id": "<BLU0-SMTP155266162443394DD82D4EAA1500@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Ferdig meg recce.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "08.10.2010 10:19:52",
+            "text-blocks": [
+                "Da er ferdig med gjennomkjøring.  Tidvis veldig raske veier.  Gleder oss til start. Første bil starter på ss1 i ettermiddag 16:48 norsk tid.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.10.08-10.19.52-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

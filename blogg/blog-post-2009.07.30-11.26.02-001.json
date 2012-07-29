@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.30-11.26.02-001",
+        "path": "/blogg/blog-post-2009.07.30-11.26.02-001",
+        "title": "Nå har vi kjørt en liten shakdown.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "30.07.2009 11:26:00", 
+                        "received-timestamp": "30.07.2009 11:26:02", 
+                        "message-id": "<A-Y7xDf2PK_Ad8vni@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Nå har vi kjørt en liten shakdown.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "30.07.2009 11:26:02",
+            "text-blocks": [
+                "Nå har vi kjørt en liten shakdown. Bilen føles bra. Begynner og kribble i magen."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.30-11.26.02-001-image-1.JPG", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC003221.JPG"
+                }
+            ]
+        }
+    }
+}

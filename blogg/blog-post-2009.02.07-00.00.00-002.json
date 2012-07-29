@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.02.07-00.00.00-002",
+        "path": "/blogg/blog-post-2009.02.07-00.00.00-002",
+        "title": "DSC01004",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "DSC01004",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "07.02.2009",
+            "text-blocks": [
+            ],
+            "images": [
+                {
+                    "name": "http://30887.vgb.no/files/2009/02/139b3_%3CDSC01004.JPG%3E"
+                }
+            ]
+        }
+    }
+}

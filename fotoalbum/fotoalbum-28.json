@@ -1,0 +1,211 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-28",
+        "path": "/fotoalbum/fotoalbum-28",
+        "title": "Rally Trøkstad 2009",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2009-rally-troekstad-1", 
+                "original-image": {
+                    "file-name": "10  Sveinung Bieltvedt       Naf Övre Ostfold.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-rally-troekstad/w180/2009-rally-troekstad-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-rally-troekstad/w285/2009-rally-troekstad-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-rally-troekstad/w500/2009-rally-troekstad-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-troekstad-2", 
+                "original-image": {
+                    "file-name": "11 Sveinung Bieltvedt     Naf Övre Östfold.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-rally-troekstad/w180/2009-rally-troekstad-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-rally-troekstad/w285/2009-rally-troekstad-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-rally-troekstad/w500/2009-rally-troekstad-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-troekstad-3", 
+                "original-image": {
+                    "file-name": "12 Sveinung Bieltvedt     Naf Övre Östfold.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-rally-troekstad/w180/2009-rally-troekstad-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-rally-troekstad/w285/2009-rally-troekstad-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-rally-troekstad/w500/2009-rally-troekstad-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-troekstad-4", 
+                "original-image": {
+                    "file-name": "_MG_3535.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-rally-troekstad/w180/2009-rally-troekstad-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-rally-troekstad/w285/2009-rally-troekstad-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-rally-troekstad/w500/2009-rally-troekstad-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-troekstad-5", 
+                "original-image": {
+                    "file-name": "_MG_3540.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-rally-troekstad/w180/2009-rally-troekstad-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-rally-troekstad/w285/2009-rally-troekstad-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-rally-troekstad/w500/2009-rally-troekstad-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-troekstad-6", 
+                "original-image": {
+                    "file-name": "_MG_3663.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-rally-troekstad/w180/2009-rally-troekstad-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-rally-troekstad/w285/2009-rally-troekstad-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-rally-troekstad/w500/2009-rally-troekstad-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-troekstad-7", 
+                "original-image": {
+                    "file-name": "_MG_3664.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-rally-troekstad/w180/2009-rally-troekstad-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-rally-troekstad/w285/2009-rally-troekstad-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-rally-troekstad/w500/2009-rally-troekstad-7_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

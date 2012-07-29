@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.08-00.00.00-002",
+        "path": "/blogg/blog-post-2008.03.08-00.00.00-002",
+        "title": "Nå er det lunch. Skal trene mer…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå er det lunch. Skal trene mer…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "08.03.2008",
+            "text-blocks": [
+                "Nå er det lunch. Skal trene mer etterpå."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47d27b99d37ad.jpg"
+                }
+            ]
+        }
+    }
+}

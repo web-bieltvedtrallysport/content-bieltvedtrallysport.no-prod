@@ -1,0 +1,99 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-32",
+        "path": "/fotoalbum/fotoalbum-32",
+        "title": "Sigdalsrally 2010",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2010-rally-sigdal-1", 
+                "original-image": {
+                    "file-name": "Sigdalsrally 9. januar 2010 265.JPG", 
+                    "rights": "Eirik Bergerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-sigdal/w180/2010-rally-sigdal-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-sigdal/w285/2010-rally-sigdal-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-sigdal/w500/2010-rally-sigdal-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-sigdal-2", 
+                "original-image": {
+                    "file-name": "Sigdalsrally 9. januar 2010 447.JPG", 
+                    "rights": "Eirik Bergerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-sigdal/w180/2010-rally-sigdal-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-sigdal/w285/2010-rally-sigdal-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-sigdal/w500/2010-rally-sigdal-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-sigdal-3", 
+                "original-image": {
+                    "file-name": "Sigdalsrally 9. januar 2010 495.JPG", 
+                    "rights": "Eirik Bergerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-sigdal/w180/2010-rally-sigdal-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-sigdal/w285/2010-rally-sigdal-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-sigdal/w500/2010-rally-sigdal-3_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

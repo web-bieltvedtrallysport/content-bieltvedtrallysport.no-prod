@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.30-22.55.38-001",
+        "path": "/blogg/blog-post-2011.05.30-22.55.38-001",
+        "title": "Rallytrening",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Rallytrening", 
+                        "sent-timestamp": "30.05.2011 16:54:55", 
+                        "received-timestamp": "30.05.2011 16:55:38", 
+                        "message-id": "<4482707610525205814@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Rallytrening",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.05.2011 22:55:38",
+            "text-blocks": [
+                "Nå er jeg ute på rekognosering for å sjekke muligheter for test & treningsvei."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.30-22.55.38-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1302.jpg"
+                }
+            ]
+        }
+    }
+}

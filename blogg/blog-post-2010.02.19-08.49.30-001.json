@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.19-08.49.30-001",
+        "path": "/blogg/blog-post-2010.02.19-08.49.30-001",
+        "title": "Rally Finnskog i helga.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "19.02.2010 02:49:27", 
+                        "received-timestamp": "19.02.2010 02:49:30", 
+                        "message-id": "<AZRZpUWES9L3Ep2F9@xnotn03.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Rally Finnskog i helga.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "19.02.2010 08:49:30",
+            "text-blocks": [
+                "Rally Finnskog i helga.På vei ut til prøvene for gjennomkjøring."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.19-08.49.30-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "19022010457.jpg"
+                }
+            ]
+        }
+    }
+}

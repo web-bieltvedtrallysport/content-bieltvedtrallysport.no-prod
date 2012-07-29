@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.02.14-00.00.00-001",
+        "path": "/blogg/blog-post-2008.02.14-00.00.00-001",
+        "title": "Da er vi ankommet Rally Finnskog….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er vi ankommet Rally Finnskog….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "14.02.2008",
+            "text-blocks": [
+                "Da er vi ankommet Rally Finnskog. Bildet er av Sveinung som sjekker loggen sin for oppsettet på bilen han har testet fram til helgen."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47b4bb748c3fd.jpg"
+                }
+            ]
+        }
+    }
+}

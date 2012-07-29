@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.27-22.53.43-001",
+        "path": "/blogg/blog-post-2010.05.27-22.53.43-001",
+        "title": "Forsterkning av trailing arm",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Forsterkning av trailing arm", 
+                        "sent-timestamp": "27.05.2010 16:53:12", 
+                        "received-timestamp": "27.05.2010 16:53:43", 
+                        "message-id": "<4bfedbd5.0d67f10a.7883.5142@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Forsterkning av trailing arm",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "27.05.2010 22:53:43",
+            "text-blocks": [
+                "2 mm. tykke stålplater på hver side av stagene i bakstillingen gjør at bilen tåler lange hopp uten at bakhjulene kneler. Ett par ganger i året sveiser vi opp nok til å ha god reservedelsbeholdning."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.27-22.53.43-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0373.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.02.10-00.00.00-004",
+        "path": "/blogg/blog-post-2009.02.10-00.00.00-004",
+        "title": "da er vi på Bjerke banen. Siste e",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "da er vi på Bjerke banen. Siste e",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "10.02.2009",
+            "text-blocks": [
+                "da er vi på Bjerke banen. Siste etappa i dag. Drar til lillehammer etterpå for og være klare til i morgen."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/02/cf6a8_DSC00431.JPG"
+                }
+            ]
+        }
+    }
+}

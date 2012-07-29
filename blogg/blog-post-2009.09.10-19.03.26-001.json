@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.09.10-19.03.26-001",
+        "path": "/blogg/blog-post-2009.09.10-19.03.26-001",
+        "title": "Rallybil på forsiden til Østlandets Blad.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Rallybil på forsiden til Østlandets Blad", 
+                        "sent-timestamp": "10.09.2009 13:03:25", 
+                        "received-timestamp": "10.09.2009 13:03:26", 
+                        "message-id": "<19079214.1252602205831.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Rallybil på forsiden til Østlandets Blad.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "10.09.2009 19:03:26",
+            "text-blocks": [
+                "Rallybil på forsiden til Østlandets Blad. Ikke værst:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.09.10-19.03.26-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01198.jpg"
+                }
+            ]
+        }
+    }
+}

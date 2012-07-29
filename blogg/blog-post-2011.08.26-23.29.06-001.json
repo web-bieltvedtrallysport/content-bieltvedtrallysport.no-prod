@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.08.26-23.29.06-001",
+        "path": "/blogg/blog-post-2011.08.26-23.29.06-001",
+        "title": "Gjøtenerunden",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Gjøtenerunden", 
+                        "sent-timestamp": "26.08.2011 17:28:40", 
+                        "received-timestamp": "26.08.2011 17:29:06", 
+                        "message-id": "<BLU0-SMTP453751164AD1E3F06926601A1130@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Gjøtenerunden",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.08.2011 23:29:06",
+            "text-blocks": [
+                "Nå er vi i Sverige for og lufte oss litt i rallybilen igjen. Var ment som en oppladning til Rally Telemark. Men som dere sikker ha fått med dere er jo det rally avlyst.  Vi valgte å kjøre her for det. Er jo så lenge siden vi har sitti i rallybilen.  Møtte flere norske her nede. (Bakken world rallyteam) :-)", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.08.26-23.29.06-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

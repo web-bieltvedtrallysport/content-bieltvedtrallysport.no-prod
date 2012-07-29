@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.20-17.20.13-001",
+        "path": "/blogg/blog-post-2009.08.20-17.20.13-001",
+        "title": "Roger har drømt lenge om å få prøve denne klipperen.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Roger har drømt lenge om å få prøve denn", 
+                        "sent-timestamp": "20.08.2009 11:20:12", 
+                        "received-timestamp": "20.08.2009 11:20:13", 
+                        "message-id": "<5116460.1250781612199.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Roger har drømt lenge om å få prøve denne klipperen.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "20.08.2009 17:20:13",
+            "text-blocks": [
+                "Roger har drømt lenge om å få prøve denne klipperen. Endelig...hehe"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.20-17.20.13-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01162.jpg"
+                }
+            ]
+        }
+    }
+}

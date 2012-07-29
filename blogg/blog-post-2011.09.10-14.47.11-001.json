@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.10-14.47.11-001",
+        "path": "/blogg/blog-post-2011.09.10-14.47.11-001",
+        "title": "På vei ut til siste ss",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "På vei ut til siste ss", 
+                        "sent-timestamp": "10.09.2011 08:45:21", 
+                        "received-timestamp": "10.09.2011 08:47:11", 
+                        "message-id": "<BLU0-SMTP58C627BA8E387C8F45A755A1000@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "På vei ut til siste ss",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "10.09.2011 14:47:11",
+            "text-blocks": [
+                "Nå har vi kjørt 4 ss.. Kjempefine veier.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.10-14.47.11-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

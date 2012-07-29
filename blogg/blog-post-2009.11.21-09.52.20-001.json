@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.11.21-09.52.20-001",
+        "path": "/blogg/blog-post-2009.11.21-09.52.20-001",
+        "title": "Litt vanskelig å se, men Ferarri gutta bruker Bosch verktøy...:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Litt vanskelig å se, men Ferarri gutta b", 
+                        "sent-timestamp": "21.11.2009 03:52:19", 
+                        "received-timestamp": "21.11.2009 03:52:20", 
+                        "message-id": "<15301523.1258793539094.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Litt vanskelig å se, men Ferarri gutta bruker Bosch verktøy...:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "21.11.2009 09:52:20",
+            "text-blocks": [
+                "Litt vanskelig å se, men Ferarri gutta bruker Bosch verktøy...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.11.21-09.52.20-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01292.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.11-18.00.57-001",
+        "path": "/blogg/blog-post-2009.08.11-18.00.57-001",
+        "title": "Her blir ingenting gjort halvveis...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Her blir ingenting gjort halvveis...hehe", 
+                        "sent-timestamp": "11.08.2009 18:00:56", 
+                        "received-timestamp": "11.08.2009 18:00:57", 
+                        "message-id": "<29779992.1250006456505.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Her blir ingenting gjort halvveis...",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.08.2009 18:00:57",
+            "text-blocks": [
+                "Her blir ingenting gjort halvveis...hehe. Ole tørker pressening med omhu! Er mange timer arbeid i reingjøring etter løp."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.11-18.00.57-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01148.jpg"
+                }
+            ]
+        }
+    }
+}

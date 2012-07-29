@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.03.11-08.04.25-001",
+        "path": "/blogg/blog-post-2011.03.11-08.04.25-001",
+        "title": "Eventkjøring med veteranbil",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Eventkjøring med veteranbil", 
+                        "sent-timestamp": "11.03.2011 01:03:08", 
+                        "received-timestamp": "11.03.2011 02:04:25", 
+                        "message-id": "<5484136296635425891@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Eventkjøring med veteranbil",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.03.2011 08:04:25",
+            "text-blocks": [
+                "På lørdag skal jeg kjøre rallybil på et event-arrangement. Da TOOLS-bilen mangler girkasse, blir istede en Opel Ascona veteranbil gjort istand. Det er 4 år siden sist jeg prøvde en slik bil, og hver gang blir jeg påmint om hvor bra moderne rallybiler har blitt...:) Men morro-faktoren er alikevel høy!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.03.11-08.04.25-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1075.jpg"
+                }
+            ]
+        }
+    }
+}

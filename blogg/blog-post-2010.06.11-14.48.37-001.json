@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.11-14.48.37-001",
+        "path": "/blogg/blog-post-2010.06.11-14.48.37-001",
+        "title": "Genial skralle!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Genial skralle!", 
+                        "sent-timestamp": "11.06.2010 08:48:05", 
+                        "received-timestamp": "11.06.2010 08:48:37", 
+                        "message-id": "<4c1230a3.0d44d80a.414b.2e27@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Genial skralle!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.06.2010 14:48:37",
+            "text-blocks": [
+                "Denne skrallen fra Wera har dreibart hode som kan låses i tre forskjellige vinkler, og er fintannet (72 tenner pr runde). Trenger jeg nevne hvor den selges?? Hehe:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.11-14.48.37-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0215.jpg"
+                }
+            ]
+        }
+    }
+}

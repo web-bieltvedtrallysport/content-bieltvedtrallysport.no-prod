@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.10.02-20.44.42-001",
+        "path": "/blogg/blog-post-2011.10.02-20.44.42-001",
+        "title": "Motor på plass",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Motor på plass", 
+                        "sent-timestamp": "02.10.2011 14:40:39", 
+                        "received-timestamp": "02.10.2011 14:44:42", 
+                        "message-id": "<2136093589559480601@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Motor på plass",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "02.10.2011 20:44:42",
+            "text-blocks": [
+                "Tror det her blir bra! Fint å kunne stå og jobbe inni motorrommet. Snart bare veivsensor brakett og mapping som gjenstår, men det blir seinere i uka. Innen det må jeg hjem å fortsette sponsorjobbingen for neste år..:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.10.02-20.44.42-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1620.jpg"
+                }
+            ]
+        }
+    }
+}

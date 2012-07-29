@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.01.23-00.00.00-002",
+        "path": "/blogg/blog-post-2009.01.23-00.00.00-002",
+        "title": "Da er vi på Hadeland. Dette er f",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er vi på Hadeland. Dette er f",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "23.01.2009",
+            "text-blocks": [
+                "Da er vi på Hadeland. Dette er fra transport ettappe mellom 4 og 5. Snør bra her.  Godt og ha 4wd i dag."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_49797f3cd5825.jpg"
+                }
+            ]
+        }
+    }
+}

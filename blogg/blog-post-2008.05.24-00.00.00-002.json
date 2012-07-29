@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.24-00.00.00-002",
+        "path": "/blogg/blog-post-2008.05.24-00.00.00-002",
+        "title": "ferdig med de 2 første i dag. G",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "ferdig med de 2 første i dag. G",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.05.2008",
+            "text-blocks": [
+                "ferdig med de 2 første i dag. Går bedre nå. Tror tidene blir bedre av det. Men sliter med notene. Vet ikke helt hva det kommer av, Kan være at det er raskere smale veier og mer info, mer enn vi er vant til i norge. Nå skal det byttes fjærer på service."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_4837cc22bb5f7.jpg"
+                }
+            ]
+        }
+    }
+}

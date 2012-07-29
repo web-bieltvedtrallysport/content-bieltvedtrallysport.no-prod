@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.24-15.53.40-001",
+        "path": "/blogg/blog-post-2011.09.24-15.53.40-001",
+        "title": "Regulering før mål",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Regulering før mål", 
+                        "sent-timestamp": "24.09.2011 09:53:26", 
+                        "received-timestamp": "24.09.2011 09:53:40", 
+                        "message-id": "<BLU0-SMTP151B22C489018FBBB74CA22A10E0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Regulering før mål",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.09.2011 15:53:40",
+            "text-blocks": [
+                "Da er vi kjørt alle ss'ene i dag. Vi har gjort jobben vår. Men ser ut til at det ikke gikk vår vei for det.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.24-15.53.40-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

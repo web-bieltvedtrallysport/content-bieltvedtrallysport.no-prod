@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.03.07-00.00.00-006",
+        "path": "/blogg/blog-post-2009.03.07-00.00.00-006",
+        "title": "nå er vi på vei til siste ss. Ha",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "nå er vi på vei til siste ss. Ha",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "07.03.2009",
+            "text-blocks": [
+                "nå er vi på vei til siste ss. Har blitt en sekund strid med Mikkelsen etter hvert."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/03/1464c_DSC00486.JPG"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "video",
+        "path": "/video",
+        "title": "Video",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "video"
+    },
+    "content": {
+    }
+}

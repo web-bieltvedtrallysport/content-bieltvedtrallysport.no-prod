@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.12-23.27.14-001",
+        "path": "/blogg/blog-post-2010.05.12-23.27.14-001",
+        "title": "Da er det snart så vi hopper i seng.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "12.05.2010 17:27:13", 
+                        "received-timestamp": "12.05.2010 17:27:14", 
+                        "message-id": "<ATHx8w0h4-TVHdZhX@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er det snart så vi hopper i seng.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "12.05.2010 23:27:14",
+            "text-blocks": [
+                "Da er det snart så vi hopper i seng. På bildet er litt info for de som til høre på nett radio i helgen."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.12-23.27.14-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "12052010550.jpg"
+                }
+            ]
+        }
+    }
+}

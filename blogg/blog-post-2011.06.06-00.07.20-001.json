@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.06.06-00.07.20-001",
+        "path": "/blogg/blog-post-2011.06.06-00.07.20-001",
+        "title": "Rally på tv..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Rally på tv..", 
+                        "sent-timestamp": "05.06.2011 18:03:58", 
+                        "received-timestamp": "05.06.2011 18:07:20", 
+                        "message-id": "<BLU0-SMTP191B4CF28F3044A9522BD8AA1610@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Rally på tv..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.06.2011 00:07:20",
+            "text-blocks": [
+                "Da fikk jeg sett rally i kveld da.. Det hadde jeg ikke regna med.. (Har flyttet i nytt hus, tv'n er ikke oppe å går enda.) Mobilen gjorde jobben.. Klare fine bilder,men litt \"blikkboks\" lyd...", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.06.06-00.07.20-001-image-1.JPG", 
+                    "height": "640", 
+                    "width": "960", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

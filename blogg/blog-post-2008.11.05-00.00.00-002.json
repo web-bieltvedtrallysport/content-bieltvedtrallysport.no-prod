@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.11.05-00.00.00-002",
+        "path": "/blogg/blog-post-2008.11.05-00.00.00-002",
+        "title": "Ble ikke lange pausen alikevel..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Ble ikke lange pausen alikevel..",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "05.11.2008",
+            "text-blocks": [
+                "Ble ikke lange pausen alikevel… Ypperlig tid å børste støv av beste rallyspillet som er finns, Colin McRae Rally2! Kim Berg og jeg som kjører. Legg merke til hvem som leder:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_49120b0923d66.jpg"
+                }
+            ]
+        }
+    }
+}

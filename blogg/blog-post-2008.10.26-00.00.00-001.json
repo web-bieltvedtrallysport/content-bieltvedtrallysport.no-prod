@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.10.26-00.00.00-001",
+        "path": "/blogg/blog-post-2008.10.26-00.00.00-001",
+        "title": "Da er Kim og jeg som siste ekvip",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er Kim og jeg som siste ekvip",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.10.2008",
+            "text-blocks": [
+                "Da er Kim og jeg som siste ekvipasje på vei hjem. Har som bildet viser kommet til Tsjekkia, og har nettopp levert Lars og Olav Bodilsen på flyplassen i Praha."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_490466f9cd7e3.jpg"
+                }
+            ]
+        }
+    }
+}

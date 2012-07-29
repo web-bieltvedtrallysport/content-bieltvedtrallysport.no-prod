@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.08-00.00.00-004",
+        "path": "/blogg/blog-post-2008.03.08-00.00.00-004",
+        "title": "Sveinung inn som nr.3 i b-finalen….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Sveinung inn som nr.3 i b-finalen….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "08.03.2008",
+            "text-blocks": [
+                "Sveinung inn som nr.3 i b-finalen. Ble torpedert i første svingen. Lå da som nr 2."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47d2e8a4ab5bd.jpg"
+                }
+            ]
+        }
+    }
+}

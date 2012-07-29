@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.11.02-14.17.26-001",
+        "path": "/blogg/blog-post-2009.11.02-14.17.26-001",
+        "title": "Det er ikke bare jeg som sliter med rettskriving.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "02.11.2009 08:17:25", 
+                        "received-timestamp": "02.11.2009 08:17:26", 
+                        "message-id": "<A-0cW5f9B8vW48x79@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Det er ikke bare jeg som sliter med rettskriving.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.11.2009 14:17:26",
+            "text-blocks": [
+                "Det er ikke bare jeg som sliter med rettskriving."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.11.02-14.17.26-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "02112009320.jpg"
+                }
+            ]
+        }
+    }
+}

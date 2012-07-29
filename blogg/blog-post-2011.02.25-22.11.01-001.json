@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.25-22.11.01-001",
+        "path": "/blogg/blog-post-2011.02.25-22.11.01-001",
+        "title": "Kassa ute",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Kassa ute", 
+                        "sent-timestamp": "25.02.2011 16:09:47", 
+                        "received-timestamp": "25.02.2011 16:11:01", 
+                        "message-id": "<BLU0-SMTP73630662C196CD6360D355A1DD0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Kassa ute",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "25.02.2011 22:11:01",
+            "text-blocks": [
+                "Da er gear kassa ute... Driver og demontere den nå...", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.25-22.11.01-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

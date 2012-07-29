@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.10-10.17.27-001",
+        "path": "/blogg/blog-post-2011.09.10-10.17.27-001",
+        "title": "Møte",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Møte", 
+                        "sent-timestamp": "10.09.2011 04:16:08", 
+                        "received-timestamp": "10.09.2011 04:17:27", 
+                        "message-id": "<BLU0-SMTP201819FF15535130B7CA4C3A1000@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Møte",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "10.09.2011 10:17:27",
+            "text-blocks": [
+                "Da er vi samlet før start. Får noen oppgaver vi skal ha underveis..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.10-10.17.27-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

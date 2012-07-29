@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.03.30-16.20.22-001",
+        "path": "/blogg/blog-post-2010.03.30-16.20.22-001",
+        "title": "TOOLS vernebriller",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "TOOLS vernebriller", 
+                        "sent-timestamp": "30.03.2010 10:19:49", 
+                        "received-timestamp": "30.03.2010 10:20:22", 
+                        "message-id": "<4bb208a2.1067f10a.57fc.ffffe312@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "TOOLS vernebriller",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.03.2010 16:20:22",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.03.30-16.20.22-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0209.jpg"
+                }
+            ]
+        }
+    }
+}

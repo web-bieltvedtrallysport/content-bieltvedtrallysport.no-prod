@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.07.11-11.10.48-001",
+        "path": "/blogg/blog-post-2010.07.11-11.10.48-001",
+        "title": "Crocket",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Crocket", 
+                        "sent-timestamp": "11.07.2010 05:10:16", 
+                        "received-timestamp": "11.07.2010 05:10:48", 
+                        "message-id": "<5507626742472410944@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Crocket",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.07.2010 11:10:48",
+            "text-blocks": [
+                "Legg merke til Kristian og sitt velkjente skadefryd-glis...hehe. Grattis til André med crocket seier, og Petter med imponerende kjøring i Bulgaria!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.07.11-11.10.48-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0465.jpg"
+                }
+            ]
+        }
+    }
+}

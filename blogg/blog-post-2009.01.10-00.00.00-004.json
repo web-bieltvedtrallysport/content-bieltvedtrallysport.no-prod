@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.01.10-00.00.00-004",
+        "path": "/blogg/blog-post-2009.01.10-00.00.00-004",
+        "title": "Hehe. Provosorisk sol skjerm.. V",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Hehe. Provosorisk sol skjerm.. V",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "10.01.2009",
+            "text-blocks": [
+                "Hehe. Provosorisk sol skjerm.. Veldig lav sol på prøvene nå. Er på vei ned til service. Har slått ifiller bærearm på høyre side bak. Bilde kommer når vi er på service."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_49689a9120939.jpg"
+                }
+            ]
+        }
+    }
+}

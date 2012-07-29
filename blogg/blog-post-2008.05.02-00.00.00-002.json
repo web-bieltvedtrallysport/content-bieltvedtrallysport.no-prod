@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.02-00.00.00-002",
+        "path": "/blogg/blog-post-2008.05.02-00.00.00-002",
+        "title": "Ferdig med gjenomkjørin. Møtte…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Ferdig med gjenomkjørin. Møtte…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.05.2008",
+            "text-blocks": [
+                "Ferdig med gjenomkjørin. Møtte John Haugland på brygga. Så Sveinung prøve satt den nye STI,n. Fin bli. Lyst på en sånn:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_481b09bfc90b5.jpg"
+                }
+            ]
+        }
+    }
+}

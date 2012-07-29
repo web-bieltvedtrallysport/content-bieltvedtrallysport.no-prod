@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.12.19-00.00.00-001",
+        "path": "/blogg/blog-post-2008.12.19-00.00.00-001",
+        "title": "VS:",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "VS:",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "19.12.2008",
+            "text-blocks": [
+                "Enda en dag med kjempeforhold på Dagali, med minus 5 grader og skyfri himmel. Her er et bilde fra tidligere i dag. Jeg satt på med Andreas fra Vimenn som trente til sin debut i romjulsrally. Det endte i grøfta."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_494bf9ab1b6e6.jpg"
+                }
+            ]
+        }
+    }
+}

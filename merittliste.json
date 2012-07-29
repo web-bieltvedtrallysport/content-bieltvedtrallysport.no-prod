@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "merittliste",
+        "path": "/merittliste",
+        "title": "Merittliste",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "merittliste"
+    },
+    "content": {
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.23-00.00.00-004",
+        "path": "/blogg/blog-post-2008.08.23-00.00.00-004",
+        "title": "er igjennom de første prøvene. G",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "er igjennom de første prøvene. G",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "23.08.2008",
+            "text-blocks": [
+                "er igjennom de første prøvene. Går bra tidsmessig. Er noen gamle biler med også. Tøft og se hvordan det var før i tiden."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48afe7f4d6c82.jpg"
+                }
+            ]
+        }
+    }
+}

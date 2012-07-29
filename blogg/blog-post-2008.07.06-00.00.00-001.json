@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.07.06-00.00.00-001",
+        "path": "/blogg/blog-post-2008.07.06-00.00.00-001",
+        "title": "Da var det slutt på moroa, vi er",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da var det slutt på moroa, vi er",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "06.07.2008",
+            "text-blocks": [
+                "Da var det slutt på moroa for denne gang. Vi er på vei hjem, rallybil og utstyr kommer hjem mandag kveld."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4870da5def32e.jpg"
+                }
+            ]
+        }
+    }
+}

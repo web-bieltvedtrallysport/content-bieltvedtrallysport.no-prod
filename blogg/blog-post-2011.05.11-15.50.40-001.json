@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.11-15.50.40-001",
+        "path": "/blogg/blog-post-2011.05.11-15.50.40-001",
+        "title": "Sellholm Tuning",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Sellholm Tuning", 
+                        "sent-timestamp": "11.05.2011 09:50:15", 
+                        "received-timestamp": "11.05.2011 09:50:40", 
+                        "message-id": "<-1192206548616499669@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Sellholm Tuning",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.05.2011 15:50:40",
+            "text-blocks": [
+                "Burde være et kjent firma for de fleste med motorsport interesse...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.11-15.50.40-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1262.jpg"
+                }
+            ]
+        }
+    }
+}

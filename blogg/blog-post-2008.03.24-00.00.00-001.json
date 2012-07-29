@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.24-00.00.00-001",
+        "path": "/blogg/blog-post-2008.03.24-00.00.00-001",
+        "title": "Mekkedag i dag. Ole maskerer før…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Mekkedag i dag. Ole maskerer før…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "24.03.2008",
+            "text-blocks": [
+                "Mekkedag i dag. Ole maskerer før bilen sendes til lakk. Jeg får ik gjort annet enn å leke formann..hehe"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_47e7be9bbf05e.jpg"
+                }
+            ]
+        }
+    }
+}

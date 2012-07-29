@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.03.09-20.54.05-001",
+        "path": "/blogg/blog-post-2010.03.09-20.54.05-001",
+        "title": "Bil-reportasje",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Bil-reportasje", 
+                        "sent-timestamp": "09.03.2010 14:53:26", 
+                        "received-timestamp": "09.03.2010 14:54:05", 
+                        "message-id": "<4b96a75a.1067f10a.55fb.479c@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Bil-reportasje",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "09.03.2010 20:54:05",
+            "text-blocks": [
+                "Denne bilen, en Suzuki Kizashi, skal jeg teste ut i dag sammen med Østlandets Blad. Kan leses neste uke."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.03.09-20.54.05-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0145.jpg"
+                }
+            ]
+        }
+    }
+}

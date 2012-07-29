@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.14-13.16.47-001",
+        "path": "/blogg/blog-post-2011.05.14-13.16.47-001",
+        "title": "Sveinung er balast..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Sveinung er balast..", 
+                        "sent-timestamp": "14.05.2011 07:15:50", 
+                        "received-timestamp": "14.05.2011 07:16:47", 
+                        "message-id": "<BLU0-SMTP12637FBC0EC2CA34D90A40FA18B0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Sveinung er balast..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "14.05.2011 13:16:47",
+            "text-blocks": [
+                "", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.14-13.16.47-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

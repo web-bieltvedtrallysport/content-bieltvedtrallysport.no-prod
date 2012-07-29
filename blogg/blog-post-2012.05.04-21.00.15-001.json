@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.05.04-21.00.15-001",
+        "path": "/blogg/blog-post-2012.05.04-21.00.15-001",
+        "title": "Flaks!!!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Flaks!!!", 
+                        "sent-timestamp": "04.05.2012 14:58:04", 
+                        "received-timestamp": "04.05.2012 15:00:15", 
+                        "message-id": "<BLU0-SMTP372F05FF4F4E6BED6C70F9A12C0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Flaks!!!",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "04.05.2012 21:00:15",
+            "text-blocks": [
+                "Nå har vi kjørt kveldens ss.. Utrolig flaks vi ikke fikk pungteringer på siste ss, da vi forsøkte og kjøre over en fjellknaus...:-)", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.05.04-21.00.15-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

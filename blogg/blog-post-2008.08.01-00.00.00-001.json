@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.01-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.01-00.00.00-001",
+        "title": "Sånn går det når jeg absolutt sk",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Sånn går det når jeg absolutt sk",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "01.08.2008",
+            "text-blocks": [
+                "Sånn går det når jeg absolutt skulle kjøre under brua på Oscarsborg festning.. Flo og fjære sa du!? Å det er..? hehe"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48932bcaa3067.jpg"
+                }
+            ]
+        }
+    }
+}

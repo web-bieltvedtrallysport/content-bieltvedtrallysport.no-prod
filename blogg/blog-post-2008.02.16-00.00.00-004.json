@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.02.16-00.00.00-004",
+        "path": "/blogg/blog-post-2008.02.16-00.00.00-004",
+        "title": "2. Service. Tapt ledelsen. Ligger…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "2. Service. Tapt ledelsen. Ligger…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "16.02.2008",
+            "text-blocks": [
+                "2. Service. Tapt ledelsen. Ligger ca 7 sek bak. Senket bilen litt bak. Viktigste nå er og komme seg til mål."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47b6e6ce4e584.jpg"
+                }
+            ]
+        }
+    }
+}

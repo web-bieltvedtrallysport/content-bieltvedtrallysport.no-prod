@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.10.25-21.03.04-001",
+        "path": "/blogg/blog-post-2010.10.25-21.03.04-001",
+        "title": "Akkurat nå skulle jeg ønske jeg drev med asfaltracing",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Akkurat nå skulle jeg ønske jeg drev med asfaltracing", 
+                        "sent-timestamp": "25.10.2010 15:02:28", 
+                        "received-timestamp": "25.10.2010 15:03:04", 
+                        "message-id": "<-5423987067218392684@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Akkurat nå skulle jeg ønske jeg drev med asfaltracing",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "25.10.2010 21:03:04",
+            "text-blocks": [
+                "Hadde ikke vært like mye vasking da..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.10.25-21.03.04-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0749.jpg"
+                }
+            ]
+        }
+    }
+}

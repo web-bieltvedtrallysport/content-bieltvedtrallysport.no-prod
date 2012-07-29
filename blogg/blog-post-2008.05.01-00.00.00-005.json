@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.01-00.00.00-005",
+        "path": "/blogg/blog-post-2008.05.01-00.00.00-005",
+        "title": "Fremme i Mandal. Nå skal bilen på…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Fremme i Mandal. Nå skal bilen på…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.05.2008",
+            "text-blocks": [
+                "Fremme i Mandal. Nå skal bilen på tekniskkontroll. Før vi drar til hytta."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_4819e66cd09ba.jpg"
+                }
+            ]
+        }
+    }
+}

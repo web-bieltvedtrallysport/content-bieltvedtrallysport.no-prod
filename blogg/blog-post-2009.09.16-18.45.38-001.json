@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.09.16-18.45.38-001",
+        "path": "/blogg/blog-post-2009.09.16-18.45.38-001",
+        "title": "Ole monterer steinsprutskydd.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ole monterer steinsprutskydd.", 
+                        "sent-timestamp": "16.09.2009 12:45:37", 
+                        "received-timestamp": "16.09.2009 12:45:38", 
+                        "message-id": "<1761982.1253119537323.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Ole monterer steinsprutskydd.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "16.09.2009 18:45:38",
+            "text-blocks": [
+                "Ole monterer steinsprutskydd."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.09.16-18.45.38-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01211.jpg"
+                }
+            ]
+        }
+    }
+}

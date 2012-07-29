@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.11.05-09.08.58-001",
+        "path": "/blogg/blog-post-2010.11.05-09.08.58-001",
+        "title": "Zzzzzz...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Zzzzzz...", 
+                        "sent-timestamp": "05.11.2010 04:07:24", 
+                        "received-timestamp": "05.11.2010 04:08:58", 
+                        "message-id": "<-5229116504497651299@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Zzzzzz...",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "05.11.2010 09:08:58",
+            "text-blocks": [
+                "Nevøen til Roger syns ikke verkstedbesøk var så spennende likevel...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.11.05-09.08.58-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0770.jpg"
+                }
+            ]
+        }
+    }
+}

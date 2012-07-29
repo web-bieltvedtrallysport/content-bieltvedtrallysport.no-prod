@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.27-00.00.00-003",
+        "path": "/blogg/blog-post-2008.09.27-00.00.00-003",
+        "title": "Inne til service., hadde en pung",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Inne til service., hadde en pung",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.09.2008",
+            "text-blocks": [
+                "Inne til service., hadde en pungtering på ss 2. Nå er det bare og kjøre videre håpe andre gjør feil."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48ddfed1e588e.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.06-00.00.00-001",
+        "path": "/blogg/blog-post-2008.05.06-00.00.00-001",
+        "title": "På vei hjem fra sørlandet tok vi…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "På vei hjem fra sørlandet tok vi…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "06.05.2008",
+            "text-blocks": [
+                "På vei hjem fra sørlandet tok vi turen innom Anders og Trond, som vi konkurrerer mot i både NM og Subarucupen. Tross omfattende skader på bilen var de ved godt mot og gira på å kjøre bil igjen:). Så vi bestemte oss for å kjøre South Swedish Rally i slutten av mai. Det er et løp på to dager og 16 mil fartsprøver, noe som kommer godt med i oppladingen til neste NM runde."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_481ff30d7d159.jpg"
+                }
+            ]
+        }
+    }
+}

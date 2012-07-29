@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.05.20-22.25.36-001",
+        "path": "/blogg/blog-post-2012.05.20-22.25.36-001",
+        "title": "Østmarka",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Østmarka", 
+                        "sent-timestamp": "20.05.2012 16:25:19", 
+                        "received-timestamp": "20.05.2012 16:25:36", 
+                        "message-id": "<BLU0-SMTP326604E0397D0DE489E61C2A11C0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Østmarka",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "20.05.2012 22:25:36",
+            "text-blocks": [
+                "Vært på fisketur ihelga.. Kosa meg masse. Blei noen fisk også... ;-)", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.05.20-22.25.36-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

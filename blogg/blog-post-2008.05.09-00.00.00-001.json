@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.09-00.00.00-001",
+        "path": "/blogg/blog-post-2008.05.09-00.00.00-001",
+        "title": "F16 p",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "F16 p",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "09.05.2008",
+            "text-blocks": [
+                "Pleier å samle seg bra med folk når F16 skal testflys. Er bare helt sykt rått å se og høre på!! Mellom 80′ og 120 000 hk avhengig av lufttrykket… Dette flyet blir trolig sendt til en av utestasjonene hvis det går igjennom dagens test. Kanskje sitter det motor allà meg i denne?? Får håpe den ikke detter ned i så fall.."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48240a034e3dd.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.03.13-13.37.50-001",
+        "path": "/blogg/blog-post-2010.03.13-13.37.50-001",
+        "title": "Da har Eilertsen forvilla seg til hovedstaden på brudeshow.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "13.03.2010 07:37:48", 
+                        "received-timestamp": "13.03.2010 07:37:50", 
+                        "message-id": "<AbCuVomiKLop-oJ1t@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da har Eilertsen forvilla seg til hovedstaden på brudeshow.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "13.03.2010 13:37:50",
+            "text-blocks": [
+                "Da har Eilertsen forvilla seg til hovedstaden på brudeshow."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.03.13-13.37.50-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "13032010482.jpg"
+                }
+            ]
+        }
+    }
+}

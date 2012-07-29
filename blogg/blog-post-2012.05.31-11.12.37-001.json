@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.05.31-11.12.37-001",
+        "path": "/blogg/blog-post-2012.05.31-11.12.37-001",
+        "title": "Ny eksos",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ny eksos", 
+                        "sent-timestamp": "31.05.2012 05:12:36", 
+                        "received-timestamp": "31.05.2012 05:12:37", 
+                        "message-id": "<CAJO1iKwzv61DF-+YuQXjaAG=LTX6bBFgP-0vvJnnBM67U90GpA@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Ny eksos",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "31.05.2012 11:12:37",
+            "text-blocks": [
+                "Viktig at turboen får kvittet seg med eksos på høye turtall.. :-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.05.31-11.12.37-001-image-1.jpg", 
+                    "height": "768", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120529_193535.jpg"
+                }
+            ]
+        }
+    }
+}

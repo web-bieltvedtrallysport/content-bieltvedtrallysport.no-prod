@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.02-00.00.00-004",
+        "path": "/blogg/blog-post-2009.05.02-00.00.00-004",
+        "title": "Vi er i mål etter nok en dag som",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Vi er i mål etter nok en dag som",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.05.2009",
+            "text-blocks": [
+                "Vi er i mål etter nok en dag som ikke ble som vi hadde håpet. Eneste premien i dag var en is til Sveinung fra meg:-)"
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/dbbc2_02052009.jpg"
+                }
+            ]
+        }
+    }
+}

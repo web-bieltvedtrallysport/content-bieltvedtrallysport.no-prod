@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.01.15-09.56.03-001",
+        "path": "/blogg/blog-post-2011.01.15-09.56.03-001",
+        "title": "Sperring ss 1",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Sperring ss 1", 
+                        "sent-timestamp": "15.01.2011 03:54:29", 
+                        "received-timestamp": "15.01.2011 03:56:03", 
+                        "message-id": "<BLU0-SMTP761316E5F1AD5F444A1ACAA1F20@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Sperring ss 1",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "15.01.2011 09:56:03",
+            "text-blocks": [
+                "Vi måtte ut av bilen på ss 1 og løft bil nr2 på veien...", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.01.15-09.56.03-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

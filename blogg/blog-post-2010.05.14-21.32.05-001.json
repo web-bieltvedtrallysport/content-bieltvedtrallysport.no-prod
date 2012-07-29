@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.14-21.32.05-001",
+        "path": "/blogg/blog-post-2010.05.14-21.32.05-001",
+        "title": "Da er vi ferdig med dagens kjøring..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "14.05.2010 15:32:04", 
+                        "received-timestamp": "14.05.2010 15:32:05", 
+                        "message-id": "<A-R0Wgf0ZlaO-H-Ym@xnotn03.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi ferdig med dagens kjøring..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "14.05.2010 21:32:05",
+            "text-blocks": [
+                "Da er vi ferdig med dagens kjøring.. Slo i en stein på ss 6, så gutta må justere litt hjulvinkler."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.14-21.32.05-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "14052010561.jpg"
+                }
+            ]
+        }
+    }
+}

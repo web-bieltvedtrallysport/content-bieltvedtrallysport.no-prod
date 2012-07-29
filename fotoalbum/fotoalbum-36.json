@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-36",
+        "path": "/fotoalbum/fotoalbum-36",
+        "title": "South Swedish Rally 2010",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "470",
+        "images": [
+            {
+                "id": "2010-south-swedish-rally-1", 
+                "original-image": {
+                    "file-name": "norska_ssr_03.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-south-swedish-rally/w180/2010-south-swedish-rally-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-south-swedish-rally/w285/2010-south-swedish-rally-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "470", 
+                        "height": "h3", 
+                        "file": "/2010-south-swedish-rally/w470/2010-south-swedish-rally-1_w470.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-south-swedish-rally-2", 
+                "original-image": {
+                    "file-name": "norska_ssr_04.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-south-swedish-rally/w180/2010-south-swedish-rally-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-south-swedish-rally/w285/2010-south-swedish-rally-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "470", 
+                        "height": "h3", 
+                        "file": "/2010-south-swedish-rally/w470/2010-south-swedish-rally-2_w470.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-south-swedish-rally-3", 
+                "original-image": {
+                    "file-name": "norska_ssr_05.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-south-swedish-rally/w180/2010-south-swedish-rally-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-south-swedish-rally/w285/2010-south-swedish-rally-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "470", 
+                        "height": "h3", 
+                        "file": "/2010-south-swedish-rally/w470/2010-south-swedish-rally-3_w470.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-south-swedish-rally-4", 
+                "original-image": {
+                    "file-name": "norska_ssr_06.JPG", 
+                    "rights": "Preben Berg" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-south-swedish-rally/w180/2010-south-swedish-rally-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-south-swedish-rally/w285/2010-south-swedish-rally-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "470", 
+                        "height": "h3", 
+                        "file": "/2010-south-swedish-rally/w470/2010-south-swedish-rally-4_w470.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

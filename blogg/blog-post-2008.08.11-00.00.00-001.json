@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.11-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.11-00.00.00-001",
+        "title": "Nå har nye girkassedeler kommet.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå har nye girkassedeler kommet.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.08.2008",
+            "text-blocks": [
+                "Nå har nye girkassedeler kommet. Kassa var fin når den ble åpnet, men vi bytter 3. 4. og 5. giret når vi først er i gang. Her er Roger og Ole i aksjon!"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48a0736313e01.jpg"
+                }
+            ]
+        }
+    }
+}

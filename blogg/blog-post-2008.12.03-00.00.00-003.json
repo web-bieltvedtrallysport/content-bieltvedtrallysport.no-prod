@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.12.03-00.00.00-003",
+        "path": "/blogg/blog-post-2008.12.03-00.00.00-003",
+        "title": "På andre siden av fjellet der går",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "På andre siden av fjellet der går",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "03.12.2008",
+            "text-blocks": [
+                "På andre siden av fjellet der går kanskje Norges mest spektakulære fartsetappe, Smådøla. All grisekjøring av bilene ble for øvrig gjort hos Tor Larsen på Dagali flyplass."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_493694f6ef9fc.jpg"
+                }
+            ]
+        }
+    }
+}

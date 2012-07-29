@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.01.13-11.03.03-001",
+        "path": "/blogg/blog-post-2012.01.13-11.03.03-001",
+        "title": "Nye kjørehansker..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nye kjørehansker..", 
+                        "sent-timestamp": "13.01.2012 05:00:51", 
+                        "received-timestamp": "13.01.2012 05:03:03", 
+                        "message-id": "<BLU0-SMTP146A7A7B3D496F57456BC2AA19C0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Nye kjørehansker..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "13.01.2012 11:03:03",
+            "text-blocks": [
+                "Sveinung kjører inn de nye hanskene sine på gjennomkjøringen.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.01.13-11.03.03-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.01.14-09.14.16-001",
+        "path": "/blogg/blog-post-2012.01.14-09.14.16-001",
+        "title": "2 ss er kjørt.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "2 ss er kjørt.", 
+                        "sent-timestamp": "14.01.2012 03:12:12", 
+                        "received-timestamp": "14.01.2012 03:14:16", 
+                        "message-id": "<BLU0-SMTP27959BAE6C4F44FAA25C638A19D0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "2 ss er kjørt.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "14.01.2012 09:14:16",
+            "text-blocks": [
+                "Merker det er lenge siden det har vært kamp kjøring.. Går greit for det. :-)", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.01.14-09.14.16-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

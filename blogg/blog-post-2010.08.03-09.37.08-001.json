@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.08.03-09.37.08-001",
+        "path": "/blogg/blog-post-2010.08.03-09.37.08-001",
+        "title": "Nysmurt",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nysmurt", 
+                        "sent-timestamp": "03.08.2010 03:35:45", 
+                        "received-timestamp": "03.08.2010 03:37:08", 
+                        "message-id": "<1849126031706185535@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Nysmurt",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "03.08.2010 09:37:08",
+            "text-blocks": [
+                "Nysmurte drivakslinger og poliurethane foringer til bakstillingen. Vi har hatt god tid på oss til stell av bilen nå. Når fjørbeina kommer tilbake, skal det smake ekstra godt å få kjørt racerbil igjen!! Har ikke vært helt meg selv den siste tiden...hehe."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.08.03-09.37.08-001-image-1.jpg", 
+                    "height": "1280", 
+                    "width": "960", 
+                    "orientation": "Portrait", 
+                    "original-name": "IMAG0544.jpg"
+                }
+            ]
+        }
+    }
+}

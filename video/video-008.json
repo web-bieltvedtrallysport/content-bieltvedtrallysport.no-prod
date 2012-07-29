@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "id": "video/video-008",
+        "path": "/video/video-008",
+        "title": "Rally Elverum 2012 SS4",
+        "classification": "content-document",
+        "type": "video",
+        "default-template": "video"
+    },
+    "content": {
+        "video": {
+            "heading": "Rally Elverum 2012 SS4",
+            "source": "http://player.vimeo.com/video/39570160",
+            "isVimeoVideo": "true"
+        }
+    }
+}

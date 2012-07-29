@@ -1,0 +1,491 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-20",
+        "path": "/fotoalbum/fotoalbum-20",
+        "title": "Romjulsrally 2008",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2008-romjulsrally-1", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 008.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-2", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 009.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-3", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 109.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-4", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 110.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-5", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 111.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-6", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 112.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-7", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 151.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-8", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 153.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-8_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-9", 
+                "original-image": {
+                    "file-name": "Romjulsrallyt, Elverum 28 dec 2008 155.jpg", 
+                    "rights": "lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-9_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-9_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-9_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-10", 
+                "original-image": {
+                    "file-name": "DSC_8270.jpg", 
+                    "rights": "Vidar Tangerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "102", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-10_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "161", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-10_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "283", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-10_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-11", 
+                "original-image": {
+                    "file-name": "DSC_8271.jpg", 
+                    "rights": "Vidar Tangerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "127", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-11_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "202", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-11_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "354", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-11_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-12", 
+                "original-image": {
+                    "file-name": "DSC_8272.jpg", 
+                    "rights": "Vidar Tangerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "124", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-12_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "197", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-12_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "346", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-12_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-13", 
+                "original-image": {
+                    "file-name": "DSC_8273.jpg", 
+                    "rights": "Vidar Tangerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "129", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-13_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "203", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-13_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "357", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-13_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-14", 
+                "original-image": {
+                    "file-name": "DSC_8274.jpg", 
+                    "rights": "Vidar Tangerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "117", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-14_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "185", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-14_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "325", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-14_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-15", 
+                "original-image": {
+                    "file-name": "DSC_8275.jpg", 
+                    "rights": "Vidar Tangerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "119", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-15_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-15_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-15_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-16", 
+                "original-image": {
+                    "file-name": "DSC_8276.jpg", 
+                    "rights": "Vidar Tangerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "118", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-16_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "186", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-16_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "327", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-16_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-romjulsrally-17", 
+                "original-image": {
+                    "file-name": "DSC_8277.jpg", 
+                    "rights": "Vidar Tangerud" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-romjulsrally/w180/2008-romjulsrally-17_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-romjulsrally/w285/2008-romjulsrally-17_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-romjulsrally/w500/2008-romjulsrally-17_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

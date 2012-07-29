@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.08-10.03.51-001",
+        "path": "/blogg/blog-post-2011.04.08-10.03.51-001",
+        "title": "Overlevering av Budstikke",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Overlevering av Budstikke", 
+                        "sent-timestamp": "08.04.2011 04:02:24", 
+                        "received-timestamp": "08.04.2011 04:03:51", 
+                        "message-id": "<4230467913994305270@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Overlevering av Budstikke",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "08.04.2011 10:03:51",
+            "text-blocks": [
+                "I dag er jeg med på et PR stunt i regi av Kråkstad & Ski Bondelag. Det skal overleveres en budstikke fra lokallag til lokallag som til slutt skal leveres på stortinget ifbm. kommende landbruksmelding. Hensikten er å synliggjøre hvorfor matproduksjon i Norge er viktig."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.08-10.03.51-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1131.jpg"
+                }
+            ]
+        }
+    }
+}

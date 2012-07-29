@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.02.13-05.52.10-001",
+        "path": "/blogg/blog-post-2012.02.13-05.52.10-001",
+        "title": "Choke-spjeld",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Choke-spjeld", 
+                        "sent-timestamp": "12.02.2012 23:52:09", 
+                        "received-timestamp": "12.02.2012 23:52:10", 
+                        "message-id": "<CAJO1iKw3+Boz5QwCAvgdA1rAo8o_8Nmjc8X4qKo8cn+J86ttew@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Choke-spjeld",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "13.02.2012 05:52:10",
+            "text-blocks": [
+                "Når vi først setter inn ny motor, fjerner vi choke-spjeldene i innsuget enlikt homologeringspapirene. Det var disse som skapte problemer for oss etter Rally Finland 09 da et av spjeldene låste seg i lukket stilling etter et hopp. Nå slipper vi at det skjer igjen."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.02.13-05.52.10-001-image-1.jpg", 
+                    "height": "768", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120212_160450.jpg"
+                }
+            ]
+        }
+    }
+}

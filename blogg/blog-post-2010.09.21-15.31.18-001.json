@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.09.21-15.31.18-001",
+        "path": "/blogg/blog-post-2010.09.21-15.31.18-001",
+        "title": "Ny TOOLS Dag",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ny TOOLS Dag", 
+                        "sent-timestamp": "21.09.2010 09:30:26", 
+                        "received-timestamp": "21.09.2010 09:31:18", 
+                        "message-id": "<-193011633775628040@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Ny TOOLS Dag",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "21.09.2010 15:31:18",
+            "text-blocks": [
+                "Denne gangen er vi hos TOOLS Industri-Dialog på Skjetten. Merker jeg må ta en løpetur i dag. Alt for mye grillmat her..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.09.21-15.31.18-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0675.jpg"
+                }
+            ]
+        }
+    }
+}

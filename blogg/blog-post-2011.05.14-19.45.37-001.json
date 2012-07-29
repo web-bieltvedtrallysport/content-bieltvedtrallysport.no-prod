@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.14-19.45.37-001",
+        "path": "/blogg/blog-post-2011.05.14-19.45.37-001",
+        "title": "Dag 1 over",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Dag 1 over", 
+                        "sent-timestamp": "14.05.2011 13:44:37", 
+                        "received-timestamp": "14.05.2011 13:45:37", 
+                        "message-id": "<BLU0-SMTP2013012A41E9E080B854799A18B0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Dag 1 over",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "14.05.2011 19:45:37",
+            "text-blocks": [
+                "Da er første dag over.. Kan vel ikke si oss helt fornøyd. Nå er det tid for middag.. Lasse rører saus...", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.14-19.45.37-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

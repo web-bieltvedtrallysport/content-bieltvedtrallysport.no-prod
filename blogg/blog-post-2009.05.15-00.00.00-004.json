@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.15-00.00.00-004",
+        "path": "/blogg/blog-post-2009.05.15-00.00.00-004",
+        "title": "Nå står vi ved prestart og vente",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå står vi ved prestart og vente",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "15.05.2009",
+            "text-blocks": [
+                "Nå står vi ved prestart og venter. Skal prøve og starte rolig, finne flyten og la det gå fortere ettervært."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/4c809_15052009.jpg"
+                }
+            ]
+        }
+    }
+}

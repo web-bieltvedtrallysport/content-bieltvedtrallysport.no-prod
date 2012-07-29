@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.24-09.48.05-001",
+        "path": "/blogg/blog-post-2011.09.24-09.48.05-001",
+        "title": "Før start ss 1",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Før start ss 1", 
+                        "sent-timestamp": "24.09.2011 03:47:16", 
+                        "received-timestamp": "24.09.2011 03:48:05", 
+                        "message-id": "<BLU0-SMTP299AE6A01FB089DE8846FBAA10E0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Før start ss 1",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.09.2011 09:48:05",
+            "text-blocks": [
+                "Vi gleder oss.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.24-09.48.05-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

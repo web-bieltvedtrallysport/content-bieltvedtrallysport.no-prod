@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.07.29-20.32.10-001",
+        "path": "/blogg/blog-post-2009.07.29-20.32.10-001",
+        "title": "Endelig kan vi slappe av litt.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "29.07.2009 20:32:09", 
+                        "received-timestamp": "29.07.2009 20:32:10", 
+                        "message-id": "<AJZe4kSGR-4fSv7Ak@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Endelig kan vi slappe av litt.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "29.07.2009 20:32:10",
+            "text-blocks": [
+                "Endelig kan vi slappe av litt. Har vært en travel dag. Er ferdig med og korrigere notene nå. Service gutta har vist bilen på teknisk og rigget opp serviceplassen. Sveinung og jeg slapper av og \"lader batteriene\" nå. Resten av gjengen er på avdukningen av den nye Impreza 2010 mod. Gr N bilen."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.07.29-20.32.10-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "29072009218.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.01.04-22.21.12-001",
+        "path": "/blogg/blog-post-2011.01.04-22.21.12-001",
+        "title": "Så var det demperne igjen",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Så var det demperne igjen", 
+                        "sent-timestamp": "04.01.2011 15:19:26", 
+                        "received-timestamp": "04.01.2011 16:21:12", 
+                        "message-id": "<30139191955090064@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Så var det demperne igjen",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "04.01.2011 22:21:12",
+            "text-blocks": [
+                "Ny runde med smøring av dempere...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.01.04-22.21.12-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0904.jpg"
+                }
+            ]
+        }
+    }
+}

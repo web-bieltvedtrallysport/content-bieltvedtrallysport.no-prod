@@ -1,0 +1,239 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-11",
+        "path": "/fotoalbum/fotoalbum-11",
+        "title": "Bjerkeracet 2008",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2008-bjerkeracet-4", 
+                "original-image": {
+                    "file-name": "Bjerkeracet, Oslo 19 juni 2008 195.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-bjerkeracet/w180/2008-bjerkeracet-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-bjerkeracet/w285/2008-bjerkeracet-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "500", 
+                        "file": "/2008-bjerkeracet/w500/2008-bjerkeracet-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-bjerkeracet-1", 
+                "original-image": {
+                    "file-name": "Bjerkeracet, Oslo 19 juni 2008 103.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "146", 
+                        "file": "/2008-bjerkeracet/w180/2008-bjerkeracet-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "231", 
+                        "file": "/2008-bjerkeracet/w285/2008-bjerkeracet-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "405", 
+                        "file": "/2008-bjerkeracet/w500/2008-bjerkeracet-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-bjerkeracet-2", 
+                "original-image": {
+                    "file-name": "Bjerkeracet, Oslo 19 juni 2008 104.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "122", 
+                        "file": "/2008-bjerkeracet/w180/2008-bjerkeracet-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "194", 
+                        "file": "/2008-bjerkeracet/w285/2008-bjerkeracet-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "340", 
+                        "file": "/2008-bjerkeracet/w500/2008-bjerkeracet-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-bjerkeracet-3", 
+                "original-image": {
+                    "file-name": "Bjerkeracet, Oslo 19 juni 2008 105.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-bjerkeracet/w180/2008-bjerkeracet-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-bjerkeracet/w285/2008-bjerkeracet-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-bjerkeracet/w500/2008-bjerkeracet-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-bjerkeracet-5", 
+                "original-image": {
+                    "file-name": "IMGP3688.JPG", 
+                    "rights": "Hege Veronica Haldammen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-bjerkeracet/w180/2008-bjerkeracet-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-bjerkeracet/w285/2008-bjerkeracet-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-bjerkeracet/w500/2008-bjerkeracet-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-bjerkeracet-6", 
+                "original-image": {
+                    "file-name": "IMGP3694.JPG", 
+                    "rights": "Hege Veronica Haldammen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-bjerkeracet/w180/2008-bjerkeracet-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-bjerkeracet/w285/2008-bjerkeracet-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-bjerkeracet/w500/2008-bjerkeracet-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-bjerkeracet-7", 
+                "original-image": {
+                    "file-name": "IMGP3770.JPG", 
+                    "rights": "Hege Veronica Haldammen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-bjerkeracet/w180/2008-bjerkeracet-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-bjerkeracet/w285/2008-bjerkeracet-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-bjerkeracet/w500/2008-bjerkeracet-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-bjerkeracet-8", 
+                "original-image": {
+                    "file-name": "IMGP3773.JPG", 
+                    "rights": "Hege Veronica Haldammen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-bjerkeracet/w180/2008-bjerkeracet-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-bjerkeracet/w285/2008-bjerkeracet-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-bjerkeracet/w500/2008-bjerkeracet-8_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

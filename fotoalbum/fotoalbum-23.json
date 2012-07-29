@@ -1,0 +1,463 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-23",
+        "path": "/fotoalbum/fotoalbum-23",
+        "title": "Rally Norway 2009",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2009-rally-norway-1", 
+                "original-image": {
+                    "file-name": "IMG_8559.JPG", 
+                    "rights": "Anders Brøvig" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-2", 
+                "original-image": {
+                    "file-name": "IMG_8911.JPG", 
+                    "rights": "Anders Brøvig" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-3", 
+                "original-image": {
+                    "file-name": "Rally Norway  13 febr 2009 188.jpg", 
+                    "rights": "Lollo (lollo54@telia.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-4", 
+                "original-image": {
+                    "file-name": "Rally Norway  13 febr 2009 190.jpg", 
+                    "rights": "Lollo (lollo54@telia.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-5", 
+                "original-image": {
+                    "file-name": "Rally Norway  13 febr 2009 191.jpg", 
+                    "rights": "Lollo (lollo54@telia.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-6", 
+                "original-image": {
+                    "file-name": "Rally Norway  13 febr 2009 192.jpg", 
+                    "rights": "Lollo (lollo54@telia.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-7", 
+                "original-image": {
+                    "file-name": "Rally Norway  13 febr 2009 348.jpg", 
+                    "rights": "Lollo (lollo54@telia.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-8", 
+                "original-image": {
+                    "file-name": "Rally Norway  13 febr 2009 350.jpg", 
+                    "rights": "Lollo (lollo54@telia.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-8_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-9", 
+                "original-image": {
+                    "file-name": "Rally Norway 15 febr 2009 099.jpg", 
+                    "rights": "Lollo (lollo54@telia.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-9_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-9_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-9_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-10", 
+                "original-image": {
+                    "file-name": "Rally Norway 2009 172 - sveinung.JPG", 
+                    "rights": "Anders Borgen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-10_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-10_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-10_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-11", 
+                "original-image": {
+                    "file-name": "Rally Norway 2009 301 - sveinung.JPG", 
+                    "rights": "Anders Borgen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-11_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-11_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-11_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-12", 
+                "original-image": {
+                    "file-name": "Rally Norway 2009 302 - sveinung.JPG", 
+                    "rights": "Anders Borgen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-12_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-12_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-12_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-13", 
+                "original-image": {
+                    "file-name": "Rally Norway 2009 303  - sveinung.JPG", 
+                    "rights": "Anders Borgen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-13_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-13_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-13_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-14", 
+                "original-image": {
+                    "file-name": "Rally Norway 2009 304  - sveinung.JPG", 
+                    "rights": "Anders Borgen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-14_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-14_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-14_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-15", 
+                "original-image": {
+                    "file-name": "Rally Norway 2009 306 - sveinung.JPG", 
+                    "rights": "Anders Borgen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-15_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-15_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-15_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-rally-norway-16", 
+                "original-image": {
+                    "file-name": "Rally Norway 2009 308 - sveinung.JPG", 
+                    "rights": "Anders Borgen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-rally-norway/w180/2009-rally-norway-16_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2009-rally-norway/w285/2009-rally-norway-16_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "332", 
+                        "file": "/2009-rally-norway/w500/2009-rally-norway-16_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

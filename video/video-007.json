@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "id": "video/video-007",
+        "path": "/video/video-007",
+        "title": "Oslo Motor Show",
+        "classification": "content-document",
+        "type": "video",
+        "default-template": "video"
+    },
+    "content": {
+        "video": {
+            "heading": "Oslo Motor Show",
+            "source": "http://player.vimeo.com/video/31456043",
+            "isVimeoVideo": "true"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.10.01-18.42.40-001",
+        "path": "/blogg/blog-post-2011.10.01-18.42.40-001",
+        "title": "Malmø tur",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Malmø tur", 
+                        "sent-timestamp": "01.10.2011 12:41:24", 
+                        "received-timestamp": "01.10.2011 12:42:40", 
+                        "message-id": "<-4369130989643445428@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Malmø tur",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "01.10.2011 18:42:40",
+            "text-blocks": [
+                "André og jeg på tur for å montere ny motor i Rallycross Polo'en som André har bygd."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.10.01-18.42.40-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1612.jpg"
+                }
+            ]
+        }
+    }
+}

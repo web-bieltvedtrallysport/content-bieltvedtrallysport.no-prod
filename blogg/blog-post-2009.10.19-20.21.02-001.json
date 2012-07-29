@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.10.19-20.21.02-001",
+        "path": "/blogg/blog-post-2009.10.19-20.21.02-001",
+        "title": "Etter sesongslutt er det på sin plass med et realt rengjørings røsk!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Etter sesongslutt er det på sin plass me", 
+                        "sent-timestamp": "19.10.2009 14:21:02", 
+                        "received-timestamp": "19.10.2009 14:21:02", 
+                        "message-id": "<16642437.1255976462002.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Etter sesongslutt er det på sin plass med et realt rengjørings røsk!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "19.10.2009 20:21:02",
+            "text-blocks": [
+                "Etter sesongslutt er det på sin plass med et realt rengjørings røsk! Bilen er vi ferdige med, nå er det gulvet som får gjennomgå."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.10.19-20.21.02-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01235.jpg"
+                }
+            ]
+        }
+    }
+}

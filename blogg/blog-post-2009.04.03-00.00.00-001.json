@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.03-00.00.00-001",
+        "path": "/blogg/blog-post-2009.04.03-00.00.00-001",
+        "title": "Kartleseren er på skog tur:-) her",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Kartleseren er på skog tur:-) her",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "03.04.2009",
+            "text-blocks": [
+                "Kartleseren er på skog tur:-) her ser dere broren, Rune sager ved til kvelden…."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/04/7acec_03042009.jpg"
+                }
+            ]
+        }
+    }
+}

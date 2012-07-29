@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "id": "video/video-009",
+        "path": "/video/video-009",
+        "title": "Promo Tools Rallyteam 2012",
+        "classification": "content-document",
+        "type": "video",
+        "default-template": "video"
+    },
+    "content": {
+        "video": {
+            "heading": "Promo Tools Rallyteam 2012",
+            "source": "http://player.vimeo.com/video/39570963",
+            "isVimeoVideo": "true"
+        }
+    }
+}

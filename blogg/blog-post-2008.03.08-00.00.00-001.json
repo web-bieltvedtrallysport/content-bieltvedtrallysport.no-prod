@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.08-00.00.00-001",
+        "path": "/blogg/blog-post-2008.03.08-00.00.00-001",
+        "title": "Nå er Sveinung og jeg på NTG….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå er Sveinung og jeg på NTG….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "08.03.2008",
+            "text-blocks": [
+                "Nå er Sveinung og jeg på NTG. Bilsportsforbundets talentutvikling. Lærer om trening,koordinasjon og kosthold.. Det er viktig. Har følt de siste løpene at kroppen har vært tom for krefter på lørdag. Interessant."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47d2676d0a155.jpg"
+                }
+            ]
+        }
+    }
+}

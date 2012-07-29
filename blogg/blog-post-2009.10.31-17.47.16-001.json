@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.10.31-17.47.16-001",
+        "path": "/blogg/blog-post-2009.10.31-17.47.16-001",
+        "title": "Verktøy til verksted og servicebil",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Verktøy til verksted og servicebil", 
+                        "sent-timestamp": "31.10.2009 12:47:16", 
+                        "received-timestamp": "31.10.2009 12:47:16", 
+                        "message-id": "<84e593e30910310947r3063429atdcc76f023d27992b@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Verktøy til verksted og servicebil",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "31.10.2009 17:47:16",
+            "text-blocks": [
+                "Henning Trosterud fra TOOLS har vært innom verkstedet vårt i Kråkstad for å se på løsninger som kan gjøre det lettere for oss. Vi kom frem til flere løsninger som vil gjøre service og reparasjonsjobbing på rallybilen lettere og raskere, samt at vi nå får fylt opp med rett forbruksmateriell så vi har det vi trenger når vi trenger det. Dette er etter TOOLS sitt MRO og TCO prinsipp. Vil du vite mer om dette, sjekk ut www.tools.no. Noe av det verktøyet vi ble enige om vil du kunne se på bloggen utover høsten."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.10.31-17.47.16-001-image-1.jpg", 
+                    "height": "1944", 
+                    "width": "2592", 
+                    "orientation": "Landscape", 
+                    "original-name": "SveinungB2.jpg"
+                }
+            ]
+        }
+    }
+}

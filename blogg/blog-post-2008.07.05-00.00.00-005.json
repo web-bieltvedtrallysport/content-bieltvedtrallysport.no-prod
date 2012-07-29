@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.07.05-00.00.00-005",
+        "path": "/blogg/blog-post-2008.07.05-00.00.00-005",
+        "title": "Endelig løsnet det litt for oss",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Endelig løsnet det litt for oss",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "05.07.2008",
+            "text-blocks": [
+                "Endelig løsnet det litt for oss med god tid på siste ss! Servicegutta gjorde som alltid en strålende jobb og fikk sveisa på plass girspaken, begynte jo å bli lei av å kjøre med varselblink på ss..:) Det er nå løpet skulle begynt!"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_486f981914b1d.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.10.07-14.28.10-001",
+        "path": "/blogg/blog-post-2010.10.07-14.28.10-001",
+        "title": "Kule veier!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Kule veier!", 
+                        "sent-timestamp": "07.10.2010 08:27:34", 
+                        "received-timestamp": "07.10.2010 08:28:10", 
+                        "message-id": "<6170960619034635216@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Kule veier!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "07.10.2010 14:28:10",
+            "text-blocks": [
+                "Sjøen til venstre i bilde. Tidvis svært raske veier her, håper ikke vi taper for mye på lav utveksling..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.10.07-14.28.10-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0704.jpg"
+                }
+            ]
+        }
+    }
+}

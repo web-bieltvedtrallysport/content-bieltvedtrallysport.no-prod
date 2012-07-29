@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.06.04-00.00.00-005",
+        "path": "/blogg/blog-post-2008.06.04-00.00.00-005",
+        "title": "Gjett hvem som er fra England?:)…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Gjett hvem som er fra England?:)…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "04.06.2008",
+            "text-blocks": [
+                "Gjett hvem som er fra England?:) Han med de nette brillene heter George Donaldson og er godt kjent for de som har fulgt rally VM. Han drømmer om jet motor på flyet sitt, så det tok helt av for han da han skjønte jeg skrudde jet..hehe"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4846f8ddf07ed.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-17",
+        "path": "/fotoalbum/fotoalbum-17",
+        "title": "Pirelli Star Driver Shootout 2008",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2008-pirelli-star-driver-shootout-1", 
+                "original-image": {
+                    "file-name": "Bieltvedt_Freistadt_01.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "108", 
+                        "file": "/2008-pirelli-star-driver-shootout/w180/2008-pirelli-star-driver-shootout-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "171", 
+                        "file": "/2008-pirelli-star-driver-shootout/w285/2008-pirelli-star-driver-shootout-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "299", 
+                        "file": "/2008-pirelli-star-driver-shootout/w500/2008-pirelli-star-driver-shootout-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-pirelli-star-driver-shootout-2", 
+                "original-image": {
+                    "file-name": "Bieltvedt_Freistadt_02.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "103", 
+                        "file": "/2008-pirelli-star-driver-shootout/w180/2008-pirelli-star-driver-shootout-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "164", 
+                        "file": "/2008-pirelli-star-driver-shootout/w285/2008-pirelli-star-driver-shootout-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "287", 
+                        "file": "/2008-pirelli-star-driver-shootout/w500/2008-pirelli-star-driver-shootout-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-pirelli-star-driver-shootout-3", 
+                "original-image": {
+                    "file-name": "Bieltvedt_Freistadt_03.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "124", 
+                        "file": "/2008-pirelli-star-driver-shootout/w180/2008-pirelli-star-driver-shootout-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "196", 
+                        "file": "/2008-pirelli-star-driver-shootout/w285/2008-pirelli-star-driver-shootout-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "344", 
+                        "file": "/2008-pirelli-star-driver-shootout/w500/2008-pirelli-star-driver-shootout-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-pirelli-star-driver-shootout-4", 
+                "original-image": {
+                    "file-name": "Bieltvedt_Freistadt_05.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "115", 
+                        "file": "/2008-pirelli-star-driver-shootout/w180/2008-pirelli-star-driver-shootout-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "181", 
+                        "file": "/2008-pirelli-star-driver-shootout/w285/2008-pirelli-star-driver-shootout-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "318", 
+                        "file": "/2008-pirelli-star-driver-shootout/w500/2008-pirelli-star-driver-shootout-4_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

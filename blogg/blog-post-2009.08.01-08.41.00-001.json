@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.01-08.41.00-001",
+        "path": "/blogg/blog-post-2009.08.01-08.41.00-001",
+        "title": "Skliplata bader i olje.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Skliplata bader i olje.", 
+                        "sent-timestamp": "01.08.2009 08:40:59", 
+                        "received-timestamp": "01.08.2009 08:41:00", 
+                        "message-id": "<21277196.1249108859491.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Skliplata bader i olje.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "01.08.2009 08:41:00",
+            "text-blocks": [
+                "Skliplata bader i olje."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.01-08.41.00-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01125.jpg"
+                }
+            ]
+        }
+    }
+}

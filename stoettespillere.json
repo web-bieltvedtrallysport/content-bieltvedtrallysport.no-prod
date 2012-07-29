@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "stoettespillere",
+        "path": "/stoettespillere",
+        "title": "Støttespillere",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "stoettespillere"
+    },
+    "content": {
+    }
+}

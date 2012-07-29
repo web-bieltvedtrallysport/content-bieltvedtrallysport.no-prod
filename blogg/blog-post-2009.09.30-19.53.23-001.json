@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.09.30-19.53.23-001",
+        "path": "/blogg/blog-post-2009.09.30-19.53.23-001",
+        "title": "Dette stod i VG i går.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Dette stod i VG i går. Bønder og flymeka", 
+                        "sent-timestamp": "30.09.2009 13:53:12", 
+                        "received-timestamp": "30.09.2009 13:53:23", 
+                        "message-id": "<4218047.1254333191996.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Dette stod i VG i går.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.09.2009 19:53:23",
+            "text-blocks": [
+                "Dette stod i VG i går. Bønder og flymekanikere kjører best. Da burde jeg være godt sikra...he he"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.09.30-19.53.23-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01215.jpg"
+                }
+            ]
+        }
+    }
+}

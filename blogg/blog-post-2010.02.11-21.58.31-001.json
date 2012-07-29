@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.11-21.58.31-001",
+        "path": "/blogg/blog-post-2010.02.11-21.58.31-001",
+        "title": "Skitur",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Skitur", 
+                        "sent-timestamp": "11.02.2010 15:58:16", 
+                        "received-timestamp": "11.02.2010 15:58:31", 
+                        "message-id": "<4b746f75.0707d00a.376b.636a@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Skitur",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.02.2010 21:58:31",
+            "text-blocks": [
+                "Hvem hadde trodd at jeg gikk på ski...?! Utrolig, men sant:-) Musikk av Queen på øret, -4 grader, blå Swix og lysløype er faktisk ikke så værst..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.11-21.58.31-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0001.jpg"
+                }
+            ]
+        }
+    }
+}

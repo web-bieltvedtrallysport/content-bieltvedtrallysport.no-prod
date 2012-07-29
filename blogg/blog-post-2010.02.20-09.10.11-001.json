@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.20-09.10.11-001",
+        "path": "/blogg/blog-post-2010.02.20-09.10.11-001",
+        "title": "Da er vi på vei ut i skogen...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "20.02.2010 03:10:10", 
+                        "received-timestamp": "20.02.2010 03:10:11", 
+                        "message-id": "<AU0-go1dLIEV7k6hS@xnotn02.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi på vei ut i skogen...",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "20.02.2010 09:10:11",
+            "text-blocks": [
+                "Da er vi på vei ut i skogen...  11 kulde grader og snø i lufta. Gleder oss til og komme igang."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.20-09.10.11-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "20022010465.jpg"
+                }
+            ]
+        }
+    }
+}

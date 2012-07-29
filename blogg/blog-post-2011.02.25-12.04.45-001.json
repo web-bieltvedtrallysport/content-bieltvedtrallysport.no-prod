@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.25-12.04.45-001",
+        "path": "/blogg/blog-post-2011.02.25-12.04.45-001",
+        "title": "Ss 3..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ss 3..", 
+                        "sent-timestamp": "25.02.2011 06:00:36", 
+                        "received-timestamp": "25.02.2011 06:04:45", 
+                        "message-id": "<BLU0-SMTP21568CDFFEDEF22DFAE1981A1DD0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Ss 3..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "25.02.2011 12:04:45",
+            "text-blocks": [
+                "Høye og fine brøytekanter..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.25-12.04.45-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

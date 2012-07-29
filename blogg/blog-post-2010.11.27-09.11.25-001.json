@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.11.27-09.11.25-001",
+        "path": "/blogg/blog-post-2010.11.27-09.11.25-001",
+        "title": "På vei.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "På vei.", 
+                        "sent-timestamp": "27.11.2010 03:09:57", 
+                        "received-timestamp": "27.11.2010 03:11:25", 
+                        "message-id": "<BLU0-SMTP120F7635712B06EE974557AA1220@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "På vei.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.11.2010 09:11:25",
+            "text-blocks": [
+                "På vei til Fornebu.. Kaldt og surt i dag også..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.11.27-09.11.25-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

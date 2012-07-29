@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.28-12.17.00-001",
+        "path": "/blogg/blog-post-2011.04.28-12.17.00-001",
+        "title": "På vei..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "På vei..", 
+                        "sent-timestamp": "28.04.2011 06:07:47", 
+                        "received-timestamp": "28.04.2011 06:17:00", 
+                        "message-id": "<BLU0-SMTP63A7CA93C2DE33DEDB5679A19B0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "På vei..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "28.04.2011 12:17:00",
+            "text-blocks": [
+                "Da er vi på vei til Rally Sørland. Nå er vi kommet til Kristiansand. Fylle litt disel å spise..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.28-12.17.00-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

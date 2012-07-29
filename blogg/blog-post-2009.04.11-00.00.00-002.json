@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.04.11-00.00.00-002",
+        "path": "/blogg/blog-post-2009.04.11-00.00.00-002",
+        "title": "Har kjørt noen turer nå. Dette e",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Har kjørt noen turer nå. Dette e",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "11.04.2009",
+            "text-blocks": [
+                "Har kjørt noen turer nå. Dette er gøy. Blir mange mil når man skal sitte i to biler og lese."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/04/784d1_11042009.jpg"
+                }
+            ]
+        }
+    }
+}

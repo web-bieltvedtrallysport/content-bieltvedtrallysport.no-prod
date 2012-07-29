@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.15-13.09.13-001",
+        "path": "/blogg/blog-post-2011.05.15-13.09.13-001",
+        "title": "Sveinung drømmer",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Sveinung drømmer", 
+                        "sent-timestamp": "15.05.2011 07:08:43", 
+                        "received-timestamp": "15.05.2011 07:09:13", 
+                        "message-id": "<BLU0-SMTP47C160C79E881151450B8BA18A0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Sveinung drømmer",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "15.05.2011 13:09:13",
+            "text-blocks": [
+                "Skoda S-2000", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.15-13.09.13-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

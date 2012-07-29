@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.26-11.48.50-001",
+        "path": "/blogg/blog-post-2010.06.26-11.48.50-001",
+        "title": "På båt tur i helga..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "26.06.2010 05:48:37", 
+                        "received-timestamp": "26.06.2010 05:48:50", 
+                        "message-id": "<A5K5FIuCqBMwk-k3i@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "På båt tur i helga..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.06.2010 11:48:50",
+            "text-blocks": [
+                "På båt tur i helga.. Ligger til land på Kosterøyene. Deilig med litt ferie også i helgene:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.26-11.48.50-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "26062010630.jpg"
+                }
+            ]
+        }
+    }
+}

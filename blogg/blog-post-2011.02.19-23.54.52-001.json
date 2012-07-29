@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.19-23.54.52-001",
+        "path": "/blogg/blog-post-2011.02.19-23.54.52-001",
+        "title": "Avkjøring",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Avkjøring", 
+                        "sent-timestamp": "19.02.2011 17:49:52", 
+                        "received-timestamp": "19.02.2011 17:54:52", 
+                        "message-id": "<BLU0-SMTP54762E0D081BD5588397DBA1D70@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Avkjøring",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "19.02.2011 23:54:52",
+            "text-blocks": [
+                "Ikke alle som vet hvor veien går...:-)", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.19-23.54.52-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

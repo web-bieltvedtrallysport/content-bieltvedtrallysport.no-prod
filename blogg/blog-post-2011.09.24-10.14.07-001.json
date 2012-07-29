@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.09.24-10.14.07-001",
+        "path": "/blogg/blog-post-2011.09.24-10.14.07-001",
+        "title": "Ss1",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ss1", 
+                        "sent-timestamp": "24.09.2011 04:13:15", 
+                        "received-timestamp": "24.09.2011 04:14:07", 
+                        "message-id": "<BLU0-SMTP286CB1C219D3835F814F0A3A10E0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Ss1",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.09.2011 10:14:07",
+            "text-blocks": [
+                "Greit igjennom ss 1. Litt safe noen steder..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.09.24-10.14.07-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

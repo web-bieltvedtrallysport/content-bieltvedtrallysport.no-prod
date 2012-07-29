@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.01.26-00.00.00-001",
+        "path": "/blogg/blog-post-2008.01.26-00.00.00-001",
+        "title": "da står vi og venter på og starte….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "da står vi og venter på og starte….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.01.2008",
+            "text-blocks": [
+                "da står vi og venter på og starte. Skifter litt hjul og ser over at alt er i orden. Det er det som vanlig vuttu.."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_479af5fe1b49d.jpg"
+                }
+            ]
+        }
+    }
+}

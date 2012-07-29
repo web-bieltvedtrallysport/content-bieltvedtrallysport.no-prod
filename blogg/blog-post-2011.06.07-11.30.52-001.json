@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.06.07-11.30.52-001",
+        "path": "/blogg/blog-post-2011.06.07-11.30.52-001",
+        "title": "Nabo'n klipper hekken...hehe:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nabo'n klipper hekken...hehe:)", 
+                        "sent-timestamp": "07.06.2011 05:30:14", 
+                        "received-timestamp": "07.06.2011 05:30:52", 
+                        "message-id": "<9135412038571265482@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Nabo'n klipper hekken...hehe:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "07.06.2011 11:30:52",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.06.07-11.30.52-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0857.jpg"
+                }
+            ]
+        }
+    }
+}

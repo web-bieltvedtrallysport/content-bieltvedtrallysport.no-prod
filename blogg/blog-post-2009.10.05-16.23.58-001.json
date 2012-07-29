@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.10.05-16.23.58-001",
+        "path": "/blogg/blog-post-2009.10.05-16.23.58-001",
+        "title": "Er i studio til TvFollo:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "VS:", 
+                        "sent-timestamp": "05.10.2009 10:23:53", 
+                        "received-timestamp": "05.10.2009 10:23:58", 
+                        "message-id": "<7116826.1254752633653.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Er i studio til TvFollo:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "05.10.2009 16:23:58",
+            "text-blocks": [
+                "Er i studio til TvFollo:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.10.05-16.23.58-001-image-11", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "1"
+                }
+            ]
+        }
+    }
+}

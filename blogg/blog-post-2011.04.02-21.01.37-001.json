@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.02-21.01.37-001",
+        "path": "/blogg/blog-post-2011.04.02-21.01.37-001",
+        "title": "Start",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Start", 
+                        "sent-timestamp": "02.04.2011 03:52:10", 
+                        "received-timestamp": "02.04.2011 15:01:37", 
+                        "message-id": "<BLU0-SMTP1464AD5034FFF479E6B9622A1A10@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Start",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.04.2011 21:01:37",
+            "text-blocks": [
+                "Da ruller vi snart over start", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.02-21.01.37-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

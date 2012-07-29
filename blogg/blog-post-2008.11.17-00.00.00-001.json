@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.11.17-00.00.00-001",
+        "path": "/blogg/blog-post-2008.11.17-00.00.00-001",
+        "title": "Er å ser på bil til en kompis so",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Er å ser på bil til en kompis so",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.11.2008",
+            "text-blocks": [
+                "Er å ser på bil til en kompis som har tenkt å begynne med rally igjen. Verden er ikke stor. Fant fort ut at det var første rallybilen jeg kjørte. Bygde den da jeg var 15 for å kjøre juniorrally i Sverige… Vekka mange gode minner gitt:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4921d672a9b51.jpg"
+                }
+            ]
+        }
+    }
+}

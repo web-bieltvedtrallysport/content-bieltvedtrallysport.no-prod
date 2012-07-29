@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.04.05-15.48.17-001",
+        "path": "/blogg/blog-post-2010.04.05-15.48.17-001",
+        "title": "I full gang",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "I full gang", 
+                        "sent-timestamp": "05.04.2010 09:46:56", 
+                        "received-timestamp": "05.04.2010 09:48:17", 
+                        "message-id": "<4bb9ea1e.0f67f10a.0bf7.ffffbc25@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "I full gang",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "05.04.2010 15:48:17",
+            "text-blocks": [
+                "Bilen skal om få dager stilles ut hos TOOLS Askim. Så da må nylakkerte, strøkene dører og skjermer fra E-18 Autolakk på plass:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.04.05-15.48.17-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0225.jpg"
+                }
+            ]
+        }
+    }
+}

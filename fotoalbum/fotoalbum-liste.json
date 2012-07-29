@@ -1,0 +1,224 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-liste",
+        "path": "/fotoalbum/fotoalbum-liste",
+        "title": "Fotoalbum liste",
+        "classification": "content",
+        "type": "image-album-list",
+        "default-template": ""
+    },
+    "content": {
+        "image-albums": [
+            {
+                "year": "2011",
+                "id": "fotoalbum-44",
+                "title": "Aurskog Høland Rally 2011"
+            },
+            {
+                "year": "2011",
+                "id": "fotoalbum-43",
+                "title": "Rally Talsi 2011"
+            },
+            {
+                "year": "2011",
+                "id": "fotoalbum-42",
+                "title": "Rally Finnskog 2011"
+            },
+            {
+                "year": "2011",
+                "id": "fotoalbum-41",
+                "title": "Rally Hadeland 2011"
+            },
+            {
+                "year": "2011",
+                "id": "fotoalbum-40",
+                "title": "Sigdalsrally 2011"
+            },
+            {
+                "year": "2010",
+                "id": "fotoalbum-39",
+                "title": "Broom Rallysprint 2010"
+            },
+            {
+                "year": "2010",
+                "id": "fotoalbum-38",
+                "title": "Rally Saaremaa 2010"
+            },
+            {
+                "year": "2010",
+                "id": "fotoalbum-37",
+                "title": "Rally Hedemarken 2010"
+            },
+            {
+                "year": "2010",
+                "id": "fotoalbum-36",
+                "title": "South Swedish Rally 2010"
+            },
+            {
+                "year": "2010",
+                "id": "fotoalbum-35",
+                "title": "Rally Sørland 2010"
+            },
+            {
+                "year": "2010",
+                "id": "fotoalbum-34",
+                "title": "Numedalsrally 2010"
+            },
+            {
+                "year": "2010",
+                "id": "fotoalbum-32",
+                "title": "Sigdalsrally 2010"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-31",
+                "title": "Solberg Extreme Motorshow 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-30",
+                "title": "Rally Hedemarken 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-29",
+                "title": "Rally Finland 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-28",
+                "title": "Rally Trøgstad 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-27",
+                "title": "Aurskog-Høland Rally 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-26",
+                "title": "South Swedish Rally 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-25",
+                "title": "Rally Sørland 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-24",
+                "title": "Numedalsrally 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-23",
+                "title": "Rally Norway 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-22",
+                "title": "Rally Hadeland 2009"
+            },
+            {
+                "year": "2009",
+                "id": "fotoalbum-21",
+                "title": "Sigdalsrally 2009"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-20",
+                "title": "Romjulsrally 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-19",
+                "title": "Diverse fra 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-17",
+                "title": "Pirelli Star Driver 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-16",
+                "title": "Rally Hedemarken 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-15",
+                "title": "Rally Trøgstad 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-14",
+                "title": "Flesbergsprinten 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-13",
+                "title": "Rally Bohemia 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-11",
+                "title": "Bjerkeracet 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-09",
+                "title": "Aurskog Høland Rally 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-08",
+                "title": "South Swedish Rally 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-18",
+                "title": "South Swedish Rally 2008 II"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-07",
+                "title": "Rally Sørland 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-06",
+                "title": "Teambilder februar 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-055",
+                "title": "Numedalsrally 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-05",
+                "title": "Rally Finnskog 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-04",
+                "title": "Rally Hadeland 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-03",
+                "title": "Mountain Rally 2008"
+            },
+            {
+                "year": "2008",
+                "id": "fotoalbum-02",
+                "title": "Rally Sigdal 2008"
+            },
+            {
+                "year": "2007",
+                "id": "fotoalbum-01",
+                "title": "Romjulsrally 2007"
+            }
+        ]
+    }
+}

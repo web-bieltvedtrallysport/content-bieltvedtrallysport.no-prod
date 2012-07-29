@@ -1,0 +1,71 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-38",
+        "path": "/fotoalbum/fotoalbum-38",
+        "title": "Rally Saaremaa 2010",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2010-rally-saaremaa-1", 
+                "original-image": {
+                    "file-name": "IMG_7060.JPG", 
+                    "rights": "Thomas Myhre Hansen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-saaremaa/w180/2010-rally-saaremaa-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-saaremaa/w285/2010-rally-saaremaa-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-saaremaa/w500/2010-rally-saaremaa-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2010-rally-saaremaa-2", 
+                "original-image": {
+                    "file-name": "IMG_7063.JPG", 
+                    "rights": "Thomas Myhre Hansen" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2010-rally-saaremaa/w180/2010-rally-saaremaa-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2010-rally-saaremaa/w285/2010-rally-saaremaa-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2010-rally-saaremaa/w500/2010-rally-saaremaa-2_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

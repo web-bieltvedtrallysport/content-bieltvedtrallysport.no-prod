@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.09.25-12.37.24-001",
+        "path": "/blogg/blog-post-2009.09.25-12.37.24-001",
+        "title": "Er ute og strekker litt på beina føre ss 2/6.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "25.09.2009 06:37:23", 
+                        "received-timestamp": "25.09.2009 06:37:24", 
+                        "message-id": "<Ase43o7XorLT2Iz-3@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Er ute og strekker litt på beina føre ss 2/6.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "25.09.2009 12:37:24",
+            "text-blocks": [
+                "Er ute og strekker litt på beina føre ss 2/6."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.09.25-12.37.24-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "25092009286.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.26-21.20.23-001",
+        "path": "/blogg/blog-post-2011.04.26-21.20.23-001",
+        "title": "Nye foringer",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nye foringer", 
+                        "sent-timestamp": "26.04.2011 15:19:17", 
+                        "received-timestamp": "26.04.2011 15:20:23", 
+                        "message-id": "<-6244205807952807350@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Nye foringer",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.04.2011 21:20:23",
+            "text-blocks": [
+                "Nye Powerflex Poliurethane foringer til bakdifferensialen gir mindre bevegelse i drivverket. Nå kommer bilen til å gå minst 0.4 sekunder raskere pr. km...hehe, neida."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.26-21.20.23-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1233.jpg"
+                }
+            ]
+        }
+    }
+}

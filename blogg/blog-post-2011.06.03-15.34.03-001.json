@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.06.03-15.34.03-001",
+        "path": "/blogg/blog-post-2011.06.03-15.34.03-001",
+        "title": "Aurskog-Hørland rally",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Aurskog-Hørland rally", 
+                        "sent-timestamp": "03.06.2011 09:32:03", 
+                        "received-timestamp": "03.06.2011 09:34:03", 
+                        "message-id": "<BLU0-SMTP140FED045C73BA8B54267F0A17F0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Aurskog-Hørland rally",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "03.06.2011 15:34:03",
+            "text-blocks": [
+                "Da har vi snart kjørt igjennom alle prøvene.. Dette er fra ss 10/13 løpets desidert kuleste prøve. Trang og knotete med mange løft...", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.06.03-15.34.03-001-image-1.JPG", 
+                    "height": "478", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.01.21-16.59.33-001",
+        "path": "/blogg/blog-post-2010.01.21-16.59.33-001",
+        "title": "Rune, min bror har vært på kurs i sverige...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "21.01.2010 10:59:32", 
+                        "received-timestamp": "21.01.2010 10:59:33", 
+                        "message-id": "<A_T4Gq_k6bjm-AA7m@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Rune, min bror har vært på kurs i sverige...",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "21.01.2010 16:59:33",
+            "text-blocks": [
+                "Rune, min bror har vært på kurs i sverige... Han kjørte over en stor bro;-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.01.21-16.59.33-001-image-1.JPG", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC00141.JPG"
+                }
+            ]
+        }
+    }
+}

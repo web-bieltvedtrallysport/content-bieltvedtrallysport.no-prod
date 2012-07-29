@@ -1,0 +1,239 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-15",
+        "path": "/fotoalbum/fotoalbum-15",
+        "title": "Rally Trøgstad 2008",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2008-rally-troekstad-1", 
+                "original-image": {
+                    "file-name": "Tr_gstad 035.JPG", 
+                    "rights": "norsk-rally.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-troekstad/w180/2008-rally-troekstad-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-rally-troekstad/w285/2008-rally-troekstad-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-rally-troekstad/w500/2008-rally-troekstad-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-troekstad-2", 
+                "original-image": {
+                    "file-name": "Tr_gstad 112.JPG", 
+                    "rights": "norsk-rally.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-troekstad/w180/2008-rally-troekstad-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-rally-troekstad/w285/2008-rally-troekstad-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-rally-troekstad/w500/2008-rally-troekstad-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-troekstad-3", 
+                "original-image": {
+                    "file-name": "Tr_gstad 114.JPG", 
+                    "rights": "norsk-rally.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-troekstad/w180/2008-rally-troekstad-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-rally-troekstad/w285/2008-rally-troekstad-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-rally-troekstad/w500/2008-rally-troekstad-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-troekstad-4", 
+                "original-image": {
+                    "file-name": "Tr_gstad 116.JPG", 
+                    "rights": "norsk-rally.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-troekstad/w180/2008-rally-troekstad-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-rally-troekstad/w285/2008-rally-troekstad-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2008-rally-troekstad/w500/2008-rally-troekstad-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-troekstad-5", 
+                "original-image": {
+                    "file-name": "1  Sveinung Bieltvedt       Naf Övre Östfold.jpg", 
+                    "rights": "Lars-Ivar Francke (l_francke@hotmail.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-troekstad/w180/2008-rally-troekstad-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-troekstad/w285/2008-rally-troekstad-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-rally-troekstad/w500/2008-rally-troekstad-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-troekstad-6", 
+                "original-image": {
+                    "file-name": "2  Sveinung Bieltvedt       Naf Övre Östfold.jpg", 
+                    "rights": "Lars-Ivar Francke (l_francke@hotmail.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-troekstad/w180/2008-rally-troekstad-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-troekstad/w285/2008-rally-troekstad-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-rally-troekstad/w500/2008-rally-troekstad-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-troekstad-7", 
+                "original-image": {
+                    "file-name": "3  Sveinung Bieltvedt     Naf Övre Östfold.jpg", 
+                    "rights": "Lars-Ivar Francke (l_francke@hotmail.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-troekstad/w180/2008-rally-troekstad-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-troekstad/w285/2008-rally-troekstad-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-rally-troekstad/w500/2008-rally-troekstad-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-troekstad-8", 
+                "original-image": {
+                    "file-name": "4 Sveinung Bieltvedt     Naf Övre Östfold.jpg", 
+                    "rights": "Lars-Ivar Francke (l_francke@hotmail.com)" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-troekstad/w180/2008-rally-troekstad-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-troekstad/w285/2008-rally-troekstad-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "375", 
+                        "file": "/2008-rally-troekstad/w500/2008-rally-troekstad-8_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

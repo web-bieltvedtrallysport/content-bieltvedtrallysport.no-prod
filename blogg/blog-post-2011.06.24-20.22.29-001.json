@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.06.24-20.22.29-001",
+        "path": "/blogg/blog-post-2011.06.24-20.22.29-001",
+        "title": "Loggføring",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Loggføring", 
+                        "sent-timestamp": "24.06.2011 14:20:30", 
+                        "received-timestamp": "24.06.2011 14:22:29", 
+                        "message-id": "<4130076534771608272@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Loggføring",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "24.06.2011 20:22:29",
+            "text-blocks": [
+                "Med over 20 forskjellige variabler på rallybilen som lar seg justere, blir det et hav av mulige sammensettinger som påvirker kjøreegenskapene. For å holde styr på situasjonen og vite hvilke settinger som gjelder for forskjellig veikarakter, er man nødt til å loggføre hver minste detalj. I tillegg må gangtid på alle hovedkomponenter føres opp slik at det byttes FØR det ryker. Da er Excel midt i blinken:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.06.24-20.22.29-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1363.jpg"
+                }
+            ]
+        }
+    }
+}

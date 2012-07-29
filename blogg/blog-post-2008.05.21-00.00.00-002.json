@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.21-00.00.00-002",
+        "path": "/blogg/blog-post-2008.05.21-00.00.00-002",
+        "title": "Nå har vi passert Uddevalla. Skal…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Nå har vi passert Uddevalla. Skal…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "21.05.2008",
+            "text-blocks": [
+                "Nå har vi passert Uddevalla. Skal kjøre Syd svenske. En runde i det svenske mesterskapet. Skal holde dere oppdatert i helga viss det går."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48345b476305a.jpg"
+                }
+            ]
+        }
+    }
+}

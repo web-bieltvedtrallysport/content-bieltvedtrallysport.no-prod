@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.10.18-00.00.00-001",
+        "path": "/blogg/blog-post-2008.10.18-00.00.00-001",
+        "title": "Mekkedag i dag. Gutta trener på",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Mekkedag i dag. Gutta trener på",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "18.10.2008",
+            "text-blocks": [
+                "Mekkedag i dag. Gutta trener på å bygge om bilen fra grus til asfaltoppsett. Vi får 2 timer til rådighet når vi er i Østerike, og det er mye som skal gjøres…"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48f9bb8e40054.jpg"
+                }
+            ]
+        }
+    }
+}

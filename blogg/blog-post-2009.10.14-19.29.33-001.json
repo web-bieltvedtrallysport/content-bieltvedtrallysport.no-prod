@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.10.14-19.29.33-001",
+        "path": "/blogg/blog-post-2009.10.14-19.29.33-001",
+        "title": "Ordentlig verktøy fra TOOLS.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ordentlig verktøy fra TOOLS.", 
+                        "sent-timestamp": "14.10.2009 13:29:32", 
+                        "received-timestamp": "14.10.2009 13:29:33", 
+                        "message-id": "<12927556.1255541372769.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Ordentlig verktøy fra TOOLS.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "14.10.2009 19:29:33",
+            "text-blocks": [
+                "Ordentlig verktøy fra TOOLS."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.10.14-19.29.33-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01221.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.19-10.41.55-001",
+        "path": "/blogg/blog-post-2010.02.19-10.41.55-001",
+        "title": "Da er vi på transport til ss 2.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "19.02.2010 04:41:53", 
+                        "received-timestamp": "19.02.2010 04:41:55", 
+                        "message-id": "<AfLojX0R7v6qGHSt6@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er vi på transport til ss 2.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "19.02.2010 10:41:55",
+            "text-blocks": [
+                "Da er vi på transport til ss 2. Veldig løst. Er igjennom til grusen et par steder alt. Behovet for en ny note dukket opp. Så nå er Attack med i systemet:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.19-10.41.55-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "19022010458.jpg"
+                }
+            ]
+        }
+    }
+}

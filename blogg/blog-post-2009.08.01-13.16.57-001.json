@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.01-13.16.57-001",
+        "path": "/blogg/blog-post-2009.08.01-13.16.57-001",
+        "title": "Petter's lege er bort om og ser over Sveinung.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "01.08.2009 13:16:56", 
+                        "received-timestamp": "01.08.2009 13:16:57", 
+                        "message-id": "<ARHO_W0Clc1UQfrdf@xnotn04.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Petter's lege er bort om og ser over Sveinung.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.08.2009 13:16:57",
+            "text-blocks": [
+                "Petter's lege er bort om og ser over Sveinung. Han kjente det litt i nakken etter den harde landingen. Skal være i orden. Bare en liten strekk."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.01-13.16.57-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "01082009242.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.04-15.00.33-001",
+        "path": "/blogg/blog-post-2010.06.04-15.00.33-001",
+        "title": "Det er ikke værst..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "04.06.2010 09:00:31", 
+                        "received-timestamp": "04.06.2010 09:00:33", 
+                        "message-id": "<AHxxFbxsYQtn4TKgZ@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Det er ikke værst..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "04.06.2010 15:00:33",
+            "text-blocks": [
+                "Det er ikke værst.. Heiagjeng på gjennomkjøringa..  Håper på at så mange som mulig tar turen på skauen i morgen. Bedre enn det er nå, med været og veiene skal det godt gjøres og få det.."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.04-15.00.33-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "04062010432.jpg"
+                }
+            ]
+        }
+    }
+}

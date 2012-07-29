@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.12.15-12.42.19-001",
+        "path": "/blogg/blog-post-2011.12.15-12.42.19-001",
+        "title": "Ny arbeidsgiver",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ny arbeidsgiver", 
+                        "sent-timestamp": "15.12.2011 06:41:52", 
+                        "received-timestamp": "15.12.2011 06:42:19", 
+                        "message-id": "<2289140607165401818@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Ny arbeidsgiver",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "15.12.2011 12:42:19",
+            "text-blocks": [
+                "Nå har jeg fått ny arbeidsgiver, i alle fall ny tilknytningsform. Nå jobber jeg ikke lenger i Forsvaret, men for Forsvaret via statsforetaket AIM Norway."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.12.15-12.42.19-001-image-1.jpg", 
+                    "height": "1222", 
+                    "width": "1630", 
+                    "orientation": "Landscape", 
+                    "original-name": "Photo_34CFDFF4-7AAD-A4F6-08DC-2A20CE614D1E.jpg"
+                }
+            ]
+        }
+    }
+}

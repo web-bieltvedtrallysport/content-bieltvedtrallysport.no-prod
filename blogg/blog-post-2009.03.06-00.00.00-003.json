@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.03.06-00.00.00-003",
+        "path": "/blogg/blog-post-2009.03.06-00.00.00-003",
+        "title": "Da er vi i Nummedal. Har inntatt n",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Da er vi i Nummedal. Har inntatt n",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.03.2009",
+            "text-blocks": [
+                "Da er vi i Nummedal. Har inntatt noteskrive stillingen. Sliter med senebetennelse i en skulder. Håper ikke det blir noen hindring i helgen. Regner med det skal gå bra."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/03/79d45_DSC00472.JPG"
+                }
+            ]
+        }
+    }
+}

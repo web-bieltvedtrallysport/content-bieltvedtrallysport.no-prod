@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.05.17-18.49.28-001",
+        "path": "/blogg/blog-post-2010.05.17-18.49.28-001",
+        "title": "André er alt i gang",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "André er alt i gang", 
+                        "sent-timestamp": "17.05.2010 12:49:01", 
+                        "received-timestamp": "17.05.2010 12:49:28", 
+                        "message-id": "<4bf17395.1067f10a.3cf3.ffffd107@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "André er alt i gang",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.05.2010 18:49:28",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.05.17-18.49.28-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0343.jpg"
+                }
+            ]
+        }
+    }
+}

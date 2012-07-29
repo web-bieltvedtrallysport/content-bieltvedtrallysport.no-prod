@@ -1,0 +1,799 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-13",
+        "path": "/fotoalbum/fotoalbum-13",
+        "title": "Rally Bohemia 2008",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "420",
+        "images": [
+            {
+                "id": "2008-rally-bohemia-1", 
+                "original-image": {
+                    "file-name": "02072008179.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-1_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-2", 
+                "original-image": {
+                    "file-name": "03072008180.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-2_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-3", 
+                "original-image": {
+                    "file-name": "04072008181.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-3_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-4", 
+                "original-image": {
+                    "file-name": "04072008182.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-4_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-5", 
+                "original-image": {
+                    "file-name": "04072008183.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-5_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-6", 
+                "original-image": {
+                    "file-name": "04072008185.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-6_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-7", 
+                "original-image": {
+                    "file-name": "04072008191.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-7_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-8", 
+                "original-image": {
+                    "file-name": "04072008193.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-8_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-9", 
+                "original-image": {
+                    "file-name": "04072008194.jpg", 
+                    "rights": "Erlend Furuseth" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-9_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-9_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-9_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-10", 
+                "original-image": {
+                    "file-name": "08f25db4-e652-4ea4-a452-38b8c2da2640.jpg", 
+                    "rights": "Sveinung Bieltvedt" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-10_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-10_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-10_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-11", 
+                "original-image": {
+                    "file-name": "445ed141-57ce-4a80-9184-521097cbbb2d.jpg", 
+                    "rights": "www.rallyzone.cz" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-11_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-11_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-11_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-12", 
+                "original-image": {
+                    "file-name": "5bb963ba-e2b1-4410-a002-a33b05ab60e5.jpg", 
+                    "rights": "www.rallyzone.cz" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-12_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-12_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-12_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-13", 
+                "original-image": {
+                    "file-name": "c01b4261-5cfb-4cea-a910-c0a5df6dcde9.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-13_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-13_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-13_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-14", 
+                "original-image": {
+                    "file-name": "c554ae1b-d475-4c76-84da-808d415acff3.jpg", 
+                    "rights": "" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "135", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-14_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "214", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-14_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "315", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-14_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-15", 
+                "original-image": {
+                    "file-name": "fc3351bc-3835-417a-8455-1b3092182f51.jpg", 
+                    "rights": "Petr Sagner ewrc.cz" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-15_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-15_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "280", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-15_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-16", 
+                "original-image": {
+                    "file-name": "0116.jpg", 
+                    "rights": "www.itweb.no" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-16_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-16_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "279", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-16_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-17", 
+                "original-image": {
+                    "file-name": "0119.jpg", 
+                    "rights": "www.itweb.no" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-17_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-17_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "279", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-17_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-18", 
+                "original-image": {
+                    "file-name": "0120.jpg", 
+                    "rights": "www.itweb.no" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-18_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-18_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "279", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-18_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-19", 
+                "original-image": {
+                    "file-name": "0121.jpg", 
+                    "rights": "www.itweb.no" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-19_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-19_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "279", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-19_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-20", 
+                "original-image": {
+                    "file-name": "0122.jpg", 
+                    "rights": "www.itweb.no" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-20_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-20_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "279", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-20_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-21", 
+                "original-image": {
+                    "file-name": "0123.jpg", 
+                    "rights": "www.itweb.no" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-21_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-21_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "279", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-21_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-22", 
+                "original-image": {
+                    "file-name": "0124.jpg", 
+                    "rights": "www.itweb.no" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-22_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "189", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-22_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "279", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-22_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-23", 
+                "original-image": {
+                    "file-name": "_DSC2910-2.jpg", 
+                    "rights": "Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "123", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-23_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "194", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-23_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "286", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-23_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-24", 
+                "original-image": {
+                    "file-name": "_DSC2911-2.jpg", 
+                    "rights": "Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "104", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-24_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "165", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-24_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "244", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-24_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-25", 
+                "original-image": {
+                    "file-name": "_DSC2924-2.jpg", 
+                    "rights": "Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "126", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-25_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "200", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-25_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "295", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-25_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-26", 
+                "original-image": {
+                    "file-name": "_DSC3345-2.jpg", 
+                    "rights": "Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "132", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-26_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "209", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-26_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "309", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-26_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-27", 
+                "original-image": {
+                    "file-name": "_DSC3636-2.jpg", 
+                    "rights": "Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "124", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-27_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "196", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-27_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "289", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-27_w420.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2008-rally-bohemia-28", 
+                "original-image": {
+                    "file-name": "_DSC3997-2.jpg", 
+                    "rights": "Benjamin Aleksander Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "132", 
+                        "file": "/2008-rally-bohemia/w180/2008-rally-bohemia-28_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "209", 
+                        "file": "/2008-rally-bohemia/w285/2008-rally-bohemia-28_w285.jpg" 
+                    }, 
+                    {
+                        "width": "420", 
+                        "height": "307", 
+                        "file": "/2008-rally-bohemia/w420/2008-rally-bohemia-28_w420.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

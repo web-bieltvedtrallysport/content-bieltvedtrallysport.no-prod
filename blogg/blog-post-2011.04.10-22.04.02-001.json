@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.04.10-22.04.02-001",
+        "path": "/blogg/blog-post-2011.04.10-22.04.02-001",
+        "title": "Bakstillingstravers",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Bakstillingstravers", 
+                        "sent-timestamp": "10.04.2011 16:03:14", 
+                        "received-timestamp": "10.04.2011 16:04:02", 
+                        "message-id": "<1329833754941440698@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Bakstillingstravers",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "10.04.2011 22:04:02",
+            "text-blocks": [
+                "André sveiser en sprekk i bakstillingstraversen."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.04.10-22.04.02-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1137.jpg"
+                }
+            ]
+        }
+    }
+}

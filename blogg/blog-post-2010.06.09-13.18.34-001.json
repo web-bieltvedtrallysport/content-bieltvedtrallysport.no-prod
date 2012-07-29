@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.09-13.18.34-001",
+        "path": "/blogg/blog-post-2010.06.09-13.18.34-001",
+        "title": "Opprydding",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Opprydding", 
+                        "sent-timestamp": "09.06.2010 07:15:37", 
+                        "received-timestamp": "09.06.2010 07:18:34", 
+                        "message-id": "<4c0f7888.0e67f10a.505f.3937@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Opprydding",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "09.06.2010 13:18:34",
+            "text-blocks": [
+                "Blir mye metallskrot til gjenvinning. Det her lasset er stort sett fra i år:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.09-13.18.34-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0396.jpg"
+                }
+            ]
+        }
+    }
+}

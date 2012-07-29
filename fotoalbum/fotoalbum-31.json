@@ -1,0 +1,1023 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-31",
+        "path": "/fotoalbum/fotoalbum-31",
+        "title": "Solberg Extreme Motorshow 2009",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2009-solberg-extreme-motorshow-1", 
+                "original-image": {
+                    "file-name": "_DSC0687.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-2", 
+                "original-image": {
+                    "file-name": "_DSC0688.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-3", 
+                "original-image": {
+                    "file-name": "_DSC0795.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-4", 
+                "original-image": {
+                    "file-name": "_DSC0796.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-5", 
+                "original-image": {
+                    "file-name": "_DSC0797.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-6", 
+                "original-image": {
+                    "file-name": "_DSC0798.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-7", 
+                "original-image": {
+                    "file-name": "_DSC0799.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-8", 
+                "original-image": {
+                    "file-name": "_DSC0800.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-8_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-9", 
+                "original-image": {
+                    "file-name": "_DSC0801.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-9_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-9_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-9_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-10", 
+                "original-image": {
+                    "file-name": "_DSC0802.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-10_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-10_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-10_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-11", 
+                "original-image": {
+                    "file-name": "_DSC0803.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-11_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-11_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-11_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-12", 
+                "original-image": {
+                    "file-name": "_DSC0804.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-12_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-12_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-12_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-13", 
+                "original-image": {
+                    "file-name": "_DSC0814.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-13_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-13_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-13_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-14", 
+                "original-image": {
+                    "file-name": "_DSC0815.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-14_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-14_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-14_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-15", 
+                "original-image": {
+                    "file-name": "_DSC0816.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-15_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-15_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-15_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-16", 
+                "original-image": {
+                    "file-name": "_DSC0817.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-16_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-16_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-16_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-17", 
+                "original-image": {
+                    "file-name": "_DSC0818.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-17_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-17_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-17_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-18", 
+                "original-image": {
+                    "file-name": "_DSC0819.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-18_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-18_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-18_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-19", 
+                "original-image": {
+                    "file-name": "_DSC0827.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-19_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-19_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-19_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-20", 
+                "original-image": {
+                    "file-name": "_DSC0828.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-20_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-20_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-20_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-21", 
+                "original-image": {
+                    "file-name": "_DSC0829.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-21_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-21_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-21_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-22", 
+                "original-image": {
+                    "file-name": "_DSC0830.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-22_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-22_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-22_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-23", 
+                "original-image": {
+                    "file-name": "_DSC0831.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-23_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-23_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-23_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-24", 
+                "original-image": {
+                    "file-name": "_DSC0832.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-24_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-24_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-24_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-25", 
+                "original-image": {
+                    "file-name": "_DSC0909.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-25_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-25_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-25_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-26", 
+                "original-image": {
+                    "file-name": "_DSC0910.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-26_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-26_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-26_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-27", 
+                "original-image": {
+                    "file-name": "_DSC1014.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-27_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-27_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-27_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-28", 
+                "original-image": {
+                    "file-name": "_DSC1015.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-28_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-28_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-28_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-29", 
+                "original-image": {
+                    "file-name": "_DSC1016.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-29_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-29_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-29_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-30", 
+                "original-image": {
+                    "file-name": "_DSC1061.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-30_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-30_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-30_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-31", 
+                "original-image": {
+                    "file-name": "_DSC1064.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-31_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-31_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-31_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-32", 
+                "original-image": {
+                    "file-name": "_DSC1171.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-32_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-32_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-32_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-33", 
+                "original-image": {
+                    "file-name": "_DSC1172.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-33_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-33_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-33_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-34", 
+                "original-image": {
+                    "file-name": "_DSC1173.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-34_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-34_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-34_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-35", 
+                "original-image": {
+                    "file-name": "_DSC1174.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-35_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-35_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-35_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-solberg-extreme-motorshow-36", 
+                "original-image": {
+                    "file-name": "_DSC1176.jpg", 
+                    "rights": "Benjamin A. Ward" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "h1", 
+                        "file": "/2009-solberg-extreme-motorshow/w180/2009-solberg-extreme-motorshow-36_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "h2", 
+                        "file": "/2009-solberg-extreme-motorshow/w285/2009-solberg-extreme-motorshow-36_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "h3", 
+                        "file": "/2009-solberg-extreme-motorshow/w500/2009-solberg-extreme-motorshow-36_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

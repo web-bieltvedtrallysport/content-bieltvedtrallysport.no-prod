@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "forside",
+        "path": "/forside",
+        "title": "Hjem",
+        "classification": "page",
+        "type": "normal",
+        "default-template": "forside"
+    },
+    "content": {
+    }
+}

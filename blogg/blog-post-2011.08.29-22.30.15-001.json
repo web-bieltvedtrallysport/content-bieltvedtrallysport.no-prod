@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.08.29-22.30.15-001",
+        "path": "/blogg/blog-post-2011.08.29-22.30.15-001",
+        "title": "Full sjekk",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Full sjekk", 
+                        "sent-timestamp": "29.08.2011 16:29:10", 
+                        "received-timestamp": "29.08.2011 16:30:15", 
+                        "message-id": "<8334995378406010904@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Full sjekk",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "29.08.2011 22:30:15",
+            "text-blocks": [
+                "Når vi på lørdag tok ut senterdiff enheten fant vi ingen synlige feil. For å være helt sikker har jeg nå tatt turen til Unic AB i Sverige for at vi kan være helt sikre. Mats Karlsson tester her med strømtilførsel. Alt ser bra ut, så det er nok bare snakk om å justere litt på fram -og bakdiff så har vi bilen som vi vil ha den..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.08.29-22.30.15-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1522.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.02.10-00.00.00-002",
+        "path": "/blogg/blog-post-2009.02.10-00.00.00-002",
+        "title": "merker på tlf til Sveinung at det",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "merker på tlf til Sveinung at det",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "10.02.2009",
+            "text-blocks": [
+                "merker på tlf til Sveinung at det er sluppet presse melding i dag:)"
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/02/dfbc5_DSC00429.JPG"
+                }
+            ]
+        }
+    }
+}

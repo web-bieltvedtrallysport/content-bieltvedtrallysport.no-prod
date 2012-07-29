@@ -1,0 +1,323 @@
+{
+    "meta": {
+        "id": "/fotoalbum/fotoalbum-21",
+        "path": "/fotoalbum/fotoalbum-21",
+        "title": "Sigdalsrally 2009",
+        "classification": "page",
+        "type": "image-album",
+        "default-template": "fotoalbum"
+    },
+    "content": {
+        "default-image-fullsize-width": "500",
+        "images": [
+            {
+                "id": "2009-sigdalsrally-1", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 014.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-1_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-1_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-1_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-2", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 015.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-2_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-2_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-2_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-3", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 019.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-3_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-3_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-3_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-4", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 020.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-4_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-4_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-4_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-5", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 021.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-5_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-5_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-5_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-6", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 166.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-6_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-6_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-6_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-7", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 167.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-7_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-7_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-7_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-8", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 168.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-8_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-8_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-8_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-9", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 266.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-9_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-9_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-9_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-10", 
+                "original-image": {
+                    "file-name": "Sigdalsrally, 10 jan 2009, NM 267.jpg", 
+                    "rights": "Lollo - lollo54@telia.com" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-10_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-10_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-10_w500.jpg" 
+                    }
+                ]
+            }, 
+            {
+                "id": "2009-sigdalsrally-11", 
+                "original-image": {
+                    "file-name": "Sigdalsrally 2009 - Oestlandets Blad.jpg", 
+                    "rights": "Oestlandets Blad - Monica Engan" 
+                }, 
+                "enabled": "true", 
+                "description": "", 
+                "title": "", 
+                "text": "", 
+                "sizes": [
+                    {
+                        "width": "180", 
+                        "height": "120", 
+                        "file": "/2009-sigdalsrally/w180/2009-sigdalsrally-11_w180.jpg" 
+                    }, 
+                    {
+                        "width": "285", 
+                        "height": "190", 
+                        "file": "/2009-sigdalsrally/w285/2009-sigdalsrally-11_w285.jpg" 
+                    }, 
+                    {
+                        "width": "500", 
+                        "height": "333", 
+                        "file": "/2009-sigdalsrally/w500/2009-sigdalsrally-11_w500.jpg" 
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.03.07-00.00.00-003",
+        "path": "/blogg/blog-post-2009.03.07-00.00.00-003",
+        "title": "sånn skal ikke luftfilteret se ut",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "sånn skal ikke luftfilteret se ut",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "07.03.2009",
+            "text-blocks": [
+                "sånn skal ikke luftfilteret se ut. Var i brøytekanten. Måtte rygge."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/03/4178f_DSC00483.JPG"
+                }
+            ]
+        }
+    }
+}

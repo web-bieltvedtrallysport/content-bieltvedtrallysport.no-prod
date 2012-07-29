@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.06.26-06.39.07-001",
+        "path": "/blogg/blog-post-2012.06.26-06.39.07-001",
+        "title": "Inspeksjon av dogbox",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Inspeksjon av dogbox", 
+                        "sent-timestamp": "26.06.2012 00:39:06", 
+                        "received-timestamp": "26.06.2012 00:39:07", 
+                        "message-id": "<CAJO1iKxq9xr0MFWehAOs0DSRM0jBHh4N858EV7WKPqx+rvmKCg@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Inspeksjon av dogbox",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "26.06.2012 06:39:07",
+            "text-blocks": [
+                "Full sjekk av girkassa med boroskoputstyr. Imponerende hvor seig denne dogbox'en er. Nå har den gått snart 600 mil SS totalt, og eneste jeg har bytta er noen få gir og noe i sjaltemekanismen! Etter tilstand nå å dømme, går den 100 mil til før den bør åpnes."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.06.26-06.39.07-001-image-1.jpg", 
+                    "height": "1280", 
+                    "width": "768", 
+                    "orientation": "Portrait", 
+                    "original-name": "IMG_20120625_192210.jpg"
+                }
+            ]
+        }
+    }
+}

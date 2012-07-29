@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.06.15-21.25.11-001",
+        "path": "/blogg/blog-post-2010.06.15-21.25.11-001",
+        "title": "Bosch+Sortemo=Sant",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Bosch+Sortemo=Sant", 
+                        "sent-timestamp": "15.06.2010 15:24:51", 
+                        "received-timestamp": "15.06.2010 15:25:11", 
+                        "message-id": "<4c17d396.5cebd80a.320c.ffffb800@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Bosch+Sortemo=Sant",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "15.06.2010 21:25:11",
+            "text-blocks": [
+                "Nå leveres Bosch elektroverktøy i Sortemo modulbokser. Genialt! Mange gode kampanjetilbud nå om dagen."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.06.15-21.25.11-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0424.jpg"
+                }
+            ]
+        }
+    }
+}

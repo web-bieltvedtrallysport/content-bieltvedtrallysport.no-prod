@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.08.05-12.52.57-001",
+        "path": "/blogg/blog-post-2011.08.05-12.52.57-001",
+        "title": "Mekkekveld",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Mekkekveld", 
+                        "sent-timestamp": "05.08.2011 06:52:03", 
+                        "received-timestamp": "05.08.2011 06:52:57", 
+                        "message-id": "<-7326568057562091616@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Mekkekveld",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "05.08.2011 12:52:57",
+            "text-blocks": [
+                "Lasse ordner opp i understellsbeskyttelsen. Så lenge en rallybil har drift på forhjulene, består mye av vedlikeholdsjobben i å lappe eller bytte beskyttelsen under bilen. Da lav vekt er viktig, bruker vi 4 m.m. tykk polyetylen og kevlar."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.08.05-12.52.57-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1448.jpg"
+                }
+            ]
+        }
+    }
+}

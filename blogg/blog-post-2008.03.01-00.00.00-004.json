@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.03.01-00.00.00-004",
+        "path": "/blogg/blog-post-2008.03.01-00.00.00-004",
+        "title": "I mål som nummer 3 i n4 og beste…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "I mål som nummer 3 i n4 og beste…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "01.03.2008",
+            "text-blocks": [
+                "I mål som nummer 3 i n4 og beste subaru. Vi er godt fornøyd med tanke på problemene vi har hatt."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_47c9a1884b3c2.jpg"
+                }
+            ]
+        }
+    }
+}

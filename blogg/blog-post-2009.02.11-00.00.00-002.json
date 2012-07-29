@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.02.11-00.00.00-002",
+        "path": "/blogg/blog-post-2009.02.11-00.00.00-002",
+        "title": "ikke hver dag man blir stoppet på",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "ikke hver dag man blir stoppet på",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "11.02.2009",
+            "text-blocks": [
+                "ikke hver dag man blir stoppet på gjennomkjøring for og gi tv intervju. Har 1 prøve igjen.. Snart ferdig:)"
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/02/facb5_DSC00443.JPG"
+                }
+            ]
+        }
+    }
+}

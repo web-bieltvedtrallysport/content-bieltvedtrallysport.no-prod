@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.10-00.00.00-002",
+        "path": "/blogg/blog-post-2008.05.10-00.00.00-002",
+        "title": "Er vel ikke nødvendig med…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Er vel ikke nødvendig med…",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "10.05.2008",
+            "text-blocks": [
+                "Er vel ikke nødvendig med ytterligere forklaring.. For de som lurer, så kjører jeg bare for utdrikkingslag som stiller med egen vei:)"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_4825b89aa5d27.jpg"
+                }
+            ]
+        }
+    }
+}

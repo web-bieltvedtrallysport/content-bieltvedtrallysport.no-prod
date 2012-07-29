@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.25-20.40.00-001",
+        "path": "/blogg/blog-post-2011.02.25-20.40.00-001",
+        "title": "Gutta står på",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Gutta står på", 
+                        "sent-timestamp": "25.02.2011 14:35:15", 
+                        "received-timestamp": "25.02.2011 14:40:00", 
+                        "message-id": "<BLU0-SMTP45C1EFE64E6AB35C33102CA1DD0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Gutta står på",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "25.02.2011 20:40:00",
+            "text-blocks": [
+                "Gutta står på.. De- mont mellomaksel og driv aksler så vi får bilen på henngeren.. Skal ned i et verksted i Kongsvinger og ta ut gear kassa. Se om det er noe og få gjort, så vi kan kjøre i morgen...", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.25-20.40.00-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.03.07-00.00.00-008",
+        "path": "/blogg/blog-post-2009.03.07-00.00.00-008",
+        "title": "den andre TOOLS bilen i MÅL",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "den andre TOOLS bilen i MÅL",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "07.03.2009",
+            "text-blocks": [
+                "den andre TOOLS bilen i MÅL"
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/03/d427c_DSC00487.JPG"
+                }
+            ]
+        }
+    }
+}

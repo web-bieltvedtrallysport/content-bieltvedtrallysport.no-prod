@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.22-07.07.25-001",
+        "path": "/blogg/blog-post-2011.02.22-07.07.25-001",
+        "title": "Klargjøring til løp",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Klargjøring til løp", 
+                        "sent-timestamp": "22.02.2011 00:06:14", 
+                        "received-timestamp": "22.02.2011 01:07:25", 
+                        "message-id": "<6450839587245300859@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Klargjøring til løp",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "22.02.2011 07:07:25",
+            "text-blocks": [
+                "Nå blir det noen ettermiddagsøkter med reingjøring, bytting av deler, spanner sjekk osv. før bilen er i representabel stand og kan vises på teknisk kontroll torsdag kveld."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.22-07.07.25-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1028.jpg"
+                }
+            ]
+        }
+    }
+}

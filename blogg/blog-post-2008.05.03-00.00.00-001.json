@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.03-00.00.00-001",
+        "path": "/blogg/blog-post-2008.05.03-00.00.00-001",
+        "title": "dag 1 er i gang. Kjørt første ss….",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "dag 1 er i gang. Kjørt første ss….",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "03.05.2008",
+            "text-blocks": [
+                "dag 1 er i gang. Kjørt første ss. Bilen er bedre og kjøre. Litt overstyrt enda. Men tror vi ikke får justert så mye mer. Bak diffen er nok litt stram."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_481c22c35d79c.jpg"
+                }
+            ]
+        }
+    }
+}

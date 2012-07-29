@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.01.13-10.56.38-001",
+        "path": "/blogg/blog-post-2012.01.13-10.56.38-001",
+        "title": "Mountain Rally",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Mountain Rally", 
+                        "sent-timestamp": "13.01.2012 04:55:55", 
+                        "received-timestamp": "13.01.2012 04:56:38", 
+                        "message-id": "<BLU0-SMTP13684C7EF4B09847D4FC90DA19C0@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Mountain Rally",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "13.01.2012 10:56:38",
+            "text-blocks": [
+                "Oppe på fjellet under gjennom kjøring.. Fint dekke på veien..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.01.13-10.56.38-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

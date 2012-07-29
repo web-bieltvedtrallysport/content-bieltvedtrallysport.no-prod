@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.05.02-00.00.00-002",
+        "path": "/blogg/blog-post-2009.05.02-00.00.00-002",
+        "title": "På vei til servic. Hatt enda en p",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "På vei til servic. Hatt enda en p",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.05.2009",
+            "text-blocks": [
+                "På vei til servic. Hatt enda en pungtering. Det vil seg lissom ikke nå. På bildet ser dere tommelen til Sveinung etter avkjøringa i går."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/05/c7f35_02052009.jpg"
+                }
+            ]
+        }
+    }
+}

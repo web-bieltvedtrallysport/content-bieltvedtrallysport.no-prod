@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.09.03-22.20.28-001",
+        "path": "/blogg/blog-post-2010.09.03-22.20.28-001",
+        "title": "Da er det service føre parc farmé.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "03.09.2010 16:20:27", 
+                        "received-timestamp": "03.09.2010 16:20:28", 
+                        "message-id": "<A4g0F3eYJ2tNbDOPD@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Da er det service føre parc farmé.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "03.09.2010 22:20:28",
+            "text-blocks": [
+                "Da er det service føre parc farmé. Status for dagen er at vi er igjennom, men vil prøve å kjøre litt fortere i morgen:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.09.03-22.20.28-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "03092010710.jpg"
+                }
+            ]
+        }
+    }
+}

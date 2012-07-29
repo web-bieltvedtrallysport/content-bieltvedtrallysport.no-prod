@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.05.24-00.00.00-001",
+        "path": "/blogg/blog-post-2008.05.24-00.00.00-001",
+        "title": "er i gang igjen etter noen timer…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "er i gang igjen etter noen timer…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "24.05.2008",
+            "text-blocks": [
+                "er i gang igjen etter noen timer søvn. Siden vi tapte så mye i går blir det mest og kjøre for og finne god følesen og oppsett på bilen. Så får vi se åssen tidene blir da."
+            ],
+            "images": [
+                {
+                    "name": ""
+                }
+            ]
+        }
+    }
+}

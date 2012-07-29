@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.01.04-00.00.00-001",
+        "path": "/blogg/blog-post-2009.01.04-00.00.00-001",
+        "title": "I dag har servicegjengen st",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "I dag har servicegjengen st",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "04.01.2009",
+            "text-blocks": [
+                "I dag har servicegjengen stått på! Kl 9 hentet vi bilen ut av lakkboksen og kl 11 var bilen ferdig montert og strippet for maskering, samt klargjort for dagens lille test på Elverum. Ingen sak når man har dyktige hjelpere:) Fikk kjørt 5 mil som siste test før kommende helg’s NM åpning på Sigdal. Takk igjen til E18 Autolakk og Børger Brænd som ordnet testvei!"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_496103ea7c932.jpg"
+                }
+            ]
+        }
+    }
+}

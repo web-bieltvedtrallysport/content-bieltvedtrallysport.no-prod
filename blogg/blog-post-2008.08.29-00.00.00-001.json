@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.29-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.29-00.00.00-001",
+        "title": "Her har vi Jan Vidar Jahrmann",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Her har vi Jan Vidar Jahrmann",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "29.08.2008",
+            "text-blocks": [
+                "Her har vi Jan Vidar Jahrmann i Oslo Sylinder Service, mest kjent som gal Volvo fører med 430 hk… Vi fant noe lekkasje i topplokkene, så da blir det fresing av ventilseter og planing også (takk for bra service Jan Vidar!). Og med ny shortblokk blir det her helt værst!"
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48b83fa9b1fd4.jpg"
+                }
+            ]
+        }
+    }
+}

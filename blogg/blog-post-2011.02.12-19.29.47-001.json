@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.02.12-19.29.47-001",
+        "path": "/blogg/blog-post-2011.02.12-19.29.47-001",
+        "title": "Hagfors Servicepark",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Hagfors Servicepark", 
+                        "sent-timestamp": "12.02.2011 12:29:02", 
+                        "received-timestamp": "12.02.2011 13:29:47", 
+                        "message-id": "<-5440329128933127889@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Hagfors Servicepark",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "12.02.2011 19:29:47",
+            "text-blocks": [
+                "Den nye Fiesta WRC bilen er ekstremt heftig når man får se hvordan den er bygd opp!"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.02.12-19.29.47-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0985.jpg"
+                }
+            ]
+        }
+    }
+}

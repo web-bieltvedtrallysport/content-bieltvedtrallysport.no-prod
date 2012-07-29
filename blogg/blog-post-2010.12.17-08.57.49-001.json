@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.12.17-08.57.49-001",
+        "path": "/blogg/blog-post-2010.12.17-08.57.49-001",
+        "title": "Overhaling av dogbox",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Overhaling av dogbox", 
+                        "sent-timestamp": "17.12.2010 01:56:12", 
+                        "received-timestamp": "17.12.2010 02:57:49", 
+                        "message-id": "<6172830772749052167@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Overhaling av dogbox",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "17.12.2010 08:57:49",
+            "text-blocks": [
+                "Har tatt på meg jobb for en av mine konkurrenter som kjører Prodrive Hewland dogbox. Her byttes det meste av gear og dog ringer, slik at kassa er klar for i alle fall 100 nye mil SS før det bør ses over på ny."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.12.17-08.57.49-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0864.jpg"
+                }
+            ]
+        }
+    }
+}

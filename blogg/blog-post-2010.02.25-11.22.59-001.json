@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.02.25-11.22.59-001",
+        "path": "/blogg/blog-post-2010.02.25-11.22.59-001",
+        "title": "Full fart i Edgarasjen",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Full fart i Edgarasjen", 
+                        "sent-timestamp": "25.02.2010 05:22:14", 
+                        "received-timestamp": "25.02.2010 05:22:59", 
+                        "message-id": "<4b864f7c.0e0bca0a.4300.ffffb95f@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Full fart i Edgarasjen",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "25.02.2010 11:22:59",
+            "text-blocks": [
+                "Ole legger om dekk, Roger fikser girspak og jeg smører dempere..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.02.25-11.22.59-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0108.jpg"
+                }
+            ]
+        }
+    }
+}

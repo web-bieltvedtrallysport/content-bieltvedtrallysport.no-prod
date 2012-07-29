@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.04.26-00.00.00-001",
+        "path": "/blogg/blog-post-2008.04.26-00.00.00-001",
+        "title": "Bilen er på hengeren. Da er vi på…",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "Bilen er på hengeren. Da er vi på…",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "26.04.2008",
+            "text-blocks": [
+                "Bilen er på hengeren. Da er vi på vei til Bjerkebanen. Sveinung skal kjøre Morten, en fra de nye sponsorene. Løpet begynner kl 16.00."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_4813042c3fad6.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.11.14-12.48.18-001",
+        "path": "/blogg/blog-post-2009.11.14-12.48.18-001",
+        "title": "Julebord:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Julebord:) Her har vi vinnerlaget i quiz", 
+                        "sent-timestamp": "14.11.2009 06:48:17", 
+                        "received-timestamp": "14.11.2009 06:48:18", 
+                        "message-id": "<17203656.1258199297039.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Julebord:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "14.11.2009 12:48:18",
+            "text-blocks": [
+                "Julebord:) Her har vi vinnerlaget i quiz'en. Premien er billetter til Solberg Extreme MotorShow"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.11.14-12.48.18-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01264.jpg"
+                }
+            ]
+        }
+    }
+}

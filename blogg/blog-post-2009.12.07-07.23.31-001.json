@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.12.07-07.23.31-001",
+        "path": "/blogg/blog-post-2009.12.07-07.23.31-001",
+        "title": "Ole er godt i gang med bilstell før kommende sesong.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ole er godt i gang med bilstell før komm", 
+                        "sent-timestamp": "07.12.2009 01:23:31", 
+                        "received-timestamp": "07.12.2009 01:23:31", 
+                        "message-id": "<1621136.1260167011032.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Ole er godt i gang med bilstell før kommende sesong.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "07.12.2009 07:23:31",
+            "text-blocks": [
+                "Ole er godt i gang med bilstell før kommende sesong. På bildet er balaksel og bensintank demontert for inspeksjon og rengjøring."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.12.07-07.23.31-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01322.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.03.13-19.32.21-001",
+        "path": "/blogg/blog-post-2011.03.13-19.32.21-001",
+        "title": "Motorfeste på Ascona...",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Motorfeste på Ascona...", 
+                        "sent-timestamp": "13.03.2011 13:31:01", 
+                        "received-timestamp": "13.03.2011 14:32:21", 
+                        "message-id": "<9096006255958342246@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Motorfeste på Ascona...",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "13.03.2011 19:32:21",
+            "text-blocks": [
+                "Når vi hadde rallykjøring på lørdag, røyk det ene motorfeste pga. varme fra eksosanlegget. Hva gjør man da? Jo, selvfølgelig borer hull i to hockeypuck'er og kjører videre... Godt gammelt triks:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.03.13-19.32.21-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1076.jpg"
+                }
+            ]
+        }
+    }
+}

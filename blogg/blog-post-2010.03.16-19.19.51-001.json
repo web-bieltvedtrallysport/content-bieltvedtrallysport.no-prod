@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.03.16-19.19.51-001",
+        "path": "/blogg/blog-post-2010.03.16-19.19.51-001",
+        "title": "Nå skal girkassa ut!",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Nå skal girkassa ut!", 
+                        "sent-timestamp": "16.03.2010 14:18:47", 
+                        "received-timestamp": "16.03.2010 14:19:51", 
+                        "message-id": "<4b9fcbc3.0f67f10a.31e3.2c23@mx.google.com>"
+                    }
+                }
+            },
+            "heading": "Nå skal girkassa ut!",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "16.03.2010 19:19:51",
+            "text-blocks": [
+                "Denne dogbox'en har nå gått imponerende 270 mil SS uten at det har vært nødvendig å gjøre noe med den. Men framdiff'en har vi selvfølgelig hatt ute flere ganger."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.03.16-19.19.51-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0163.jpg"
+                }
+            ]
+        }
+    }
+}

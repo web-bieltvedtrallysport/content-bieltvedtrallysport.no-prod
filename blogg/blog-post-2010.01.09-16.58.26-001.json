@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.01.09-16.58.26-001",
+        "path": "/blogg/blog-post-2010.01.09-16.58.26-001",
+        "title": "Inne til teknisk etter-kontroll:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4748044778@mms.mnc001.mcc242.gprs", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "", 
+                        "sent-timestamp": "09.01.2010 10:58:25", 
+                        "received-timestamp": "09.01.2010 10:58:26", 
+                        "message-id": "<ATDzMFkg4ndzixf5K@xnotn01.mmsc.mobil.telenor.no>"
+                    }
+                }
+            },
+            "heading": "Inne til teknisk etter-kontroll:)",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "09.01.2010 16:58:26",
+            "text-blocks": [
+                "Inne til teknisk etter-kontroll:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.01.09-16.58.26-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "09012010425.jpg"
+                }
+            ]
+        }
+    }
+}

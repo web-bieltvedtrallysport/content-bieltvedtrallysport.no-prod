@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.06-00.00.00-007",
+        "path": "/blogg/blog-post-2008.09.06-00.00.00-007",
+        "title": "vi er igjennom ss1.hadde for sto",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "vi er igjennom ss1.hadde for sto",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.09.2008",
+            "text-blocks": [
+                "vi er igjennom ss1.hadde for stor sikkerhets margin. Tror det er 4. Tid i klassen. Men er vel ikke mer enn 3 4 sek som skiller. Mer attck nå."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48c23b470ceb1.jpg"
+                }
+            ]
+        }
+    }
+}

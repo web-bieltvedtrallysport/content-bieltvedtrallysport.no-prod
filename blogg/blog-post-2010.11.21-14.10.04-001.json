@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.11.21-14.10.04-001",
+        "path": "/blogg/blog-post-2010.11.21-14.10.04-001",
+        "title": "Gull nr. 2 for TOOLS Rallyteam",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Gull nr. 2 for TOOLS Rallyteam", 
+                        "sent-timestamp": "21.11.2010 08:10:03", 
+                        "received-timestamp": "21.11.2010 08:10:04", 
+                        "message-id": "<AANLkTinphccK3k44iWFTBc+3nez++YLUwyk+r=6E=1kw@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Gull nr. 2 for TOOLS Rallyteam",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "21.11.2010 14:10:04",
+            "text-blocks": [
+                "Og jeg er veldig stolt! :-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.11.21-14.10.04-001-image-1.JPG", 
+                    "height": "2448", 
+                    "width": "3264", 
+                    "orientation": "Landscape", 
+                    "original-name": "113.JPG"
+                }, 
+                {
+                    "name": "blog-post-2010.11.21-14.10.04-001-image-2.JPG", 
+                    "height": "2448", 
+                    "width": "3264", 
+                    "orientation": "Landscape", 
+                    "original-name": "116.JPG"
+                }
+            ]
+        }
+    }
+}

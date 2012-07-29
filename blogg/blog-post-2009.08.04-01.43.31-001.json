@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.08.04-01.43.31-001",
+        "path": "/blogg/blog-post-2009.08.04-01.43.31-001",
+        "title": "Noe vanskelig å se, men her driver motortuner Per Johansson å feilsøker natt til tirsdag mens han er på ferie i Strømstad.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Noe vanskelig å se, men her driver motor", 
+                        "sent-timestamp": "04.08.2009 01:43:30", 
+                        "received-timestamp": "04.08.2009 01:43:31", 
+                        "message-id": "<12090844.1249343010901.JavaMail.wluser@agwha02.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Noe vanskelig å se, men her driver motortuner Per Johansson å feilsøker natt til tirsdag mens han er på ferie i Strømstad.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "04.08.2009 01:43:31",
+            "text-blocks": [
+                "Noe vanskelig å se, men her driver motortuner Per Johansson å feilsøker natt til tirsdag mens han er på ferie i Strømstad. 24 timers service...:)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.08.04-01.43.31-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01138.jpg"
+                }
+            ]
+        }
+    }
+}

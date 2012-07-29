@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.12.22-22.51.26-001",
+        "path": "/blogg/blog-post-2010.12.22-22.51.26-001",
+        "title": "Rekognosering",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Rekognosering", 
+                        "sent-timestamp": "22.12.2010 15:50:25", 
+                        "received-timestamp": "22.12.2010 16:51:26", 
+                        "message-id": "<7426713615350125375@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Rekognosering",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "22.12.2010 22:51:26",
+            "text-blocks": [
+                "Nå er jeg å sjekker ut om denne veien kan brukes til testing/trening på vinterføre. Først må alle beboere langs veistrekningen tillate rallykjøring, så må politi og kommune eller fylke søkes. Treningslisens via lokal motorklubb må også på plass før det kan gasses på lovlig vis."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.12.22-22.51.26-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0882.jpg"
+                }
+            ]
+        }
+    }
+}

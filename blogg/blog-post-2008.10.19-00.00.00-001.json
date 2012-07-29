@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.10.19-00.00.00-001",
+        "path": "/blogg/blog-post-2008.10.19-00.00.00-001",
+        "title": "Etter oppgradering av bilens ECU",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Etter oppgradering av bilens ECU",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "19.10.2008",
+            "text-blocks": [
+                "Etter oppgradering av bilens ECU software ville ikke bilen gå under 4000 rpm. Da var det bare å få bilen fortest mulig til bildoktor Gulbrandsen, så var det ordnet."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48fb32d70e248.jpg"
+                }
+            ]
+        }
+    }
+}

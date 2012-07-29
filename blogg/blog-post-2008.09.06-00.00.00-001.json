@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.09.06-00.00.00-001",
+        "path": "/blogg/blog-post-2008.09.06-00.00.00-001",
+        "title": "er på vei til ss 4 nå. Har begyn",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "er på vei til ss 4 nå. Har begyn",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.09.2008",
+            "text-blocks": [
+                "er på vei til ss 4 nå. Har begynt og regne. Vi kjører på feil dekk nå, men kjører så hardt vi tørr."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/27743/3col/img_48c24cc80f1c9.jpg"
+                }
+            ]
+        }
+    }
+}

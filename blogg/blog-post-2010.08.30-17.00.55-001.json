@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.08.30-17.00.55-001",
+        "path": "/blogg/blog-post-2010.08.30-17.00.55-001",
+        "title": "10 min til show:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "10 min til show:)", 
+                        "sent-timestamp": "30.08.2010 10:59:59", 
+                        "received-timestamp": "30.08.2010 11:00:55", 
+                        "message-id": "<1492890553495778954@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "10 min til show:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "30.08.2010 17:00:55",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.08.30-17.00.55-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0647.jpg"
+                }
+            ]
+        }
+    }
+}

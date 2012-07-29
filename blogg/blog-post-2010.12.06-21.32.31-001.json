@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.12.06-21.32.31-001",
+        "path": "/blogg/blog-post-2010.12.06-21.32.31-001",
+        "title": "Roger sveiser eksosanlegg",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Roger sveiser eksosanlegg", 
+                        "sent-timestamp": "06.12.2010 14:31:48", 
+                        "received-timestamp": "06.12.2010 15:32:31", 
+                        "message-id": "<-4071295230783157344@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Roger sveiser eksosanlegg",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "06.12.2010 21:32:31",
+            "text-blocks": [
+                "Eksosanlegget må rettes for at motor & turbo skal klare å kvitte seg med eksos..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.12.06-21.32.31-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG0819.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.10.20-21.23.07-001",
+        "path": "/blogg/blog-post-2009.10.20-21.23.07-001",
+        "title": "Replica bilen får nye hjul.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "4791111816@mms.chess.no", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Replica bilen får nye hjul.", 
+                        "sent-timestamp": "20.10.2009 15:23:06", 
+                        "received-timestamp": "20.10.2009 15:23:07", 
+                        "message-id": "<3305502.1256066586558.JavaMail.wluser@agwha01.netcom.no>"
+                    }
+                }
+            },
+            "heading": "Replica bilen får nye hjul.",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "20.10.2009 21:23:07",
+            "text-blocks": [
+                "Replica bilen får nye hjul."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2009.10.20-21.23.07-001-image-1.jpg", 
+                    "height": "480", 
+                    "width": "640", 
+                    "orientation": "Landscape", 
+                    "original-name": "DSC01238.jpg"
+                }
+            ]
+        }
+    }
+}

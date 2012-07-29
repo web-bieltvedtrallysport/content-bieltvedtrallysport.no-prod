@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.09.29-13.06.24-001",
+        "path": "/blogg/blog-post-2010.09.29-13.06.24-001",
+        "title": "Østlandets Blad fra mandag:)",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Østlandets Blad fra mandag:)", 
+                        "sent-timestamp": "29.09.2010 07:05:28", 
+                        "received-timestamp": "29.09.2010 07:06:24", 
+                        "message-id": "<1813018023293321635@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Østlandets Blad fra mandag:)",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "29.09.2010 13:06:24",
+            "text-blocks": [
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.09.29-13.06.24-001-image-1.jpg", 
+                    "height": "1280", 
+                    "width": "960", 
+                    "orientation": "Portrait", 
+                    "original-name": "IMAG0689.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2008.08.27-00.00.00-001",
+        "path": "/blogg/blog-post-2008.08.27-00.00.00-001",
+        "title": "Trening på Rudskogen i dag",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "30887", 
+                        "vg-blogg-url": "http://30887.vgb.no"
+                    }
+                }
+            },
+            "heading": "Trening på Rudskogen i dag",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "27.08.2008",
+            "text-blocks": [
+                "Trening på Rudskogen i dag sammen med John Haugland. Grunnoppsettet fra Mikael Gustavsson passer bra, med ørsmå endringer. På bildet ser dere Mr.X, min favoritt til \"Bilsport Talentet 08\". Han har lånt bilen min som trening til årets talentkonkurranse. Da skal Subaru Cup bilen for neste år kjøres på nettopp denne banen av alle de 5 utvalgte utøverne."
+            ],
+            "images": [
+                {
+                    "name": "http://bilder.vgb.no/28756/3col/img_48b5191c173d2.jpg"
+                }
+            ]
+        }
+    }
+}

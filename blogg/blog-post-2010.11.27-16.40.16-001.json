@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2010.11.27-16.40.16-001",
+        "path": "/blogg/blog-post-2010.11.27-16.40.16-001",
+        "title": "Da er showet igang.",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Da er showet igang.", 
+                        "sent-timestamp": "27.11.2010 10:38:53", 
+                        "received-timestamp": "27.11.2010 10:40:16", 
+                        "message-id": "<BLU0-SMTP22F998929B4FE552E3D198A1220@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Da er showet igang.",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "27.11.2010 16:40:16",
+            "text-blocks": [
+                "Snøscooter på asfalten.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2010.11.27-16.40.16-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

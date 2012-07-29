@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "id": "video/video-001",
+        "path": "/video/video-001",
+        "title": "Promo-film TOOLS Rallyteam 2008",
+        "classification": "content-document",
+        "type": "video",
+        "default-template": "video"
+    },
+    "content": {
+        "video": {
+            "heading": "Promo-film TOOLS Rallyteam 2008",
+            "source": "http://toolsrallyteam.no-static-resources.s3.amazonaws.com/videos/TOOLSRallyteam-promo.wmv",
+            "isVimeoVideo": "false"
+        }
+    }
+}

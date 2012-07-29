@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2009.02.14-00.00.00-002",
+        "path": "/blogg/blog-post-2009.02.14-00.00.00-002",
+        "title": "vil seg ikke enda. Fikk god jaget",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy",
+                "source": {
+                    "type": "vg-blogg",
+                    "values": {
+                        "vg-blogg-id": "29705", 
+                        "vg-blogg-url": "http://29705.vgb.no"
+                    }
+                }
+            },
+            "heading": "vil seg ikke enda. Fikk god jaget",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "14.02.2009",
+            "text-blocks": [
+                "vil seg ikke enda. Fikk god jaget på ss nå. Gikk ordentlig bra helt til vi tok igjen en bil halveis."
+            ],
+            "images": [
+                {
+                    "name": "http://29705.vgb.no/files/2009/02/3b720_DSC00456.JPG"
+                }
+            ]
+        }
+    }
+}

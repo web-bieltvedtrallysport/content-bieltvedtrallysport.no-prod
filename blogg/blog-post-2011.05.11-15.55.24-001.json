@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2011.05.11-15.55.24-001",
+        "path": "/blogg/blog-post-2011.05.11-15.55.24-001",
+        "title": "Snart båttur",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sbieltvedt@gmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Snart båttur", 
+                        "sent-timestamp": "11.05.2011 09:54:58", 
+                        "received-timestamp": "11.05.2011 09:55:24", 
+                        "message-id": "<-1853729820104640588@unknownmsgid>"
+                    }
+                }
+            },
+            "heading": "Snart båttur",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "11.05.2011 15:55:24",
+            "text-blocks": [
+                "Jeg kjører servicebil & utstyr denne gangen, og resten av gjengen kommer med fly i morra. Så da burde det endelig bli tid til Harry Hole i løpet av kvelden:) Foran i køen har vi en av konkurrentene våres."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2011.05.11-15.55.24-001-image-1.jpg", 
+                    "height": "960", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMAG1263.jpg"
+                }
+            ]
+        }
+    }
+}
