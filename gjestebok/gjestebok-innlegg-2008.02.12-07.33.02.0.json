@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.02.12-07.33.02.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.02.12-07.33.02.0",
+        "title": "",
+        "time-created": "1202797982000",
+        "time-created-formatted": "2008-02-12 07:33:02",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "BERNHUS I SLALOMBAKKEN",
+           "timestamp": "1202797982000",
+           "paragraphs": [
+               "Gratulerer med ny hjemmeside, ønsker deg lykke til i rallyfinskog,"
+           ]
+        }
+    }
+}

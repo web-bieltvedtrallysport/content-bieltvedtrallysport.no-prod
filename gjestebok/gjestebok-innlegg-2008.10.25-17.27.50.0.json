@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.10.25-17.27.50.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.10.25-17.27.50.0",
+        "title": "",
+        "time-created": "1224948470000",
+        "time-created-formatted": "2008-10-25 17:27:50",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Fra Skjeberg",
+           "timestamp": "1224948470000",
+           "paragraphs": [
+               "Har fulgt med for å se hvordan det går med dere.", 
+               "Det har vært spennende. Håper alt er bra med alle gutta.", 
+               "", 
+               "Hilsen morra til Aarmo"
+           ]
+        }
+    }
+}

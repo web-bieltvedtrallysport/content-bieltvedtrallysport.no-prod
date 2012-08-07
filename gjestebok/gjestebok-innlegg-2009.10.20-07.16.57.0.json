@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.10.20-07.16.57.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.10.20-07.16.57.0",
+        "title": "",
+        "time-created": "1256015817000",
+        "time-created-formatted": "2009-10-20 07:16:57",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Sveinung",
+           "timestamp": "1256015817000",
+           "paragraphs": [
+               "...og Roger kom heller ikke i år på pallen i kartleser NM. Var så nær, så nær...:-)", 
+               "", 
+               "Sveinung"
+           ]
+        }
+    }
+}

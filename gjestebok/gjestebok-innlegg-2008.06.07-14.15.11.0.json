@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.06.07-14.15.11.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.06.07-14.15.11.0",
+        "title": "",
+        "time-created": "1212840911000",
+        "time-created-formatted": "2008-06-07 14:15:11",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Kypros fareren",
+           "timestamp": "1212840911000",
+           "paragraphs": [
+               "Grattis med 1. og garantert ikke siste seier i en NM runde 4wd. gruppe N.", 
+               "Du holdt et imponerende tempo og kjørstilen er lik en viss annen ener.."
+           ]
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.04.14-09.10.47.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.04.14-09.10.47.0",
+        "title": "",
+        "time-created": "1239693047000",
+        "time-created-formatted": "2009-04-14 09:10:47",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Ondra",
+           "timestamp": "1239693047000",
+           "paragraphs": [
+               "Good afternoon,", 
+               "", 
+               "My name is Ondra and I am from the Czech Republic.I´m collector. I want to ask you if you", 
+               "could send me autograph card of your crew (with signature if it is", 
+               "possible) to my address. Also older and at more pieces, please.", 
+               "Thank you in advance", 
+               "", 
+               "Regards,", 
+               "Ond&#345;ej Kraj&#269;a", 
+               "", 
+               "My postal address:", 
+               "Ond&#345;ej Kraj&#269;a", 
+               "Rybní 628", 
+               "378 33 Nová Byst&#345;ice", 
+               "Czech republic", 
+               "", 
+               "thanks, thanks, thanks...."
+           ]
+        }
+    }
+}

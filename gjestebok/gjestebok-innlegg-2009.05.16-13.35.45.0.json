@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.05.16-13.35.45.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.05.16-13.35.45.0",
+        "title": "",
+        "time-created": "1242473745000",
+        "time-created-formatted": "2009-05-16 13:35:45",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Silje",
+           "timestamp": "1242473745000",
+           "paragraphs": [
+               "Kjempe bra kjørt:) dere kom dere bra på slutten... Grattis med 2 plassen"
+           ]
+        }
+    }
+}

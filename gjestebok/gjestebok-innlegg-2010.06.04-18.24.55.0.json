@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.06.04-18.24.55.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.06.04-18.24.55.0",
+        "title": "",
+        "time-created": "1275668695000",
+        "time-created-formatted": "2010-06-04 18:24:55",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Bakken",
+           "timestamp": "1275668695000",
+           "paragraphs": [
+               "Lykke til i A-H rally.", 
+               "", 
+               "Alltid gøy og se bilder på bloggen :-)"
+           ]
+        }
+    }
+}

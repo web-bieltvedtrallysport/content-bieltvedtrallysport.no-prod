@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2005.09.20-19.06.12.0",
+        "path": "/gjestebok/gjestebok-innlegg-2005.09.20-19.06.12.0",
+        "title": "",
+        "time-created": "1127235972000",
+        "time-created-formatted": "2005-09-20 19:06:12",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "rsrally.com",
+           "timestamp": "1127235972000",
+           "paragraphs": [
+               "Hei Sveinung. Ville bare si at vi har nå linket til siden din, og vil med dette forhåpentligvis sende alle som er inne på våre sider over til deg en tur også..", 
+               "", 
+               "Lykke til på Rally Hedmarken, ønskes fra Team RSrally og  Team RSactive Support."
+           ]
+        }
+    }
+}

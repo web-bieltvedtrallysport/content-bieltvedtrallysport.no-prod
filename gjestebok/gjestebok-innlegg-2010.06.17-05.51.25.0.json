@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.06.17-05.51.25.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.06.17-05.51.25.0",
+        "title": "",
+        "time-created": "1276746685000",
+        "time-created-formatted": "2010-06-17 05:51:25",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Silje",
+           "timestamp": "1276746685000",
+           "paragraphs": [
+               "Lykke til i Danmark:)"
+           ]
+        }
+    }
+}

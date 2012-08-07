@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.05.23-09.40.43.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.05.23-09.40.43.0",
+        "title": "",
+        "time-created": "1211528443000",
+        "time-created-formatted": "2008-05-23 09:40:43",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Tore Endsjø",
+           "timestamp": "1211528443000",
+           "paragraphs": [
+               "Lykke til i Sverige i helgen!", 
+               "Sitter limt til resultat siden på nettet og følger med.", 
+               "Håper det blir et vellykket rally på alle måter for dere!", 
+               "", 
+               "Mvh", 
+               "", 
+               "Tore"
+           ]
+        }
+    }
+}

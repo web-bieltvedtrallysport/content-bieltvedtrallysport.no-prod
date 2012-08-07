@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2006.03.13-17.26.56.0",
+        "path": "/gjestebok/gjestebok-innlegg-2006.03.13-17.26.56.0",
+        "title": "",
+        "time-created": "1142267216000",
+        "time-created-formatted": "2006-03-13 17:26:56",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Hanne:)",
+           "timestamp": "1142267216000",
+           "paragraphs": [
+               "Hei! Gratulerer med en knall-start på sesongen. Kjempe gøy. Håper jeg får være med å se mest mulig (blir et nervevrak av å sitte hjemme når du kjører:). Lykke til videre, jeg skal heie på deg:)"
+           ]
+        }
+    }
+}

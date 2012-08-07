@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.01.21-14.47.14.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.01.21-14.47.14.0",
+        "title": "",
+        "time-created": "1232545634000",
+        "time-created-formatted": "2009-01-21 14:47:14",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E  Ski",
+           "timestamp": "1232545634000",
+           "paragraphs": [
+               "Ny runde til helga! Lykke til alle sammen.", 
+               "", 
+               "Sveinung, få i deg Møller`s Tran.... Har ikke tid til influensa nå."
+           ]
+        }
+    }
+}

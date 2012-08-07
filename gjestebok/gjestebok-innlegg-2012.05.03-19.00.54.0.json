@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.05.03-19.00.54.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.05.03-19.00.54.0",
+        "title": "",
+        "time-created": "1336064454000",
+        "time-created-formatted": "2012-05-03 19:00:54",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Øyvind Skoie",
+           "timestamp": "1336064454000",
+           "paragraphs": [
+               "Vi i Tools Mandal ønsker deg lykke til i Rally Sørland.", 
+               "Vi følger deg tett i helgen.", 
+               "mvh", 
+               "Øyvind Skoie"
+           ]
+        }
+    }
+}

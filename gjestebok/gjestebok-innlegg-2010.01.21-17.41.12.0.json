@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.01.21-17.41.12.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.01.21-17.41.12.0",
+        "title": "",
+        "time-created": "1264092072000",
+        "time-created-formatted": "2010-01-21 17:41:12",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Bakken",
+           "timestamp": "1264092072000",
+           "paragraphs": [
+               "Nærmere dere mikkel nå.....", 
+               "Deilig og klådd han på noen prøver   :-)", 
+               "", 
+               "Stram wire........"
+           ]
+        }
+    }
+}

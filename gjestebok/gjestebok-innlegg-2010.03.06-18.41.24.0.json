@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.03.06-18.41.24.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.03.06-18.41.24.0",
+        "title": "",
+        "time-created": "1267897284000",
+        "time-created-formatted": "2010-03-06 18:41:24",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E ski",
+           "timestamp": "1267897284000",
+           "paragraphs": [
+               "Gratulerer hele teamet..", 
+               "Godt gjennomført, selv med kort spak igjen !"
+           ]
+        }
+    }
+}

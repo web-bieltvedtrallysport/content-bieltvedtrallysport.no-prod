@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.01.11-01.59.58.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.01.11-01.59.58.0",
+        "title": "",
+        "time-created": "1200013198000",
+        "time-created-formatted": "2008-01-11 01:59:58",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Tore",
+           "timestamp": "1200013198000",
+           "paragraphs": [
+               "Vil med dette ønske dere begge lykke til på Gol i helga,", 
+               "måtte det bli mye fart og spenning!", 
+               "Omstendighetene gjør det slik at jeg ikke har mulighet til å komme opp", 
+               "på fjellet å se på dere,men jeg kommer til å følge spent med på nettet.", 
+               "", 
+               "Lykke til!!"
+           ]
+        }
+    }
+}

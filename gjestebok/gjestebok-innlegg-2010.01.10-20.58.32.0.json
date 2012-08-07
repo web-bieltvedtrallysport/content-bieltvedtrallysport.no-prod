@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.01.10-20.58.32.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.01.10-20.58.32.0",
+        "title": "",
+        "time-created": "1263153512000",
+        "time-created-formatted": "2010-01-10 20:58:32",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E Ski",
+           "timestamp": "1263153512000",
+           "paragraphs": [
+               "Gratulerer !    Hele Teamet !", 
+               "", 
+               "Spennende sekund strid !", 
+               "", 
+               "God start på 2010"
+           ]
+        }
+    }
+}

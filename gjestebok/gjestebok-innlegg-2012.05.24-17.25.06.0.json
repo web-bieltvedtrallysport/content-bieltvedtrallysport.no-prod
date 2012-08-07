@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.05.24-17.25.06.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.05.24-17.25.06.0",
+        "title": "",
+        "time-created": "1337873106000",
+        "time-created-formatted": "2012-05-24 17:25:06",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "M B H",
+           "timestamp": "1337873106000",
+           "paragraphs": [
+               "fint bilde fra gravtjern:-)"
+           ]
+        }
+    }
+}

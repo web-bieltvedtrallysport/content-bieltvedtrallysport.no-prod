@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.02.16-16.38.41.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.02.16-16.38.41.0",
+        "title": "",
+        "time-created": "1234798721000",
+        "time-created-formatted": "2009-02-16 16:38:41",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Bieltvedt på Eidsvoll (og Hamar)",
+           "timestamp": "1234798721000",
+           "paragraphs": [
+               "Gratulerer med en strålende avslutning på Rally Norway!", 
+               "", 
+               "Etter service på lørdag (som jeg hadde gleden av å følge med på) gikk det jo meget bra. Pallplass er definitivt innenfor rekkevidde.", 
+               "Fikk også med meg SS20 Budor 1 (i tillegg til siste transportetappe). I det tekniske partiet på Ruskåsen, hvor jeg sto, så det meget bra ut.", 
+               "", 
+               "Lykke til videre og hils familien!"
+           ]
+        }
+    }
+}

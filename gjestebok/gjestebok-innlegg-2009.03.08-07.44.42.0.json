@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.03.08-07.44.42.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.03.08-07.44.42.0",
+        "title": "",
+        "time-created": "1236494682000",
+        "time-created-formatted": "2009-03-08 07:44:42",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Silje",
+           "timestamp": "1236494682000",
+           "paragraphs": [
+               "Grattis med tredje plass i Numedalsrally...", 
+               "Det var super stemmning i telte også.. Så ut som dere kosa dere..", 
+               "", 
+               "", 
+               "", 
+               "", 
+               "Klem"
+           ]
+        }
+    }
+}

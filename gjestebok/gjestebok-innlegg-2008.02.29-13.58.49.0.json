@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.02.29-13.58.49.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.02.29-13.58.49.0",
+        "title": "",
+        "time-created": "1204289929000",
+        "time-created-formatted": "2008-02-29 13:58:49",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Willy og Camilla",
+           "timestamp": "1204289929000",
+           "paragraphs": [
+               "Hei!", 
+               "", 
+               "Gratulerer med utrolig bra start på sesongen så langt! Knall bra!", 
+               "Lykke til med morgendagens løp!", 
+               "Håper du kjører fra dem alle.. :-)"
+           ]
+        }
+    }
+}

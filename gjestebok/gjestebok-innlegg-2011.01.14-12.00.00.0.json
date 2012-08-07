@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2011.01.14-12.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.01.14-12.00.00.0",
+        "title": "",
+        "time-created": "1295002800000",
+        "time-created-formatted": "2011-01-14 12:00:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "odd impreza",
+           "timestamp": "1295002800000",
+           "paragraphs": [
+               "LYKKE TIL IMORGEN,SIGDAL"
+           ]
+        }
+    }
+}

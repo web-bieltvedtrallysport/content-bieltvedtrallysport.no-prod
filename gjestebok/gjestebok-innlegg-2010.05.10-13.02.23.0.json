@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.05.10-13.02.23.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.05.10-13.02.23.0",
+        "title": "",
+        "time-created": "1273489343000",
+        "time-created-formatted": "2010-05-10 13:02:23",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "tools askim",
+           "timestamp": "1273489343000",
+           "paragraphs": [
+               "lykke til i south swedish rally.", 
+               "vi følger med på nettet,og håper at det denne gang", 
+               "bare er dere to som er konger i skogen."
+           ]
+        }
+    }
+}

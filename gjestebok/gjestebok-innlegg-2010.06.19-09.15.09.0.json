@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.06.19-09.15.09.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.06.19-09.15.09.0",
+        "title": "",
+        "time-created": "1276931709000",
+        "time-created-formatted": "2010-06-19 09:15:09",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Trond",
+           "timestamp": "1276931709000",
+           "paragraphs": [
+               "Gratulerer med seieren på SS8! Flatt jern på siste!!"
+           ]
+        }
+    }
+}

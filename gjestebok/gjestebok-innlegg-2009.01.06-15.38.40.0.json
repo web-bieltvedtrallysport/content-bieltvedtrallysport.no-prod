@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.01.06-15.38.40.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.01.06-15.38.40.0",
+        "title": "",
+        "time-created": "1231252720000",
+        "time-created-formatted": "2009-01-06 15:38:40",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Karin",
+           "timestamp": "1231252720000",
+           "paragraphs": [
+               "Lykke til til dere alle i teamet  til Sveinung.....måtte dette gå bra, vi er med dere i tankene...."
+           ]
+        }
+    }
+}

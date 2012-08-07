@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.08.26-14.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.08.26-14.00.00.0",
+        "title": "",
+        "time-created": "1282824000000",
+        "time-created-formatted": "2010-08-26 14:00:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Ernst",
+           "timestamp": "1282824000000",
+           "paragraphs": [
+               "Kjempeshow i Stavanger 25 august, vi storkoste oss med", 
+               "rå kjøring :-)"
+           ]
+        }
+    }
+}

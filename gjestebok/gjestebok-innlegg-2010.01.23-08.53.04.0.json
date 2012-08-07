@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.01.23-08.53.04.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.01.23-08.53.04.0",
+        "title": "",
+        "time-created": "1264233184000",
+        "time-created-formatted": "2010-01-23 08:53:04",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Kyprioten",
+           "timestamp": "1264233184000",
+           "paragraphs": [
+               "Grattis! Terping på detaljer gir resultater."
+           ]
+        }
+    }
+}

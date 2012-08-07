@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2011.09.22-18.34.50.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.09.22-18.34.50.0",
+        "title": "",
+        "time-created": "1316709290000",
+        "time-created-formatted": "2011-09-22 18:34:50",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E Ski",
+           "timestamp": "1316709290000",
+           "paragraphs": [
+               "Da er det siste Nm runde !", 
+               "", 
+               "God tur i skogen Tools Rallyteam !", 
+               "", 
+               ""
+           ]
+        }
+    }
+}
