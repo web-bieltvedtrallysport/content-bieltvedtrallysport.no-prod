@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2011.02.24-12.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.02.24-12.00.00.0",
+        "title": "",
+        "time-created": "1298545200000",
+        "time-created-formatted": "2011-02-24 12:00:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E Ski",
+           "timestamp": "1298545200000",
+           "message": "Ny runde for Tools Rallyteam.\r\nVi følger med !\r\nLykke til !\r\n\r\n"
+        }
+    }
+}

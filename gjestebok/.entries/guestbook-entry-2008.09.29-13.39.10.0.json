@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.09.29-13.39.10.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.09.29-13.39.10.0",
+        "title": "",
+        "time-created": "1222688350000",
+        "time-created-formatted": "2008-09-29 13:39:10",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Karin",
+           "timestamp": "1222688350000",
+           "message": "Etter å nært ute i skogen \"med dere\" de to siste rundene var spenningen over...dere fikk en suveren 2. plass..grarulerer så masse med 2. plassen. You are the champion......lykke til i Østerrike!"
+        }
+    }
+}

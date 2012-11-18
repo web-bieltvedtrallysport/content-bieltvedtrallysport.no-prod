@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.12.29-18.47.46.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.12.29-18.47.46.0",
+        "title": "",
+        "time-created": "1262108866000",
+        "time-created-formatted": "2009-12-29 18:47:46",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Rune",
+           "timestamp": "1262108866000",
+           "message": "Gratulerer masse med seier i romjulsrally. dette fortjente dere...\r\nBlir morro og følge dere i 2010 sesongen, Lykketil videre."
+        }
+    }
+}

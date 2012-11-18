@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.10.07-06.50.13.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.10.07-06.50.13.0",
+        "title": "",
+        "time-created": "1223355013000",
+        "time-created-formatted": "2008-10-07 06:50:13",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Vigdis, eller kanskje bedre kjent som Hjørdis :p",
+           "timestamp": "1223355013000",
+           "message": "Ja, dette så jo ut som en liten hobby du hade :p\r\nFete bilder, ser kjempe spennende ut"
+        }
+    }
+}

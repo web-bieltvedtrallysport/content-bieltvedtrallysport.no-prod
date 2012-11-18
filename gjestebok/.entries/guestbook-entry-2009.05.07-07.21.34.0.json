@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.05.07-07.21.34.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.05.07-07.21.34.0",
+        "title": "",
+        "time-created": "1241673694000",
+        "time-created-formatted": "2009-05-07 07:21:34",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Sveinung",
+           "timestamp": "1241673694000",
+           "message": "Hei Tore!\r\n\r\nKan se ut som det har sneket seg inn en feil i terminlisten på denne siden. Riktig dato er 20. juni. Skal få rettet det opp:-)"
+        }
+    }
+}

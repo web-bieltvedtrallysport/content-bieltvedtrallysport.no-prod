@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2011.12.13-13.42.11.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.12.13-13.42.11.0",
+        "title": "",
+        "time-created": "1323780131000",
+        "time-created-formatted": "2011-12-13 13:42:11",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "tools askim",
+           "timestamp": "1323780131000",
+           "message": "ønsker dere alle i toolsrallyteam en riktig god jul\r\nog et godt nyttår.\r\nhåper vi får følge dere i 2012 sesongen også.\r\nlykke til videre."
+        }
+    }
+}

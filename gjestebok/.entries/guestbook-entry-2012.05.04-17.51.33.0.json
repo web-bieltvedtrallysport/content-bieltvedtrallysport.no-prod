@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.05.04-17.51.33.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.05.04-17.51.33.0",
+        "title": "",
+        "time-created": "1336146693000",
+        "time-created-formatted": "2012-05-04 17:51:33",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Sjefen",
+           "timestamp": "1336146693000",
+           "message": "Veldig bra åpning.\r\nLykke til videre i helga!!"
+        }
+    }
+}

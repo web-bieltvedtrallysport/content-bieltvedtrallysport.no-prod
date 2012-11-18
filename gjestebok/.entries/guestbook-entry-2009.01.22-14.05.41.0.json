@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.01.22-14.05.41.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.01.22-14.05.41.0",
+        "title": "",
+        "time-created": "1232629541000",
+        "time-created-formatted": "2009-01-22 14:05:41",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Silje",
+           "timestamp": "1232629541000",
+           "message": "Dere får holde alle basiliskker unna og komme dere i kjøreform.\r\nResten av teamet får ha skrutrekker og hansker klare. I helga SKAL dere gi bånn gass:) Gleder meg til å følge dere i skauen...\r\n\r\n\r\nLukke til på lørdag!!!\r\n\r\nKlem"
+        }
+    }
+}

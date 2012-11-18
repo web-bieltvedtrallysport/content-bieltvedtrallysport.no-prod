@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.08.18-15.02.10.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.08.18-15.02.10.0",
+        "title": "",
+        "time-created": "1345294930000",
+        "time-created-formatted": "2012-08-18 15:02:10",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Lars Erik",
+           "timestamp": "1345294930000",
+           "message": "Hvordan har det gikk det i Sverige?"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.05.01-09.47.48.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.05.01-09.47.48.0",
+        "title": "",
+        "time-created": "1272700068000",
+        "time-created-formatted": "2010-05-01 09:47:48",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Bakken",
+           "timestamp": "1272700068000",
+           "message": "Grattis..... Faan dere er rå!"
+        }
+    }
+}

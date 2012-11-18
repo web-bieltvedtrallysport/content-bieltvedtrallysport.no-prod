@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.11.15-18.44.49.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.11.15-18.44.49.0",
+        "title": "",
+        "time-created": "1226771089000",
+        "time-created-formatted": "2008-11-15 18:44:49",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "bakken",
+           "timestamp": "1226771089000",
+           "message": "HOLD KIM LANGT UNNA DEN SJEKKEN........"
+        }
+    }
+}

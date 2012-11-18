@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.08.01-06.33.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.08.01-06.33.00.0",
+        "title": "",
+        "time-created": "1249101180000",
+        "time-created-formatted": "2009-08-01 06:33:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Lars Erik",
+           "timestamp": "1249101180000",
+           "message": "Synd med buklandingen. Men imorgen kommer en ny dag; flat out!"
+        }
+    }
+}

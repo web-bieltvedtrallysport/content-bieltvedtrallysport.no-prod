@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.09.06-16.10.47.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.09.06-16.10.47.0",
+        "title": "",
+        "time-created": "1220710247000",
+        "time-created-formatted": "2008-09-06 16:10:47",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Ivar Frode",
+           "timestamp": "1220710247000",
+           "message": "Kjempebra Gutter!!!!\r\nDere er fantastidke, NAF Øvre Østfold er stolte av dere.\r\nDere tar NM hjem på Hedemarken, da blir det feiring."
+        }
+    }
+}

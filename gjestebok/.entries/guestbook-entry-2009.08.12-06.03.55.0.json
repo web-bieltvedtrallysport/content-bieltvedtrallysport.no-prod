@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.08.12-06.03.55.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.08.12-06.03.55.0",
+        "title": "",
+        "time-created": "1250049835000",
+        "time-created-formatted": "2009-08-12 06:03:55",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Sveinung",
+           "timestamp": "1250049835000",
+           "message": "Hei til alle hos TOOLS Askim!\r\nPga. tv rettigheter i VM har vi ikke lov til å filme inboard på VM løpene på egenhånd. Derfor har vi desverre ingen film å legge ut...\r\nRygg å nakke begynner å bli 100% igjen nå. Faktisk fikk jeg en liten hjernerystelse også, men alt gror seg til igjen:-)"
+        }
+    }
+}

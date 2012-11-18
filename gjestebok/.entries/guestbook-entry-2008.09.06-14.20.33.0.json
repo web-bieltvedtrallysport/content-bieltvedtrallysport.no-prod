@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.09.06-14.20.33.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.09.06-14.20.33.0",
+        "title": "",
+        "time-created": "1220703633000",
+        "time-created-formatted": "2008-09-06 14:20:33",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Lars Erik",
+           "timestamp": "1220703633000",
+           "message": "Gratulerer gutter og resten av teamet!\r\n\r\nMorro at dere kan sparke fra dere på asfalt også!!"
+        }
+    }
+}

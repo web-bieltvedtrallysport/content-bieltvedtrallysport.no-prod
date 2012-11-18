@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.02.15-18.40.03.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.02.15-18.40.03.0",
+        "title": "",
+        "time-created": "1234719603000",
+        "time-created-formatted": "2009-02-15 18:40:03",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Bakken",
+           "timestamp": "1234719603000",
+           "message": "Grattis med god innsats i Rally norway\r\n\r\nAvslutta med stil,stå på videre......\r\n\r\nLykke til videre, sett dem på plass i nm nå"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2005.03.12-09.36.39.0",
+        "path": "/gjestebok/gjestebok-innlegg-2005.03.12-09.36.39.0",
+        "title": "",
+        "time-created": "1110616599000",
+        "time-created-formatted": "2005-03-12 09:36:39",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Thorleif",
+           "timestamp": "1110616599000",
+           "message": "Neste er Sørlandet. Et løp dere har gode erfaringer med. Lykke til."
+        }
+    }
+}

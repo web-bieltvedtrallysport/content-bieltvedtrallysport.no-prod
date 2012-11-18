@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.04.27-12.06.02.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.04.27-12.06.02.0",
+        "title": "",
+        "time-created": "1240826762000",
+        "time-created-formatted": "2009-04-27 12:06:02",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Karin",
+           "timestamp": "1240826762000",
+           "message": "Lykke til på fredag og lørdag på Sørlandet.....\r\nVi heier på dere ett sted ute i løypa...."
+        }
+    }
+}

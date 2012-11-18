@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.01.10-01.37.31.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.01.10-01.37.31.0",
+        "title": "",
+        "time-created": "1231547851000",
+        "time-created-formatted": "2009-01-10 01:37:31",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Kari og Tor",
+           "timestamp": "1231547851000",
+           "message": "Lykke til i helga! Gi full gass og sank så mye poeng som mulig! Vi skal følge med på nettet og heie på dere!"
+        }
+    }
+}

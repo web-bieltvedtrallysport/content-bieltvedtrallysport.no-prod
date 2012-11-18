@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.07.31-02.40.58.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.07.31-02.40.58.0",
+        "title": "",
+        "time-created": "1249000858000",
+        "time-created-formatted": "2009-07-31 02:40:58",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Erik B",
+           "timestamp": "1249000858000",
+           "message": "Lykke til i Finland, gi gass gutta."
+        }
+    }
+}

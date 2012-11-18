@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.06.05-15.00.33.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.06.05-15.00.33.0",
+        "title": "",
+        "time-created": "1275742833000",
+        "time-created-formatted": "2010-06-05 15:00:33",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "tools askim",
+           "timestamp": "1275742833000",
+           "message": "gratulerer med nm gull til hele teamet.\r\ndette fortjente dere .\r\nhold treningen ved like i sommer så blir det mer og feire 25\r\nseptember.kartleser nm. vi håper på \"the dubbel\""
+        }
+    }
+}

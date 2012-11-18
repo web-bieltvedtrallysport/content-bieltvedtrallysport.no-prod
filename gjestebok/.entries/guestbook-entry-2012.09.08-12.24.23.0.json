@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.09.08-12.24.23.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.09.08-12.24.23.0",
+        "title": "",
+        "time-created": "1347099863000",
+        "time-created-formatted": "2012-09-08 12:24:23",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Erlend",
+           "timestamp": "1347099863000",
+           "message": "Gratulerer , god kjøring gjennom hele dagen. Nå er vel gullet halvveis i lomma...."
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.02.10-07.33.24.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.02.10-07.33.24.0",
+        "title": "",
+        "time-created": "1234247604000",
+        "time-created-formatted": "2009-02-10 07:33:24",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Bakken",
+           "timestamp": "1234247604000",
+           "message": "ØNSKER HELE TOOLSRALLYTEAM LYKKE TIL UNDER\r\nRALLY NORWAY\r\n\r\nSTRAM WIRE.........\r\n\r\n\r\nHILSEN BAKKEN"
+        }
+    }
+}

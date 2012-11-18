@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.05.04-14.52.09.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.05.04-14.52.09.0",
+        "title": "",
+        "time-created": "1336135929000",
+        "time-created-formatted": "2012-05-04 14:52:09",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Lars Erik",
+           "timestamp": "1336135929000",
+           "message": "Knallåpning! -Lykke til videre i helga!"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "id": "gjestebok-innlegg-skjema",
+        "path": "/gjestebok-innlegg-skjema",
+        "title": "Gjestebok innlegg-skjema",
+        "classification": "form",
+        "type": "normal",
+        "default-template": "gjestebok-skjema-kontroller"
+    },
+    "content": {
+    }
+}

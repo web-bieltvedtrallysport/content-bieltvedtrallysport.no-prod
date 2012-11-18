@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2011.06.04-12.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.06.04-12.00.00.0",
+        "title": "",
+        "time-created": "1307181600000",
+        "time-created-formatted": "2011-06-04 12:00:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Tore",
+           "timestamp": "1307181600000",
+           "message": "Nå har vi vært på Aurskog og sett dere live, makan til imponerende kjøring!\r\nSitter nå foran PC'n og følger sekund striden med Østberg på siste SS;)\r\nTakk for en super oplevelse, igjen imponerende kjøring,stå på!\r\nHilsen fra stolt bror m/fam."
+        }
+    }
+}

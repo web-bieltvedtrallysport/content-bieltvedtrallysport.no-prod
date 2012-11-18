@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.02.15-17.30.12.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.02.15-17.30.12.0",
+        "title": "",
+        "time-created": "1234715412000",
+        "time-created-formatted": "2009-02-15 17:30:12",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Martin Dahl",
+           "timestamp": "1234715412000",
+           "message": "Grattis med meget bra innsats i Rally Norway. De siste 3 var jo helt verst :) Skal tydeligvis ikke stå på kondisen...\r\n\r\nLykke til i resten av sesongen, Det kan jo bli riktig så artig hvis dere unngår mer trøbbel..."
+        }
+    }
+}

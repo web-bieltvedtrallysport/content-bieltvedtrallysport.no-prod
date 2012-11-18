@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.06.02-16.11.03.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.06.02-16.11.03.0",
+        "title": "",
+        "time-created": "1212415863000",
+        "time-created-formatted": "2008-06-02 16:11:03",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Nicklas Edvardsson",
+           "timestamp": "1212415863000",
+           "message": "Hej //\r\n\r\nLycka till i helgen. Själv skall vi åka sm i Karlskrona. Har du samm\r\ntempo i helgen som du hade i SSR kommer det att gå bra.\r\n\r\nHa det //\r\n\r\nNicklas Edvardsson Co-Driver\r\nSubaru Swedish Dealer Team."
+        }
+    }
+}

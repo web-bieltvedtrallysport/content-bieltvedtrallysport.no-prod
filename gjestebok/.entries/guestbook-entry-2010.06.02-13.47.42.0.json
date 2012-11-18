@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.06.02-13.47.42.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.06.02-13.47.42.0",
+        "title": "",
+        "time-created": "1275479262000",
+        "time-created-formatted": "2010-06-02 13:47:42",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Sveinung",
+           "timestamp": "1275479262000",
+           "message": "Hei TOOLS Askim!\r\n\r\nDe fleste fartsprøvene i A.-H. Rally er lett tilgjengelig for publikum, kanskje spesielt de 6 første. Gi beskjed så fort dere vet hvilken service dere velger, så skal vi ordne servering i TOOLS teltet:-)"
+        }
+    }
+}

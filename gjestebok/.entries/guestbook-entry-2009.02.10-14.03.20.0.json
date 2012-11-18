@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.02.10-14.03.20.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.02.10-14.03.20.0",
+        "title": "",
+        "time-created": "1234271000000",
+        "time-created-formatted": "2009-02-10 14:03:20",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Silje:)",
+           "timestamp": "1234271000000",
+           "message": "Hei!\r\nGrattis med \"rally-fadder\" og samarbeidet med Petter.  Gleder meg kjempe, kjempe masse til Rally Norway til helga.\r\nDere får gi bånn gass og kjøre som bare f......... Vi følger med og veiver med flagg og plakater et sted i skauen. Håper på en tur til service også..\r\n\r\nMasse, massse lykke til.. Hold dere friske og raske og hold fokus.\r\n\r\n\r\nKlem"
+        }
+    }
+}

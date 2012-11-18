@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.12.28-13.48.18.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.12.28-13.48.18.0",
+        "title": "",
+        "time-created": "1230468498000",
+        "time-created-formatted": "2008-12-28 13:48:18",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Silje",
+           "timestamp": "1230468498000",
+           "message": "Hei!!!\r\n\r\nNå er det testing og små justering og enda mer testing som teller... I år slår dere Martin ned i sporet.....\r\nLykke til i sesongen 2009... Håper på mange spennende nm-runder med den nye subaruen..\r\n\r\n\r\nKlem"
+        }
+    }
+}

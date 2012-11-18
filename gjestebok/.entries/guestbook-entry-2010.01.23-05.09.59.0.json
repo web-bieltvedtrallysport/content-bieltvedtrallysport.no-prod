@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.01.23-05.09.59.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.01.23-05.09.59.0",
+        "title": "",
+        "time-created": "1264219799000",
+        "time-created-formatted": "2010-01-23 05:09:59",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Bakken",
+           "timestamp": "1264219799000",
+           "message": "Sitter hjemme med rallyradioen og nettet og koser meg med\r\nkald cola og sigg. Dere 17 sek foran mikkel etter ss 3,  :-)\r\n\r\nKrysser fingrene for at flyten fortsetter utover dagen......."
+        }
+    }
+}

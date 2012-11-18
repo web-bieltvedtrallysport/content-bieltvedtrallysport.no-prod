@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.05.15-07.40.22.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.05.15-07.40.22.0",
+        "title": "",
+        "time-created": "1273902022000",
+        "time-created-formatted": "2010-05-15 07:40:22",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Thorleif",
+           "timestamp": "1273902022000",
+           "message": "Det har vært spennende og imponerende å følge dere i helgen.\r\nBetter luck next time :-)"
+        }
+    }
+}

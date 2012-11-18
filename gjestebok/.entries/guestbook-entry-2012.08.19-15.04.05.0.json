@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.08.19-15.04.05.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.08.19-15.04.05.0",
+        "title": "",
+        "time-created": "1345381445000",
+        "time-created-formatted": "2012-08-19 15:04:05",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Sveinun",
+           "timestamp": "1345381445000",
+           "message": "Sverigeturen gikk bra, dvs. at vi fikk godt utbytte i form av trening til Telemark. Har jo ikke kjørt bilen siden A.-H.Rally, så det meste dreide seg om å komme igang igjen. I begynnelsen vr det rattrust, i slutten av løpet lå vi nær tetstriden i gr.N 4wd."
+        }
+    }
+}

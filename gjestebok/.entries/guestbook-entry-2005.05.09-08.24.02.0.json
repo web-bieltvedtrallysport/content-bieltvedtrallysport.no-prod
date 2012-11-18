@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2005.05.09-08.24.02.0",
+        "path": "/gjestebok/gjestebok-innlegg-2005.05.09-08.24.02.0",
+        "title": "",
+        "time-created": "1115619842000",
+        "time-created-formatted": "2005-05-09 08:24:02",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "sjefen",
+           "timestamp": "1115619842000",
+           "message": "Gratulerer med en kjempe innsats på sørlandet..\r\nutrolig bra kjørt,helt suverent....\r\nlykketil videre i cupen.."
+        }
+    }
+}

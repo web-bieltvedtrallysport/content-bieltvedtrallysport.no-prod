@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2006.04.02-17.16.43.0",
+        "path": "/gjestebok/gjestebok-innlegg-2006.04.02-17.16.43.0",
+        "title": "",
+        "time-created": "1143991003000",
+        "time-created-formatted": "2006-04-02 17:16:43",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Rallye Sulinger Land",
+           "timestamp": "1143991003000",
+           "message": "Do you like to drive the \"19. ADAC-Mobil-Pegasus-Rallye Sulinger Land\" in Northern Germany this year? The date is at 05./06 may 2006 and it is an asphalt-rally (5% gravel).\r\n\r\nWe have a raid for the German ADAC-Rallye-Masters, German Junior-Cup, Suzuki-Rallye-Cup, Volvo-ORIGINAL-Cup Germany, Volvo-ORIGINAL-Cup Holland, Nordic-West-Euro-Cup (Volvo-Cup from Norway, Sweden, Germany, Holland), Youngtimer-Trophy, Historic-Rallye-Cup and many more cups.\r\n\r\nIn the last years we had competitiors from 8 nations at the start. Also many Volvo-drivers from Norway and Sweden. Last year we had 99 teams at the start.\r\n\r\nFor this year we have now 10 registrations for the rally.\r\n\r\nAll informations you can find on our homepage:\r\n\r\nwww.msg-sulingen.de\r\n\r\nYou must click on the green rally-label. Here you can find all informations about the rally. And under \"Downloads\" you can find the Invitation. This year you can invite ONLINE for the rally.\r\n\r\nThe starting-money for you is only 150,- Euro.\r\n\r\nI hope you answer this eMail or we see you at our rally at 05./06. may 2006.\r\n\r\nThank you very much and best regards from Sulingen\r\n\r\nHeinfried Leymann\r\n(press MSG Sulinger Land)"
+        }
+    }
+}

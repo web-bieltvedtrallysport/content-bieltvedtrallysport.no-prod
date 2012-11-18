@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2006.11.26-21.43.29.0",
+        "path": "/gjestebok/gjestebok-innlegg-2006.11.26-21.43.29.0",
+        "title": "",
+        "time-created": "1164573809000",
+        "time-created-formatted": "2006-11-26 21:43:29",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Rune",
+           "timestamp": "1164573809000",
+           "message": "Gratulerer med alle \"tilskuddene\"...... hehehe\r\nGod tur og lykketil i england.."
+        }
+    }
+}

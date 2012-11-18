@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2011.12.14-10.59.11.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.12.14-10.59.11.0",
+        "title": "",
+        "time-created": "1323856751000",
+        "time-created-formatted": "2011-12-14 10:59:11",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Silje ",
+           "timestamp": "1323856751000",
+           "message": "Ønsker alle i Tools rallyteam god jul og et godt nyttår:)"
+        }
+    }
+}

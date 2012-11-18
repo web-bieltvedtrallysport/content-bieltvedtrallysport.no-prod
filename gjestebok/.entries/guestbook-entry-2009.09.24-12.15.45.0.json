@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.09.24-12.15.45.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.09.24-12.15.45.0",
+        "title": "",
+        "time-created": "1253787345000",
+        "time-created-formatted": "2009-09-24 12:15:45",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "tools askim",
+           "timestamp": "1253787345000",
+           "message": "takk for tips-vi sees på rally hedemarken\r\nvi satser på at du havner på pallen totalt.\r\nlykke til gutter."
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.01.09-10.34.48.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.01.09-10.34.48.0",
+        "title": "",
+        "time-created": "1263029688000",
+        "time-created-formatted": "2010-01-09 10:34:48",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Silje",
+           "timestamp": "1263029688000",
+           "message": "Grattis gutter.. Kjempe spennende med sekundstrid med Andreas..\r\nDet viser at dere henger med helt i toppen.\r\nSyn på ss 6 da:)\r\n\r\nKlem"
+        }
+    }
+}

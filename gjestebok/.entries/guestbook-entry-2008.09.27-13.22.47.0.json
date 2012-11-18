@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.09.27-13.22.47.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.09.27-13.22.47.0",
+        "title": "",
+        "time-created": "1222514567000",
+        "time-created-formatted": "2008-09-27 13:22:47",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Kyprioten",
+           "timestamp": "1222514567000",
+           "message": "Gratulerer med sølvet! (Har hørt på rallyradio og fulg med på nettet i hele dag,så det er ingen sak å være på andre breddegrader nei.)\r\nDet å følge Martin til døra  er bra i første sesong i 4wd. Nå får du rette fokud mor Shoot out'n.\r\nAlle i teamet fortjener cognac i dag. Ikke gjør Hamar utrygg i kveld."
+        }
+    }
+}

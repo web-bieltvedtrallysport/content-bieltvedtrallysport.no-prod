@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.01.08-08.10.06.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.01.08-08.10.06.0",
+        "title": "",
+        "time-created": "1262934606000",
+        "time-created-formatted": "2010-01-08 08:10:06",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Nissefar på Kypros",
+           "timestamp": "1262934606000",
+           "message": "PC er klar kl 09 i morgen, og jeg med (til tross for sol og 20 varmegrader ute om dagen). Spent på \"formen\" deres nå mot de beste. Tror 2010 blir deres. Lykke til!"
+        }
+    }
+}

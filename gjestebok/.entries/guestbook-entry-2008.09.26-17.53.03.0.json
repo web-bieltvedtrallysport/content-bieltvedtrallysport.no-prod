@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.09.26-17.53.03.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.09.26-17.53.03.0",
+        "title": "",
+        "time-created": "1222444383000",
+        "time-created-formatted": "2008-09-26 17:53:03",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "BAKKEN",
+           "timestamp": "1222444383000",
+           "message": "KRYSSER FINGRE OG TÆR.\r\n\r\nDRA  NM I GR.N  TIL FOLLO  IGJEN.....\r\n\r\nLYKKE TIL GUTTER"
+        }
+    }
+}

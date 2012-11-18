@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2011.03.31-12.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.03.31-12.00.00.0",
+        "title": "",
+        "time-created": "1301565600000",
+        "time-created-formatted": "2011-03-31 12:00:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E Ski",
+           "timestamp": "1301565600000",
+           "message": "Hei !\r\n\r\nHåper dere får en god gjennomkjøring og får testet både\r\nredskap og ikke minst mannskap til neste NM runde.\r\n\r\nGod tur Tools Rallyteam!\r\n"
+        }
+    }
+}

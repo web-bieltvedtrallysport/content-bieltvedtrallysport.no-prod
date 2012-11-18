@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.06.04-16.31.42.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.06.04-16.31.42.0",
+        "title": "",
+        "time-created": "1338820302000",
+        "time-created-formatted": "2012-06-04 16:31:42",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "M B H",
+           "timestamp": "1338820302000",
+           "message": "Gratulere så mye med 2plassen i helga.\r\n\r\nfin turkopp dere har fått. går vel mye godt drikke i den?"
+        }
+    }
+}

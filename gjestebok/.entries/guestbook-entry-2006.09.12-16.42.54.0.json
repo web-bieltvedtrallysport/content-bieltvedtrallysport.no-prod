@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2006.09.12-16.42.54.0",
+        "path": "/gjestebok/gjestebok-innlegg-2006.09.12-16.42.54.0",
+        "title": "",
+        "time-created": "1158072174000",
+        "time-created-formatted": "2006-09-12 16:42:54",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Hanne:)",
+           "timestamp": "1158072174000",
+           "message": "Da er det i boks!:) Gratulerer så mye med nm-gullet!!! Kjempe gøy!!! Kjempe stolt av dere:)"
+        }
+    }
+}

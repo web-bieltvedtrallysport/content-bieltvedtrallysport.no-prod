@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2008.09.27-10.55.55.0",
+        "path": "/gjestebok/gjestebok-innlegg-2008.09.27-10.55.55.0",
+        "title": "",
+        "time-created": "1222505755000",
+        "time-created-formatted": "2008-09-27 10:55:55",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "BAKKEN",
+           "timestamp": "1222505755000",
+           "message": "GRATULERER MED EN KJEMPESESONG......\r\n\r\n(dere er kanskje litt skuffa nå ?)\r\n\r\nDet har dere ingen grunn til dette er en kjempeprestasjon\r\ntil og være første året  gr.n\r\n\r\nLykke til i østerike....."
+        }
+    }
+}

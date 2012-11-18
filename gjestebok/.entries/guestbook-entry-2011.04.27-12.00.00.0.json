@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2011.04.27-12.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.04.27-12.00.00.0",
+        "title": "",
+        "time-created": "1303898400000",
+        "time-created-formatted": "2011-04-27 12:00:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E Ski",
+           "timestamp": "1303898400000",
+           "message": "Vi varmer opp!\r\nSer frem mot sørlandet og fint vær !\r\n\r\n\r\nLykke til Tools Rallyteam"
+        }
+    }
+}

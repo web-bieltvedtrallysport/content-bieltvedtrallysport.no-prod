@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2009.04.28-04.19.18.0",
+        "path": "/gjestebok/gjestebok-innlegg-2009.04.28-04.19.18.0",
+        "title": "",
+        "time-created": "1240885158000",
+        "time-created-formatted": "2009-04-28 04:19:18",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E Ski",
+           "timestamp": "1240885158000",
+           "message": "Rally sørlandet !\r\n\r\nNå er vi klare !\r\n\r\nNM poeng ??\r\n\r\nLykke til !!!"
+        }
+    }
+}

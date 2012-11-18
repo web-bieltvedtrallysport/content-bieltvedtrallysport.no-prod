@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.01.25-11.46.07.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.01.25-11.46.07.0",
+        "title": "",
+        "time-created": "1264416367000",
+        "time-created-formatted": "2010-01-25 11:46:07",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "mbh",
+           "timestamp": "1264416367000",
+           "message": "gratulerer med seieren i helga gutter.\r\nvar moro og være tilskuer i helga."
+        }
+    }
+}
