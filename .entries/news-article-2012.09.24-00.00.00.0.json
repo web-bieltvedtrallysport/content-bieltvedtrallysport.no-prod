@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.09.24-00.00.00.0.json",
+        "title": "",
+        "time-created": 1348437600000,
+        "time-created-formatted": "2012.09.24-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "2 X NM GULL!!!",
+           "paragraphs": [
+              "Endelig kan vi slippe jubelen løs og konstatere at vi har gjort jobben vår! Det ble tilslutt NM seier for både Roger og meg i hver vår NM klasse.",
+              "Vi hadde et bra utgangspunkt før start, da det for oss var tilstrekkelig med 4. plass for å sikre NM-titlene. Det var en oppgave vi normalt skal klare, men så er det det med at man er ikke i mål før man er i mål da... Vi var veldig klar over akkurat det, noe som nok gjorde at kjøringen ble urytmisk og litt klønete denne helga. Men det spiller ingen rolle nå, vi hadde ingen planer om å vinne løpet uansett, derimot er NM trykt i havn:-)",
+              "Det er viktig å få frem at dette er en team-innsats. Vi har en av feltets absolutt raskeste biler, og uten å overdrive, kanskje den mest driftsikre av dem alle. Vi har så godt som aldri tekniske problemer, noe servicemannskapet fortjener æren for. Vi er avhengige av hverandre, og uten den gode innsatsen fra mekanikergjengen, med Andrè Aarmo, Ole Gunhard Ausland og Lasse Pedersen i spissen, hadde vi ikke kunnet vinne i år.",
+              "Takk også til alle samarbeidspartnere og sponsorer som har gjort året til det det har blitt. Det så ikke så lyst ut ifht. budsjettet tidligere i år, men en kombinasjon av lite uhell/lave kostnader, mindre kjøring og at vi fikk på plass de siste nødvendige pengene reddet årets kjøring, noe hele teamet er takknemlige for, spesielt når vi nå skal hente NM medaljer på Bilsportforbundets premiegalla i november :-)",
+              "Samtidig som vi skal nyte årets resultat, må vi også se fremover. Jobben er igang i forhold til neste års budsjett, og målsettingen er å forsvare NM-titlene. Det ser ut til å bli enda sterkere konkurranse kommende år, så vi håper absolutt å stå på startstreken i januar for å kjempe!"
+           ],
+           "images": [
+               {
+                   "src": "/images/diverse/rally-hedemarken-2012/2012-rally-hedemarken-1_w285.jpg",
+                   "width": 285,
+                   "height": 214,
+                   "credit": ""
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.09.10-00.00.00.0.json",
+        "title": "",
+        "time-created": 1347228000000,
+        "time-created-formatted": "2012.09.10-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Enda ett skritt nærmere NM gull",
+           "paragraphs": [
+              "Alt gikk vår vei under Rally Telemark! Vi vant og fikk med det med oss full poengpott, mens vår nærmeste utfordrer Anders Grøndal/Trond Svendsen fikk problemer underveis og ramlet ned til 3. plass og langt færre poeng enn de trengte. De var nødt til å vinne (forutsatt at vi ikke roter oss bort i finaleløpet), mens det for oss ikke var like nødvendig.",
+              "Grøndal/Svendsen vant SS1 mens vi tok igjen på SS2 og gikk forbi med drøyt to sekunder. Det var på løpets tredje fartsprøve at dramatikken oppstod, da Anders Grøndal først traff noe i veigrøfta, pungterte og i påfølgende sving kjørte av veien. De kom seg videre, men med masse tekniske problemer med på lasset. Blant annet røyk servostyringen, noe som ikke lot seg ordne på det 20 minutter lange serviceoppholdet. Dermed var Anders sjanseløs på seier, og vi fikk en behagelig luke ned til nestemann som nå var Peder Økseter. Med over halvminuttet i ledelse, dreide det seg for oss om å trygge ledelsen inn til mål. Peder kjørte fort utover i løpet, så vi måtte passe oss selv med en så god ledelse.",
+              "På tross av ett par spenningsmomenter mot slutten av løpet (trolig som følge av litt uoppmerksomhet fra meg) lykkes vi med å holde vår posisjon og vant sesongens mest komfortable seier. Dette gir oss et solid forsprang i NM både for Roger og meg, og uavhengig av hva våre konkurrenter måtte finne på, skal det holde å være blant de fire beste i finaleløpet for å vinne NM titlene. Vi kommer derfor til å justere ned fortenning og turbotrykk, kjøre med ekstra reservehjul osv. fra start av i løpet, for så å se ann underveis i løpet om vi er nødt til å gå tilbake til \"race modus\" for å lykkes.",
+              "Rally Telemark var et nytt og ukjent løp for alle. Det er derfor ekstra morsomt å kunne rapportere at dette var en kjempesuksess hvor alt gikk som smurt og ikke minst på morsomme og krevende grusveier! Vi håper derfor å måtte ta turen til Notodden også neste år:-)",
+              "NM finalen Rally Hedemarken er mindre enn to uker frem i tid, så om kort tid begynner vi på ny med forberedelser og preparering av bil. Ny oppdatering kommer om ikke lenge:-)"
+           ],
+           "images": [
+               {
+                   "src": "/images/diverse/rally-telemark-2012/2012-rally-telemark-1_w285.jpg",
+                   "width": 285,
+                   "height": 190,
+                   "credit": "Henning Friis, PRL"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

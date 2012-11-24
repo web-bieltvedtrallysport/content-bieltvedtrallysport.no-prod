@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.01.30-00.00.00.0.json",
+        "title": "",
+        "time-created": 1296342000000,
+        "time-created-formatted": "2011.01.30-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Max uttelling på Rally Hadeland",
+           "paragraphs": [
+              "Rally Hadeland skulle gå langt bedre for TOOLS Rallyteam enn forrige løp da vi ble hindret og raste nedover resultatlisten. Vi endte til slutt som klart raskeste N4 bil, og med 5. plass på totallisten som fasit på Hadeland.",
+              "Det hele startet litt nølete for min del; fikk det ikke helt til å stemme på SS1 og det jeg prøvde på gikk liksom ikke... Mye av grunnen til det kan nok være at det har vært mye testing å endring på bilen rett i forkant av løpet, hvor vi også ble nødt til å gjøre justeringer etter siste test på onsdag. Det gjorde at jeg ikke hadde \"bilen i ryggmargen\" fra første meter på Rally Hadeland, og det er fort gjort å holde litt igjen da, spesielt siden SS1 var en av Norges raskeste fartsprøver...:-)",
+              "Vi tapte 10 sekunder her til Anders Kjær som var raskeste N4 bil, men fra og med SS2 var vi på attakken og knappet innpå. Da Anders Kjær kjørte av veien rett før mål på den 17 km. lange SS4, hadde vi tatt igjen forspranget og var i føringen (ifølge uoffesielle \"split-tider\" på SS4), på tross av problemer med høyre bakdemper:-) Det hadde etterhvert blitt en liten luke ned til Marius Aasen og Pontus Tidemand i klassen vår, så vi hadde nå som mål å slå Thomas Kvam i Ford Focus WRC, som ville gitt flere poeng i NM-sammenheng. Vi tok innpå, men klarte ikke komme oss forbi da Kvam hadde bra fart på siste SS.",
+              "RallyNM-klassen for firehjulsdrevne biler har desverre blitt en klasse hvor bilens prestasjoner belønnes fremfor førerens prestasjoner. Norges Bilsportforbund har bommet kraftig i sitt poengsystem, da det er slik at gruppe N førere må kjøre fortere enn WRC og S2000 biler som de fleste vet er klart raskere (og mange ganger dyrere biler) for å kunne hevde seg i NM. Vi i TOOLS Rallyteam er skuffet over at det har blitt slik. Vi har forsøkt å få gjort noe med det uten å lykkes. Det har også blitt dannet en førerforening i kjølvannet av dette, men endringer vil trolig ikke skje før neste år.",
+              "Vi må fokusere på oss selv og være der med en gang de beste WRC og S2000 bilene gjør feil. Vi kjører også i årets Subaru Cup, og da jeg i helgens løp var beste Subaru i gruppe N, tok vi et bra jafs i jakten på totalseier i cup'en :-)",
+              "Neste runde i NM er Rally Finnskog 25.-26. februar. I mellomtiden blir det diverse sponsoraktiviteter, rallytrening (muligens også et mindre rally som trening før Rally Finnskog), samt tur til Svenskerally hvor Roger og jeg skal \"jobbe\" som guider for TOOLS Norge:-)"
+           ],
+           "images": [
+               {
+                   "src": "/images/recovery/2011-rally-hadeland-1_w285.jpg",
+                   "width": 285,
+                   "height": 190,
+                   "credit": "PRL"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

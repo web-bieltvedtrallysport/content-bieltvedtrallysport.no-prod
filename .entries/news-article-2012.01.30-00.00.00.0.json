@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.01.30-00.00.00.0.json",
+        "title": "",
+        "time-created": 1327878000000,
+        "time-created-formatted": "2012.01.30-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "2. plass på Rally Elverum, fortsatt 2. plass i NM",
+           "paragraphs": [
+              "Det skulle bli en fin 2. plass i sist helgs NM rally på Elverum. Foran oss kom Eyvind Brynildsen i sin Mitsubishi Lancer EvoIX og bak oss Anders Grøndal. Mads Østberg vant løpet totalt.",
+              "Roger og jeg var veldig klare før start, og hadde ikke for hensikt å tenke taktikk denne helgen heller, da vi nå er i en situasjon hvor vi tar ett og ett løp av gangen. Forskjellen fra Mountain Rally var at det denne gangen var mer snø, både utenfor og i veien. Vi har tidligere sett at vi taper terreng når det blir snø og sporete (spesielt på etapper som kjøres to ganger), og denne gangen var intet unntak. Det hjalp heller ikke at vi startet først i vår klasse (startrekkefølgen bestemmes av stillingen i NM), og måtte \"brøyte vei\" for de som startet bak oss.",
+              "Så på tross av at bilen og alt annet fungerte som det skulle, ble det en krevende dag hvor jeg virkelig måtte kjempe. Det som gjør det hele vanskelig når det er snø og spor i veien, er at jeg som fører må tenke annerledes enn ellers. Ved normale forhold kan man plassere bilen der det måtte passe i veibanen for å kunne holde størst mulig fart gjennom og ut av sving. Med forholdene som møtte oss på Rally Elverum, må man bryte med dette mønsteret, og heller plassere bilen der hvor det er best feste. Denne tilpassingen er nok konkurrentene mine litt flinkere til, så vi skal jobbe med nettopp dette og analysere hvor forskjellen ligger. Neste NM runde er Numedalsrally, og med snøvær kort tid før start kan forholdene bli de samme som på Elverum.",
+              "Ellers gikk løpet fint, og vi kom oss gjennom de snaue 130 km. med SS på en så god måte at det holdt til 2. plass. Eneste unormale må ha vært alle snikpunkteringene vi hadde underveis. Hele tre ganger måtte vi skifte hjul mellom fartsprøvene. Heldigvis passet det sånn at vi alltid fikk byttet det punkterte reservehjulet på service, så vi slapp å gå tom for dekk da vi kun har med ett reservehjul av gangen...",
+              "Nå blir det en liten pause i kjøringen frem til neste NM runde, Numedalsrally 3. mars. Tiden skal brukes til studietur på Swedish Rally, samt at det trolig blir bytte av motor, clutch og turbo. Flesberg Rallysprint samt èn eller to testdager burde gi godt grunnlag for å avslutte vinterkjøringen på best mulig måte. Vi har i alle fall possisjonert oss svært godt så langt, med en klar 2. plass i NM for 4wd biler. Leder gjør Mads Østberg, men han kjører ikke Numedalsrally da det kræsjer med Rally Mexico. Med andre ord, kontrastene er store i forhold til fjoråret; Nå er vi i TOOLS Rallyteam virkelig i fokus igjen, og alt ligger til rette for at vi leder både toppklassen i NM for førere og kartlesere etter vinterløpene!"
+           ],
+           "images": [
+               {
+                   "src": "/images/diverse/rally-elverum-2012-1_w285.jpg",
+                   "width": 285,
+                   "height": 206,
+                   "credit": "Henning Friis, PRL"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

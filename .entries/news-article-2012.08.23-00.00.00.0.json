@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.08.23-00.00.00.0.json",
+        "title": "",
+        "time-created": 1345672800000,
+        "time-created-formatted": "2012.08.23-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Vi nærmer oss NM finale!",
+           "paragraphs": [
+              "Sommerferien er for lengst over, og rally står til de grader i fokus om dagen. Det er ikke rart, da de to viktigste løpene i Roger's og min karriere står for tur. Rally NM avsluttes i september, og både Roger og jeg har alle muligheter for å gjøre karrierebeste med NM gull i toppklassen!",
+              "Sist helg tok vi turen til Sverige og SAAB-byen Trollhättan for å kjøre som \"föråkare\" i Västrallyt. Dette løpet inngår i det svenske mesterskapet, så eliten var på plass. Föråkare vil si å kjøre før første startende for å sjekke publikumsplassering, teste ut tidskontroll-personalet ved start/mål osv. Vi er altså ikke med i selve løpet, men tar tider selv og sammenligner med deltakerne som referanse på vårt eget tempo. Dette gjorde vi som første ledd i treningen frem mot Rally Telemark, 8. september. Rally Telemark er et nytt løp av året, så notene vi lager dagen før løpet blir svært viktig for resultatet. Notetrening fikk vi også når vi kjørte i Sverige, da dette også var ukjent terreng for oss. Og selvfølgelig ga det god kjøretrening også. I starten lå vi noe etter de aller raskeste, men på siste SS var vi kun 3 sekunder bak Jimmy Joge som var raskest, på tross av at han kjempet om SM seier og vi strengt tatt ikke hadde all verden å kjøre for. Det lover godt, og vi er spente på tempoet vi kan klare å holde i kommende NM løp.",
+              "I kjølvannet av at vi har mistet TOOLS Norge AS som sponsor, jobbes det med å få inn nødvendige midler både for i år og 2013. Det er derfor hyggelig å ønske Nordisk Dekk Import AS velkommen med på laget. Vi har foreløpig en avtale for resten av 2012, hvor merkevaren ENI Oils skal frontes. ENI er det som tidligere het Agip, kjent fra både Formel 1 og MotoGP, samt \"alle\" bensinstasjonene nedover i Europa. Vi er alt i gang med å prøve ut produktene på rallybilen, og håper blant annet at resultatet blir mindre motstand i drivverket med ny og tynnere olje."
+           ],
+           "images": [
+           ],
+           "use-ingress": true
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.01.17-00.00.00.0.json",
+        "title": "",
+        "time-created": 1295218800000,
+        "time-created-formatted": "2011.01.17-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Veisperring ga poengfattig NM-åpning",
+           "paragraphs": [
+              "Helgens Sigdalsrally skulle ikke gå vår vei denne gangen. Vi startet med friskt mot og vi inni bilen syntes vi kom godt igang på SS1. Ca. midtveis inne på den 12 km. lange SS1 ble vi desverre nødt til å stoppe opp, da bilen foran oss hadde snurra og satt seg fast i brøytekanten. Vanligvis er det ikke værre enn at det bare er å kjøre forbi, men i dette tilfellet var det en kombinasjon av smal vei og dype grøfter på hver side som gjorde at vi ikke hadde annet valg enn å få denne bilen på veien igjen før vi kom oss videre. Det resulterte i et tidstap på over to minutter og vi var sjanseløse i kampen om en topplassering denne gang. Jeg må nok innrømme at lufta gikk litt ut av ballongen etter dette, det var krevende å motivere seg for å ta ut det aller siste som må til for å yte max. Vi fortsatte til mål for å forbrede bilens oppsett før neste løp samt med mål om å klatre tilstrekkelig på totallisten for å få med i alle fall noen NM poeng. Det lykkes vi med da vi klatret fra 76. plass til 9. plass på totallisten, samt at vi også fikk fintunet bilens oppsett som gjør oss godt forberedt til Rally Hadeland om to uker.",
+              "Et lysglimt fra helgens løp må kunne sies å være den 16 km. lange avslutningsetappen, hvor vi fikk en tid som matchet Eyvind Brynildsen i sin Skoda Fabia S2000 bil samt at vi var klart raskeste N4 bil. Der fikk vi til et knallbra tempo og hvor sporvalget til tider var helt perfekt. Å starte som bil nr. 3 på denne veien var en sinnsykt kul opplevelse, da det var nybrøytet med akkurat passe harde brøytekanter som hjalp til å holde bilen på veien! En annen ting som gir en spesiell opplevelse av slikt snødekke som var på denne etappen, er at jo fortere og mer aggresivt man kjører, jo bedre blir festet mellom dekk og vei. Så lenge man har gasspådrag gjennom sving, genereres det et imponerende sideveis grep som gjør at det føles som om man kan kjøre nær sagt så fort man vil. Da er det ubeskrivelig gøy å kjøre rallybil og ladde \"flat out\" på notene fra Roger...!:-)",
+              "Nå ser vi fremover og jeg har alt bygd opp masse revansjelyst. Derfor ser vi frem imot Rally Hadeland som kjøres 29. januar. I mellomtiden skal vi kjøre en trening for å opprettholde tempo slik at vi ikke taper tid til konkurentene i starten av kommende konkurranse.",
+              "",
+              "Vi hørs:-)"
+           ],
+           "images": [
+               {
+                   "src": "/images/recovery/2011-rally-sigdal-1_w285.jpg",
+                   "width": 285,
+                   "height": 209,
+                   "credit": "PRL"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.05.05-00.00.00.0.json",
+        "title": "",
+        "time-created": 1336168800000,
+        "time-created-formatted": "2012.05.05-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Tid for Rally Sørland",
+           "paragraphs": [
+              "Førstkommende helg kjøres Rally Sørland, vårens vakreste eventyr i rallysammenheng:-) Vi har mye positivt å se tilbake til i nettopp dette løpet, som skiller seg fra resten av NM pga. den spesielle veikarakteren og topografien. Det svinger hele tiden og det er minimalt med marginer eller steder hvor man faktisk kan kjøre av veien uten at resultatet er brutt løp...",
+              "Forrige helg tok Roger og jeg turen til Lillesand for å gjennomføre en testdag på tilnærmet lik vei som møter oss i Rally Sørland. Vi fikk etterhvert en god følelse med bil og underlag. Før dette kjørte vi også noen treningspass i Enebakk, samt at vi kjører en siste \"shakedown\" i morgen torsdag i Mandal. Med det tror jeg vi er så godt forberedt som vi kan bli.",
+              "Det er mest sannsynlig at kampen vil stå mellom Eyvind Brynildsen, Anders Grøndal og TOOLS Rallyteam, hvor vi selvfølgelig håper å komme seirende ut. Vi skal så klart ikke glemme Mads Østberg som er storfavoritt til totalseieren, men siden han er alene i sin bilklasse, vil den av oss i gruppe N som er raskest få flest poeng. Mads leder NM, men er ikke trygg på seier for det. Spennende...:-)",
+              "Vil du følge Rally Sørland, gå inn på www.toolsrallyteam.no."
+           ],
+           "images": [
+           ],
+           "use-ingress": true
+        }
+    }
+}

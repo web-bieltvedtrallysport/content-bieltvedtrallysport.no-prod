@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.01.16-00.00.00.0.json",
+        "title": "",
+        "time-created": 1326668400000,
+        "time-created-formatted": "2012.01.16-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Knallåpning i NM!",
+           "paragraphs": [
+              "Det kunne ikke gått bedre enn det det gjorde på lørdag. Vi har posisjonert oss så godt vi kunne ifht. NM tabellen, og har et ideelt utgangspunkt for årets sesong. Med andre ord store kontraster til fjoråret hvor vi i første løpet opplevde veisperring på SS1 og med det 9. plass som resultat...",
+              "Da vi i helgen ble beste gr.N bil, fikk vi poeng nok til å havne på 2. plass i NM, selv med en 3. plass totalt i løpet. Siden både Andreas Mikkelsen og Mads Østberg ikke får kjørt hele NM serien i år pga. VM løp som kolliderer, betyr det i realiteten at vi leder NM for 4wd biler. Og situasjonen for Roger i kartleserNM er den samme. Så med årets justering av regelverket samt ny skjerpet konkurranse i gr.N, kommer det her til å bli en spennende sesong, spesielt sammenliknet med fjoråret hvor vi desverre havnet litt utenfor.",
+              "Før start var det store spenningsmomentet for oss hvordan vi ville match'e Anders Grøndal. Han har vært i toppen av norsk rally i mange år, og kjørt deler av ProductionWRC i 2010/2011, uten at vi noen gang har konkurrert mot han i like biler. Nå sitter vi i hver vår gr. N Subaru og vi begge skal vinne NM... Med seier for oss på Mountain Rally gikk første stikk til oss, og det viser at vi absolutt er på nivå.",
+              "Mountain Rally 2012, som har base og serviceplass i Gol, bød på knallfine rallyveier. Det var i år mindre snø enn tidligere og snøen som var der var tørr og luftig. Det gjorde at vi ikke hadde så mye brøytekanter å lene oss på. Faktisk var det enkelte steder vi kuttet svingene denne gangen, ulikt hva som er vanlig på vinterløp.",
+              "Litt drama underveis skulle det også bli. Når vi skulle skru på intercom'en før start på SS5, ville den plutselig ikke virke... Roger prøvde de knepene han kunne, men tiden ble for knapp da vi kun hadde 3 minutter igjen til start. Med hjelmer som har innebygde øreklokker er det ikke lett å høre hva som blir sagt i en rallybil. Heldigvis er støynivået inne i bilen lavere på et vinterløp, da vi slipper å høre på grus som singler i innerskjermene. Så med en kraftig volumøkning på Roger fikk jeg med meg det viktigste:-) Litt flaks hadde vi også i form av at de etappene vi kjørte uten intercom var fartsetapper vi kjørte for andre gang. Vi tapte faktisk veldig lite på intercom problemet vårt, og siden vi banket til med en knalltid på den 26 km. lange SS4 hadde vi marginer nok til å dra det hele i land.",
+              "Det er ikke mer enn 12 dager til neste NM runde som går på Elverum. Med notetrening og rallybil-kjøring i forkant av løpet skal vi være godt nok forberedt til å forsvare oss. Vi gleder oss!"
+           ],
+           "images": [
+               {
+                   "src": "/images/diverse/mountain-rally-2012/mountain-rally-2012-01_w285.jpg",
+                   "width": 285,
+                   "height": 209,
+                   "credit": "PRL"
+               }
+           ],
+           "use-ingress": false
+        }
+    }
+}

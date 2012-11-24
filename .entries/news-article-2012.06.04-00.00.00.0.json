@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.06.04-00.00.00.0.json",
+        "title": "",
+        "time-created": 1338760800000,
+        "time-created-formatted": "2012.06.04-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "2. plass totalt i Aurskog-Høland Rally, fortsatt ledelse i NM",
+           "paragraphs": [
+              "Det skulle bli enda en jevn og interessant dag på Bjørkelangen. I vår klasse var det ikke uventet Anders Grøndal som sammen med Roger og meg kjørte fortest. Anders var litt raskere enn meg på de brede, harde grusveiene, mens jeg såvidt tok noen tiendeler og sekunder på de røffere og mer krevende veiene. Alt i alt var Anders raskere enn oss denne gangen, og da vi etterhvert så at Anders klarte å svare på våre angrep, ble Roger og jeg enige om at vi gjorde lurest i å \"safe\" til mål mot slutten av løpet. Vi klarte ikke kjøre igjen tiden vi hadde tapt til Grøndal, derfor la vi heller inn en litt større sikkerhetsmargin for å nå mållinjen. En medvirkende grunn til denne litt defensive taktikken var at Mads Østberg ga oss en gavepakke i NM sammenheng med å kjøre av veien og bryte løpet.",
+              "Litt småproblemer skulle det også bli underveis i løpet. Jeg rotet bort dyrebare sekunder på en snurring i kanskje løpets krappeste sving. Og frem til første service mistet jeg litt godfølelsen med bremsene, trolig fordi skiver og klosser var blitt polerte, dvs. ikke like god friksjon i bremsene lenger. Servicegjengen ordna dette på service, så store hinderet var det ikke.",
+              "Situasjonen i NM er nå minst like interessant som den var før løpet. Mads Østberg er avhengig av at både Anders og jeg gjør det unormalt dårlig i ett av de to siste løpene. Anders vinner NM gull hvis han vinner gruppe N i begge de resterende løpene. Med 6 poengs ledelse i NM til nettopp Anders Grøndal / Trond Svendsen, trenger Roger og jeg å slå Anders og Trond i ett av de to siste løpene, forutsatt at ingenting spesielt hender i det andre løpet. Mange teorier her, og når vi veit at det meste kan og vil skje, er det liten tvil om at spenningsnivået blir veldig stort etterhvert som vi nærmer oss NM finalen. Anders og Trond har (og har hatt gjennom hele året) fordel av å ligge bak å kontrollere hva jeg til enhver tid gjør, kjøre etter bremsepunktene mine osv. samt at de har en psykologisk fordel av å ha \"ingenting\" å tape. Min spådom er at Grøndal vinner Rally Telemark, og vi vinner Rally Hedemarken.",
+              "Nå blir det \"sommerferie\" i rallysammenheng for oss. Vi i Bieltvedt Rallysport drar på fisketur og slapper av 22.-24. juni, for så å komme max laddet til neste NM løp; Rally Telemark. Dette løpet har aldri blitt kjørt før, dermed har vi ingen erfaring herfra. Det skulle blitt kjørt i fjor, men regn og oversvømmelser gjorde at arrangøren måtte avlyse. Vi har mye å kjøre for, så full skjerpings er alfa&omega i september!"
+           ],
+           "images": [
+               {
+                   "src": "/images/diverse/aurskog-hoeland-rally-2012/2012-aurskog-hoeland-rally-1_w285.jpg",
+                   "width": 285,
+                   "height": 190,
+                   "credit": "Henning Friis, PRL"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.06.06-00.00.00.0.json",
+        "title": "",
+        "time-created": 1307311200000,
+        "time-created-formatted": "2011.06.06-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Pressemelding",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Ny pallplassering i Aurskog Høland Rally",
+           "paragraphs": [
+              "Med et fantastisk vær, mange tilskuere langs løypa og en pallplassering ble helgens NM-runde i rally nok en opptur for Sveinung Bieltvedt og TOOLS Rallyteam. Etter en problemfylt vintersesong er Kråkstad-føreren tilbake der han ønsker å være, nemlig å kjempe helt i toppen.",
+              "Fra basen på bjørkelangen startet 74 deltagere med ett mål for øye, å tilbakelegge 10 mil fordelt på 13 fartsetapper på kortest mulig tid. Men de raske veiene i området rundt Bjørkelangen er krevende både for maskin og mannskap, og på kveldingen var det bare 42 biler som passerte målrampen i Bjørkelangen sentrum.",
+              "På forhånd indikerte startlista at det skulle bli en inspirerende og krevende dag for Sveinung og kartleser Roger Eilertsen. For første gang på lang tid stilte Eyvind Brynildsen til start, og denne gang i samme bilklasse. Dette var en kamp TOOLS-gutta gledet seg til samtidig som de fortsatt hadde et mål om å korte tidsdifferansen fram til Mads Østberg i hans S2000-bil.",
+              "- For oss som kjører nasjonale løp er det veldig interessant å få svar på spørsmålet om vår egen og den nasjonale klassens sportslige nivå, avslører Sveinung. Derfor er vi tilfredse med opplevelsene undervegs på lørdag. Det er selvfølgelig oppløftende å kunne holde en gjestefører fra VM bak seg inntil han måtte bryte. Det er også inspirerende å kunne ha en så habil VM-fører som Mads Østberg i en S2000-bil som målestokk for egen prestasjon.",
+              "Helgens resultat skulle tyde på en problemfri gjennomføring av Aurskog Høland Rally, men så var ikke tilfelle. Fra tidligere har guttene opplevd plutselige motorkutt med den følgen at turtallet låser seg på et lavt nivå. Løsningen viste seg å være å slå av både motor og hovedstrømbryter for å la elektronikken resette seg. Akkurat dette fenomenet gjentok seg på nest siste fartsetappe og dermed forsvant også muligheten for å holde Mads bak seg helt til mål.",
+              "Tredjeplassen i helgens løp førte ikke til noe avansement i NM sammendraget, men femteplassen ble uansett styrket og bronseplassering i NM er nå målsetningen for Sveinung og Roger. I Subaru-cup ligger de fortsatt på en andreplass, men kampen om 150.000 kroner er enda mer tilspisset etter helgens løp. Neste NM-runde går ikke av stabelen før 3. september, med det nye løpet Rally Telemark, så TOOLS Rallyteam har god tid på å forberede både bil og mannskap."
+           ],
+           "images": [
+               {
+                   "src": "/images/recovery/2011-aurskog-hoeland-rally-2_w285.jpg",
+                   "width": 285,
+                   "height": 190,
+                   "credit": "PRL"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

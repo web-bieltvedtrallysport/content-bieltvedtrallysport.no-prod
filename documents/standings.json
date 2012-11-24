@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "id": "documents/standings",
+        "title": "",
+        "time-created": 0,
+        "time-created-formatted": "1970.01.01-00.00.00.0",
+        "created-by": "Tor Håvard",
+        "author": "Tor Håvard",
+        "classification": "content",
+        "type": "document",
+        "subtype": "standings",
+        "default-template": "standings",
+        "enabled": true
+    },
+    "content": {
+      "drivers": {
+        "competition": "NM klasse 2 2012", 
+        "url": "", 
+        "races": 7, 
+        "total-races": 7, 
+        "driver-count": 5, 
+        "standings": [
+          {"place": 1, "name": "Bieltvedt",  "points": 136, "primary": true}, 
+          {"place": 2, "name": "Grøndal",    "points": 130}, 
+          {"place": 3, "name": "Økseter",    "points": 100}, 
+          {"place": 4, "name": "Østberg",    "points":  64}, 
+          {"place": 5, "name": "Sveinsvold", "points":  40}
+        ]
+      },
+      "co-drivers": {
+        "competition": "NM kartlesere 2012", 
+        "url": "", 
+        "races": 7, 
+        "total-races": 7, 
+        "driver-count": 5, 
+        "standings": [
+          {"place": 1, "name": "Eilertsen",  "points": 136, "primary": true}, 
+          {"place": 2, "name": "Svendsen",   "points": 130}, 
+          {"place": 3, "name": "Engan",      "points":  68}, 
+          {"place": 4, "name": "Andersson",  "points":  64}, 
+          {"place": 4, "name": "Eriksen",    "points":  64}
+        ]
+      }
+    }
+}

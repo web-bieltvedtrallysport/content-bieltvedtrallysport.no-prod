@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.01.07-00.00.00.0.json",
+        "title": "",
+        "time-created": 1325890800000,
+        "time-created-formatted": "2012.01.07-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Vi kjører Mountain Rally på Gol",
+           "paragraphs": [
+              "Det har denne gangen drøyd lenge før jeg faktisk har hatt noen nyheter å komme med ifht. rally i 2012. Nå har vi i alle fall noe klart i form av at vi kjører Mountain Rally på Gol med vår trofaste Subaru:-) I skrivende stund kan jeg ikke bekrefte deltakelse i hele RallyNM 2012, da vi foreløpig ikke har budsjettet på plass. Vi vil uansett jobbe videre for å kunne fullføre RallyNM 2012, slik at vi kan jobbe oss mot vår målsetting om seier i toppklassen i NM.",
+              "Jeg gleder meg uansett til Mountain Rally på Gol! Sist vi gjestet dette løpet var i 2010 da vi slo både Eyvind Brynildsen i S2000 bil og Andreas Mikkelsen i Subaru gr.N. Løpet har sitt klare særpreg i at dette er et ekte fjell-rally! Vi kjører opp og ned fjellene vest og nordøst for Gol, med målgang på Golsfjellet Fjellstue.",
+              "Noe som gir ekstra boost i år er at vi skal konkurrere på like premisser med flere nye navn, bl.a. Anders Grøndal, Trond Sveinsvoll og Bernt Kollevold. Anders Grøndal stiller til årets NM med bilen han kjørte ProductionWRC med i fjor, det vil si lik type som vi kjører, noe vi håper vil generere flere spennende dueller...:-).",
+              "Vi gr.N kjørere har også et helt annet utgangspunkt for å kunne vinne toppklassen i NM i år. Kort fortalt vil konkurransen om årets NM for 4wd biler stå mellom S2000 bilene og gr.N bilene. Forrige generasjon WRC biler, er nå i likhet med VM ikke lenger tellende i NM. Som kompensasjon for at gr.N bilene går litt saktere enn S2000 bilene, gis det i tillegg til totallistepoeng også egne klasselistepoeng for å utlikne forskjellen.",
+              "Nå som vi har fått landet en foreløpig løsning for i år, er det testing og trening som står i fokus. Roger og jeg har trent noter gjevnlig og kommende søndag reiser vi til Elverum for fullfartskjøring på vintervei. Med 8 m.m. piggutstikk i dekkene skal det bli knall å kjøre på is og snø igjen!"
+           ],
+           "images": [
+           ],
+           "use-ingress": true
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.03.01-00.00.00.0.json",
+        "title": "",
+        "time-created": 1330556400000,
+        "time-created-formatted": "2012.03.01-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Fjelleventyret avlyst",
+           "paragraphs": [
+              "Førstkommende lørdag skulle vi ha kjørt \"rosinen i pølsa\" hva gjelder vinterløp; Numedalsrally. Sånn blir det ikke, da siste tids mildvær har smeltet bort vinterveiene i området rundt Rødberg og Numedalen. Det syntes vi er veldig synd da vi var pakket og klare, og etter planen skulle vært på fjellet å testet og trent i skrivende stund... Men været er det som kjent ikke noe å gjøre med, og det er ikke vanskelig å forstå hvorfor arrangøren har måttet avlyse.",
+              "I forhold til NM sammendraget har dette lite eller ingenting å si for TOOLS Rallyteam. Både Roger og jeg ligger svært godt plassert i hver vår NM klasse, 1 poeng bak Mads Østberg/Jonas Andersson!",
+              "Da er det bare å rydde vekk ishjulene og glede seg til Rally Sørland 4.-5. mai. Anders Grøndal og Eyvind Brynildsen er begge klare for å avansere i NM sammendraget, så duellene vi skulle hatt til helga får vente to måneder til:-)"
+           ],
+           "images": [
+           ],
+           "use-ingress": true
+        }
+    }
+}

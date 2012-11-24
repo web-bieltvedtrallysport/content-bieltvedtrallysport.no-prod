@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.09.26-00.00.00.0.json",
+        "title": "",
+        "time-created": 1316988000000,
+        "time-created-formatted": "2011.09.26-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Vi gjorde jobben vår, men det gjorde alle andre også...",
+           "paragraphs": [
+              "Rally Hedemarken er nå unnagjort, og satte punktum for RallyNM 2011. Vi har i helgen gjennomført et nær prikkfritt løp hvor ting stemte bra fra start til mål. Det ble belønnet med en oppsiktsvekkende 3. plass totalt, kun slått av Mads Østberg og Anders Grøndal raskere biler.",
+              "Desverre for oss, har også våre nærmeste konkurrenter i både NM og Subaru Cup gjort det de trengte for å sikre sine plasser på sammenlagtlistene. Vi måtte ha to biler mellom oss og Thomas Kvam for å komme på pallen i NM. Og vi måtte ha èn Subaru gr.N bil mellom oss og Marius Aasen for å sikre seier i Subaru Cup. Det så svært så positivt ut midtveis i løpet, da Peder Økseter i sin Subaru blandet seg inn til fordel for oss.",
+              "Vi lå der vi måtte ligge og var i grunn mer nysgjerrige på tidene til Peder Økseter enn våres egen tid på de siste fartsprøvene. Nok en gang dette året skulle det ikke gå slik vi håpet, da Peder fikk motorproblemer og sank nedover på listene. Både Thomas Kvam og Marius Aasen kunne smette forbi, og vi så NM medalje for både Roger og meg samt Subaru Cup seier glippe...",
+              "Vi er ikke helt fornøyde med årets totalresultater. De svake vinterresultatene ble vanskelig å ta igjen, da vi ble hindret i første løpet og ødela girkassa og måtte bryte i tredje løpet. To slike hendelser i RallyNM er nok for mye til at man kan kjempe i toppen, i tillegg til et teknisk reglement som har gjort det vanskelig å hevde seg i en gr.N bil.",
+              "Nå retter vi blikket fremover og tenker på neste sesong. Som tidligere nevnt har vi S2000 som målsetning og plan A for kommende sesong. Om vi ikke kommer i mål med budsjett for en slik satsning, er det ikke umulig at vi fortsetter i vår trofaste Subaru. I så fall må det regelendringer til som gjør at vi kan kjempe med like premisser mot våre konkurrenter, noe Norges Bilsportforbund har lovt at vil skje.",
+              "Rally Hedemarken var årets siste løp, i alle fall i Norge. Det jeg vet at står igjen er Oslo Motor Show, hvor Petter Solberg og jeg på ny skal sladde og lage show i regi av TOOLS Norge :-)",
+              "Til slutt vil jeg takke alle som også i år har stilt opp og gjort TOOLS Rallyteam til det vi er! Takk til alle sponsorer som gjør at vi kan reise rundt i Norge og utlandet og kjøre rallybil for rally publikum og tv publikum, takk til mekanikergjengen som år etter år gjør en kjempejobb og sørger for at TOOLS bilen er kjent som \"den som aldri stopper\", takk til Roger som presenterer noter akkurat som jeg ønsker og takk til alle andre som hjelper til å holde hjulene i gang! Uten all hjelp ville det ikke latt seg gjøre å drive et slikt \"dugnadsforetak\" som vi gjør. Vi i teamet har det veldig morro og venter med spenning på hvordan 2012 vil se ut...:-)",
+              "Mer info kommer så snart vi har noe å fortelle:-)"
+           ],
+           "images": [
+               {
+                   "src": "/images/recovery/rally-hedemarken-2011-1_w285.jpg",
+                   "width": 285,
+                   "height": 144,
+                   "credit": "David Winger"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

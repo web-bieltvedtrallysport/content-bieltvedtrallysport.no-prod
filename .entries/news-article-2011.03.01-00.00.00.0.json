@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.03.01-00.00.00.0.json",
+        "title": "",
+        "time-created": 1298934000000,
+        "time-created-formatted": "2011.03.01-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Toppresultat forsvant sammen med 4. giret",
+           "paragraphs": [
+              "Det gikk ikke som vi hadde tenkt oss i årets utgave av KNA Rally Finnskog. Fra å være raskeste gruppe N bil på de to første fartsprøvene, endte det til slutt med at vi måtte kaste inn håndkleet og se siste dag fra tilskuerplass.",
+              "Vi var virkelig tente før start og hadde gjort en god jobb på notegjennomkjøringen. Alt lå til rette og vi gledet oss til å kjøre rally i 1 1/2 dag! Det startet vanskelig allerede på SS1 da vi fikk en snikpunktering i høyre forhjul og måtte bytte etter målgang. Heldigvis tapte vi ikke mer på dette enn at vi fremdeles var med i tetstriden. På SS2, som var den klassiske Varaldskogen på 26 km. satte vi igang på det som skulle vise seg å være tidvis et svært krevende føre med masse hardpakket snø som ble revet opp av rallydekkene. Ca. 5 km. før mål på denne etappen skjer det som ikke skal skje: Over et hopp i innbremsing til en krapp venstre sving, bomgirer jeg mens hjulene er over bakken. I det hjulene tar bakken (og spinner opp i hastighet) er 4. giret halvveis i inngrep. Det blir en veldig skraping før vi kan konstatere at 4. giret har forsvunnet! Vi halter oss til mål på fartsprøven, og overraskende nok er vi fremdeles raskeste N4 bil i løpet! Vi har èn fartsprøve til før service og bestemmer oss for å fortsette så lenge bilen fortsatt går fremover. På transport til SS3 skjer det som kan skje etter et slikt uhell med girkassen; den legger inn to gir på en gang. Det fungerer dårlig, og fasit blir at bilen står bom fast... Vi må konstatere at kveldens kjøring er over.",
+              "Servicegjengen blir kontaktet slik at vi kan få rallybilen ned til Kongsvinger for å se om bilen lar seg reparere. De får demontert alle drivaksler slik at vi får flyttet på bilen og jobben blir nå å få ut girkassen, få åpnet den og se om det lar seg reparere innenfor tidsfristen vi har for å kjøre på såkalte \"Superrally\" regler dagen etter. Superrally vil si at man kan starte i løpet den påfølgende dagen med 5 minutter tidstillegg pr. fartsetappe man ikke fikk kjørt.",
+              "Girkassa blir åpnet og vi ser fort at 4. giret har fått juling samt at sjaltegaffelen har knekt. Servicegutta setter dermed igang med å utbedre synlige feil. Full sjekk av en slik girkasse lar seg ikke gjøre på tidsfristen vi nå hadde, så vi håpet at \"rallyrepair\" ville holde for å få bilen kjørbar. Teamet bestemmer seg for å bytte ut det vi ser av skadede deler og håpe det er nok for å se målstreken på lørdagens etapper. Skuffelsen var stor da mekanikerne i teamet klokka 04.30 lørdag morgen måtte konstatere at girkassa fremdeles ikke var friskmeldt, og at vi ikke hadde mulighet til å kjøre mer denne gangen.",
+              "Det var synd da vi kunne hatt sjangs på verdifulle poeng i klassen på tross av at vi med \"Superrally\" ville fått 5 minutter tillegg for den ene fartsprøven vi ikke fikk kjørt. Også ekstra synd da servicegjengen stod på hele natt til lørdag for å få igang TOOLS bilen.",
+              "Uansett, en stor takk til gutta som viste imponerende ståpå-mot og vinnervilje ved å skru bil langt utover hva arbeidsmiljøloven tillater...:-) Selv om vi har slitt i vinter med veisperring på Sigdalsrally og nå ett brutt løp, er det på ingen måte grunn til å gi opp kampen. Det er andre som også har hatt sine problemer, og med et bra resultat fra Rally Hadeland, har vi mye å kjøre for. Det er kun kjørt 3 av 7 løp i NM og Subaru Cup, så ingenting er avgjort!",
+              "Vintersesongen 2011 er nå over for vår del, og vi ser frem mot Rally Sørland i slutten av april. Den evige utfordringen før Rally Sørland er å få fatt i brukbare testveier, da snøsmelting og teleløsing gjør at kjøring med rallybil lett ødelegger veiene. Men jakten er allerede igang, så vi satser på å få til en god løsning som gjør oss godt forberedte:-)"
+           ],
+           "images": [
+               {
+                   "src": "/images/recovery/2011-rally-finnskog-1_w285.jpg",
+                   "width": 285,
+                   "height": 183,
+                   "credit": "rsfoto.no"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.04.04-00.00.00.0.json",
+        "title": "",
+        "time-created": 1301868000000,
+        "time-created-formatted": "2011.04.04-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Simrishamnsmixen",
+           "paragraphs": [
+              "Sist helg tok vi den lange turen til Simrishamn sør i Sverige for å kjøre som såkalt \"føråkare\" i et mindre rally som heter Simrishamnsmixen. Føråkare er det som i Norge kalles K-bil, biler som kjører før første startende for å varsle publikum og sjekke at trasseèn er klar. Da vi kjørte som siste K-bil kunne vi kjøre i full fart på de i alt 8 fartsetappene som gjorde grunnlag for 48 km. SS distanse. Hadde vi meldt oss på som konkurrent i løpet, hadde vi ikke hatt mulighet til å skrive egne noter, slik vi er vant til. Notetrening var naturligvis også en del av treningen denne helgen.",
+              "Målet for turen var enkel: venne seg til grusunderlag og jobbe med bilens settinger som forbredelser til Rally Sørland. Utover dette skulle vi bare ha det gøy, og kose oss med rallykjøring:-) Den kanskje største forskjellen mellom det å kjøre på vinteren kontra sommeren, er at om vinteren har man snøkanter som sikkerhet for å holde seg på veien. Kommer man for fort inn i en sving er det bare å \"lene seg\" på brøytekanten og kjøre videre. På sommeren er denne sikkerheten borte, og de første metrene føles rett og slett uvant hver eneste vår. Derfor var det bra å få dette løpet som opplading, da vi normalt ikke får kjørt så mye som vi bør før Rally Sørland pga. veiforholdene i Norge i april. Så på tross av 140 mil transportkjøring for å få trent mindre enn 5 mil med rally, så syns jeg alikevel det var verdt turen. Veiene var fine og det var veldig gøy å kjøre! Vi fikk testet ut forskjellige hjulvinklel -og stabilisatorstag settinger, og er godt fornøyd med utbytte av turen.",
+              "Sammenlikner jeg tidene vi fikk, hadde det holdt til 2. plass totalt i løpet, ca. 7 sekunder bak vinner Stoffe Nilson, som også kjørte Subaru. Undervies i løpet hadde vi ingen informasjon om hva våre tider var gode for, og vi var i grunn ikke opptatt av det heller. Det er først når Rally Sørland kommer, at det kommer i fokus.",
+              "Frem mot Rally Sørland blir det preparering av rallybil samt så mye testing&trening som forholdene tillater."
+           ],
+           "images": [
+               {
+                   "src": "/images/recovery/2011-simrishamnsmixen-1_w285.jpg",
+                   "width": 285,
+                   "height": 190,
+                   "credit": ""
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

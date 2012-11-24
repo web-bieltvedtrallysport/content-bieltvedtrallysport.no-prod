@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "id": "documents/latest-updates",
+        "title": "",
+        "time-created": 0,
+        "time-created-formatted": "1970.01.01-00.00.00.0",
+        "created-by": "Tor Håvard",
+        "author": "Tor Håvard",
+        "classification": "content",
+        "type": "document",
+        "subtype": "latest-updates",
+        "default-template": "latest-updates",
+        "enabled": true
+    },
+    "content": {
+       "latest-updates": [ 
+         {
+             "title": "2 X NM GULL!!!",
+             "url":   "#2012-09-24"
+         },
+         {
+             "title": "Enda ett skritt nærmere NM gull",
+             "url":   "#2012-09-10"
+         },
+         {
+             "title": "Vi nærmer oss NM finale!",
+             "url":   "#2012-08-23"
+         }
+        ]
+    }
+}

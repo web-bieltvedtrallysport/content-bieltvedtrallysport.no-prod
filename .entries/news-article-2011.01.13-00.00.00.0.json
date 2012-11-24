@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.01.13-00.00.00.0.json",
+        "title": "",
+        "time-created": 1294873200000,
+        "time-created-formatted": "2011.01.13-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Alle brikker på plass",
+           "paragraphs": [
+              "Det har vært spennende tider de siste ukene, og det er derfor deilig å kunne konstatere at vi nå har sikret vår NM deltakelse for 2011. Bilen, dekoren og opplegget blir i store trekk det samme som tidligere år, mao. er TOOLS Norge AS med videre som hovedsponsor. I tillegg er jeg også glad for at alle andre sponsorer og støttespillere de siste årene ønsker å være med videre:-) Det er tross alt mange penger som skal på plass, så det er alltid en lettelse når den biten av det hele er på plass.",
+              "Til helga braker det løs med første NM runden; Sigdalsrally 2011. Nytt av året er som tidligere nevnt at WRC og S2000/N4 alle kjører om ett og samme NM gull. Med flere førere som alle er sikre på sin vinnersjangs blir det naturligvis et enda tøffere mesterskap i år. Vi som kjører med N4 biler (modifiserte standardbiler med 4wd) er ikke enige i hvordan Norges Bilsportforbund har valgt å sette opp poengfordelingen i de forskjellige bilklassene, da det nye reglementet har vist seg å favorisere WRC i NM sammenheng.",
+              "Et nytt konkurransemoment for 2011 er at vi i TOOLS Rallyteam igjen er \"tatt inn i varmen\" hos Subaru Norge's \"Subaru Cup\". Vi deltok (og vant) Subaru Cup i 2008. For årene 2009 og 2010 inneholdt Subaru Cup-reglementet endel punkter som ikke passet inn i vår strategi, da det bl.a. var restriksjoner på bilens spesifikasjoner samt at det var påkrevd reklame på rallybilen til konkurrerende merkenavn med mine egne sponsorer. Nå er vi tilbake på 2008 års cupreglement og vi gleder oss på ny til å kjempe om en premiepott på 300 000,- fordelt på de 5 beste. Vår målsetting er seier også her, og skulle vi lykkes med det utgjør det et hyggelig bidrag til årets budsjett.",
+              "Så følg med under helgens løp, folkens. Enten på vår hjemmeside www.toolsrallyteam.no, eller www.rallynm.no (live rallyradio), eller på NRK1 søndag kl. 23.15. Eller enda bedre; kom til Sigdal og besøk oss i TOOLS service-teltene på lørdag:-)"
+           ],
+           "images": [
+           ],
+           "use-ingress": true
+        }
+    }
+}

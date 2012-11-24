@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.01.26-00.00.00.0.json",
+        "title": "",
+        "time-created": 1295996400000,
+        "time-created-formatted": "2011.01.26-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Duket for revansje!",
+           "paragraphs": [
+              "Da TOOLS Rallyteam sist var i aksjon (Sigdalsrally), skulle ikke tilfeldighetene gå vår vei. Nå førstkommende helg er det klart for runde 2 i årets RallyNM, nærmere bestemt Rally Hadeland, og vi er klare for revansje...",
+              "I går kjørte vi test i Dalefjerdingen i Enebakk. Det skulle starte litt klundrete da jeg klarte å kjøre venstre forhjul i en fjellknaus og ødelegge forstillinga allerede på første turen. Men med dyktige og ivrige mekanikere lot det seg reparere og vi fikk kjørt de planlagte milene som opplading til helga. Og hvis brikkene faller på plass, kjører vi en liten test i kveld også for å prøve mykere framfjører på rallybilen.",
+              "Det blir i alle fall spennede å få målt seg på ny i Rally Hadeland. Vi har klare ambisjoner om hvor vi bør ligge og skal jobbe for å lykkes. Kort fortalt er målet å være raskeste N4 bil og jage S2000 bilene på totallista!",
+              "Mer info kommer om ikke lenge. Vi hørs :-)"
+           ],
+           "images": [
+           ],
+           "use-ingress": true
+        }
+    }
+}

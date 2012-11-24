@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2011.05.20-00.00.00.0.json",
+        "title": "",
+        "time-created": 1305842400000,
+        "time-created-formatted": "2011.05.20-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Rally Talsi 2011",
+           "paragraphs": [
+              "Da har vi i TOOLS Rallyteam kommet oss hjem fra Latvia og Rally Talsi, eller \"Rally of Champions\" som det også het. Vi sitter igjen med mange inntrykk fra turen, og selv om dette løpet ikke endte som en av mine \"10 på topp\" løp, var det alikevel positive trekk.",
+              "Som jeg skrev før avreise til Latvia, var vi klar over at vi ikke kunne kjempe helt i toppen av gruppe N i dette løpet. Det er svært raske veier her som ikke favoriserer vår Subaru, samt at veiene var av en sånn karakter at erfaring fra tidligere år er avgjørende for å hevde seg. Når det er sagt, er vi alikevel ikke fornøyd med 10. plass i gruppe N som var det vi lå på før vi pungterte og måtte bytte hjul på den siste fartsprøven. Teamet og jeg er igang med å analysere løpet og hvorfor vi ikke var nærmere teten enn vi var. Kort oppsummert har vi kommet til følgende faktorer: 1: Veikarakteren var mer løs og sand aktig enn vi kjører på i Norden, og dette utnyttet de lokale førerne langt bedre enn meg, ved å kjøre mer aggresivt og sette opp bilen mer bestemt inn i sving for å gi økt press på ytterhjulene som \"borrer\" seg fast i bakken. 2: Ikke min beste dag \"på jobben\" bak rattet. 3: SS3 og SS4 var rene asfaltprøver, men som kun var tillatt på grusdekk. Før avreise leste jeg meg frem til at samtlige SS hadde max 10% asfalt. Hadde jeg gjort en bedre research, burde vi hatt med nedslitte grushjul for disse fartsprøvene.",
+              "Og så det positive til slutt: Dette var utvilsomt god trening før Aurskog Høland Rally som er det raskeste grusrallyet vi har i Norge! I tillegg viser TOOLS Rallyteam seg nok en gang å fungere svært bra, med å drifte en rallybil uten et eneste feilslag gjennom to rallydager. Oppsettet og bilens innstillinger er det heller ingenting å utsette på. Det har også vært gøy å oppleve et så profesjonelt opplegg som arrangøren av Talsi Rally hadde å by på. Og når de samler hele 38 av de beste bilene i min klasse fra de Øst-europeiske samt nordiske landene, er det liten tvil om at nivået blir høyt.",
+              "Nå er det som nevnt NM runden Aurskog-Høland Rally 4. juni som er neste på programmet. Vi har masse fullfartkjøring med oss fra Latvia, og med en liten treningsøkt rett før start bør det bli bra:-)"
+           ],
+           "images": [
+               {
+                   "src": "/images/recovery/2011-rally-talsi-2_w285.jpg",
+                   "width": 285,
+                   "height": 190,
+                   "credit": "Thomas Myhre Hansen"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}

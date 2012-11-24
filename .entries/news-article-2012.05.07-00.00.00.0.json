@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "id": ".entries/news-article-2012.05.07-00.00.00.0.json",
+        "title": "",
+        "time-created": 1336341600000,
+        "time-created-formatted": "2012.05.07-00.00.00.0",
+        "created-by": "Content-migration",
+        "author": "Sveinung",
+        "classification": "content",
+        "type": "article",
+        "subtype": "news-article",
+        "default-template": "news-article",
+        "enabled": true
+    },
+    "content": {
+       "article": {
+           "heading": "Superduell endte i seier!",
+           "paragraphs": [
+              "Allerede fra SS1 skulle det vise seg at spenningsmomentet i 4wd klassen stod mellom Anders Grøndal med kartleser Trond Svendsen og Roger & meg selv. Vi vant annenhver fartsprøve helt frem til SS5, hvor vi stort sett lå et lite hestehode foran. Vi push'et hverandre maksimalt og det var utvilsomt nerve helt til målflagget på siste SS! Sånn skal det være:-)",
+              "Og spesielt morsomt blir det når det er vi som kom seirende ut av duellen! Belønningen ble nok NM poeng til at Roger og jeg går opp i ledelse i hver vår NM klasse. Mads Østberg vant løpet totalt foran oss, men da vi har langt flere startende i vår klasse får vi med oss flere poeng enn nettopp Mads. Enda en bonus er det også i å se at vi er nærmere Mads enn vi tidligere har vært, om vi regner sekunder pr. km. SS. Mads har stabilisert seg i toppen av VM og er en god målestokk å sammenlikne opp mot.",
+              "Den tøffe kampen vi var med på i helgen presset oss til å øke tempoet gjennom hele løpet. Midtveis i løpet opplevde vi at farten tidvis ble for høy i form av at det ble for mye drifting. Vi hadde det vi kaller overskudd av fart, men lykkes ikke helt i å \"holde igjen\" nok. Mot slutten av løpet fikk jeg justert inn dette bedre og etappetidene gikk i vår favør denne gang. Teamets trener Olav Bodilsen, Roger og jeg har jobbet i mange år med blant annet dette. Vi er ikke i mål når det gjelder å få alt dette på plass (hadde vi vært det hadde jeg vært bedre enn Sebastian Loeb...:-)), men føler at vi kom noen skritt videre denne helga. Det morsomme er at når vi fight'er og push'er på som vi har gjort i helga, endres følelsen inne i bilen fra at man prøver å kjøre så fort man kan, til å ha følelsen av at man prøver å kjøre så sakte man kan. Litt vanskelig å forklare det her, men prøver likevel: Når hastighet og tempo øker, må jeg som fører øke fokuset på å bremse nok slik at kjørestilen ikke blir for vill og bred, da taper vi i så fall tid igjen.",
+              "Neste løp for oss er Aurskog-Høland Rally 2. juni. Dette løpet har Anders Grøndal gjort det bra på mange ganger tidligere, så vi forventer enda hardere kamp. Aurskog-Høland Rally er det raskeste grusløpet i Norge, så vi må helt klart omstille oss fra helgas teknisk krevende kjøring."
+           ],
+           "images": [
+               {
+                   "src": "/images/diverse/rally-sorland-2012/rally-sorland-2012-1_w285.jpg",
+                   "width": 285,
+                   "height": 190,
+                   "credit": "Thomas Myhre Hansen"
+               }
+           ],
+           "use-ingress": true
+        }
+    }
+}
