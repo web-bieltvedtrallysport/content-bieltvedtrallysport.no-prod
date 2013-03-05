@@ -20,7 +20,7 @@
         "total-races": 7, 
         "driver-count": 5, 
         "standings": [
-          {"place": 1, "name": "Bieltvedt",  "points": 136, "primary": true}, 
+          {"place": 1, "name": "Bieltvedt/ Eilertsen",  "points": 136, "primary": true}, 
           {"place": 2, "name": "Grøndal",    "points": 130}, 
           {"place": 3, "name": "Økseter",    "points": 100}, 
           {"place": 4, "name": "Østberg",    "points":  64}, 

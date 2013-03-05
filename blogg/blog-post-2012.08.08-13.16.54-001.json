@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.08.08-13.16.54-001",
+        "path": "/blogg/blog-post-2012.08.08-13.16.54-001",
+        "title": "Frisk materiell ankommet",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Frisk materiell ankommet", 
+                        "sent-timestamp": "08.08.2012 07:16:54", 
+                        "received-timestamp": "08.08.2012 07:16:54", 
+                        "message-id": "<CAJO1iKzTjLyH2unT0rUnEFVLZD-rG0A1rRL-=f-ck-Uyx=x_gA@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Frisk materiell ankommet",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "08.08.2012 13:16:54",
+            "text-blocks": [
+                "Logistikksjef Ole Gunhard har akkurat levert forbruksmateriell vi skal bruke opp i høst :-)"
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.08.08-13.16.54-001-image-1.jpg", 
+                    "height": "768", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120807_182252.jpg"
+                }
+            ]
+        }
+    }
+}

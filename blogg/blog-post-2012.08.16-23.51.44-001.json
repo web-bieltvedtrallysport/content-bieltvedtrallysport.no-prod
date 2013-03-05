@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.08.16-23.51.44-001",
+        "path": "/blogg/blog-post-2012.08.16-23.51.44-001",
+        "title": "Svenske tur..",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Svenske tur..", 
+                        "sent-timestamp": "16.08.2012 14:53:33", 
+                        "received-timestamp": "16.08.2012 17:51:44", 
+                        "message-id": "<BLU0-SMTP181827FBBC057BCE5415D6BA1B50@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Svenske tur..",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "16.08.2012 23:51:44",
+            "text-blocks": [
+                "Da er vi i Trollhattan for å kjøre Vast rally som \"føråkare\"..", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.08.16-23.51.44-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

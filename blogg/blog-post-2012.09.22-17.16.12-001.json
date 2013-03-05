@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.09.22-17.16.12-001",
+        "path": "/blogg/blog-post-2012.09.22-17.16.12-001",
+        "title": "I mål",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "I mål", 
+                        "sent-timestamp": "22.09.2012 11:15:12", 
+                        "received-timestamp": "22.09.2012 11:16:12", 
+                        "message-id": "<BLU0-SMTP2108F26C543EF72935C1549A1980@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "I mål",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "22.09.2012 17:16:12",
+            "text-blocks": [
+                "Da står bilen trygt i Parc farmé... Er så glad.."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.09.22-17.16.12-001-image-1.jpg", 
+                    "height": "1032", 
+                    "width": "1377", 
+                    "orientation": "Landscape", 
+                    "original-name": "20120922_162917.jpg"
+                }
+            ]
+        }
+    }
+}

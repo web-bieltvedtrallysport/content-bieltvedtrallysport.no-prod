@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.08.23-21.26.19-001",
+        "path": "/blogg/blog-post-2012.08.23-21.26.19-001",
+        "title": "Ny transmisjonsolje",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "sveinung@bieltvedt.net", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Ny transmisjonsolje", 
+                        "sent-timestamp": "23.08.2012 15:26:14", 
+                        "received-timestamp": "23.08.2012 15:26:19", 
+                        "message-id": "<CAJO1iKz1edP9q=REOOaFooaRiofevpudPWcViaRsrOc6PpBn9w@mail.gmail.com>"
+                    }
+                }
+            },
+            "heading": "Ny transmisjonsolje",
+            "author": {
+                "id": "Sveinung",
+                "display-name": "Sveinung"
+            },
+            "timestamp": "23.08.2012 21:26:19",
+            "text-blocks": [
+                "Nå prøver vi ut nye smøreoljeprodukter, blant annet på gir og bakdifferensial. Denne olja skal gi lavere friksjon i drivverket enn den olja jeg brukte tidligere. Blir spennende å teste ut. Har sjekket med andre som har erfaring med ENI, og det virker lovende."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.08.23-21.26.19-001-image-1.jpg", 
+                    "height": "768", 
+                    "width": "1280", 
+                    "orientation": "Landscape", 
+                    "original-name": "IMG_20120823_212045.jpg"
+                }
+            ]
+        }
+    }
+}

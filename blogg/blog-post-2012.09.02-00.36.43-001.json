@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.09.02-00.36.43-001",
+        "path": "/blogg/blog-post-2012.09.02-00.36.43-001",
+        "title": "DDE",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "DDE", 
+                        "sent-timestamp": "01.09.2012 18:36:31", 
+                        "received-timestamp": "01.09.2012 18:36:43", 
+                        "message-id": "<BLU0-SMTP67C687BA1DCDF3880CFEC7A1A50@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "DDE",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "02.09.2012 00:36:43",
+            "text-blocks": [
+                "Det er sjeldent det er så liv i bygda som når DDE gjester bygda...:-)", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.09.02-00.36.43-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

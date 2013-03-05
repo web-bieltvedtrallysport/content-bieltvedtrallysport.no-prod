@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.09.22-08.29.08-001",
+        "path": "/blogg/blog-post-2012.09.22-08.29.08-001",
+        "title": "Før start",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Før start", 
+                        "sent-timestamp": "22.09.2012 02:27:45", 
+                        "received-timestamp": "22.09.2012 02:29:08", 
+                        "message-id": "<BLU0-SMTP2925E3FE6D33BC22474307CA1980@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Før start",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "22.09.2012 08:29:08",
+            "text-blocks": [
+                "Nå nærmer det seg start..."
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.09.22-08.29.08-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}

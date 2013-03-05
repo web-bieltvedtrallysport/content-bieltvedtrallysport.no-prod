@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "id": "blogg/blog-post-2012.09.06-22.38.05-001",
+        "path": "/blogg/blog-post-2012.09.06-22.38.05-001",
+        "title": "Rally Telemark",
+        "classification": "content",
+        "type": "blog-post",
+        "default-template": "blog-post"
+    },
+    "content": {
+        "blog-post": {
+            "meta": {
+                "blog-format-version": "1.0",
+                "time-format-pattern": "dd.MM.yyyy HH:mm:ss",
+                "source": {
+                    "type": "email-based-blog",
+                    "values": {
+                        "email-account": "srblogg@gmail.com", 
+                        "from-address": "rogereilert@hotmail.com", 
+                        "to-address": "srblogg@gmail.com", 
+                        "subject": "Rally Telemark", 
+                        "sent-timestamp": "06.09.2012 16:37:09", 
+                        "received-timestamp": "06.09.2012 16:38:05", 
+                        "message-id": "<BLU0-SMTP161BF77232E26D37759B5D4A1A80@phx.gbl>"
+                    }
+                }
+            },
+            "heading": "Rally Telemark",
+            "author": {
+                "id": "Roger",
+                "display-name": "Roger"
+            },
+            "timestamp": "06.09.2012 22:38:05",
+            "text-blocks": [
+                "Da har vi kommet frem til Notodden. Spist en god pasta middag og sjekket inn på hotell rommet.. Sveinung lager nyhetsbrev.", 
+                ""
+            ],
+            "images": [
+                {
+                    "name": "blog-post-2012.09.06-22.38.05-001-image-1.JPG", 
+                    "height": "968", 
+                    "width": "1296", 
+                    "orientation": "Landscape", 
+                    "original-name": "bilde.JPG"
+                }
+            ]
+        }
+    }
+}
