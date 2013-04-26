@@ -14,11 +14,16 @@
     },
     "content": {
        "previous-race": {
-           "when": "22. september",
-           "name": "Rally Hedemarken, Hamar (NM)",
-           "homepage": "http://www.rally-hedemarken.no",
+           "when": "26. - 27. april",
+           "name": "Rally Sørland (NM)",
+           "homepage": "http://http://rallysorland.no/",
            "nm": true
         },
-        "next-race": null
+        "next-race": {
+           "when": "2. mars",
+           "name": "Numedalsrally (NM)",
+           "homepage": "http://www.numedalsrally.no/",
+           "nm": true
+        }
     }
 }
