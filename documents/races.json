@@ -12,7 +12,7 @@
         "default-template": "races",
         "enabled": true
     },
-    "content": 
+    "content": {
         "next-race": {
            "when": "26. - 27. april",
            "name": "Rally Sørland (NM)",
