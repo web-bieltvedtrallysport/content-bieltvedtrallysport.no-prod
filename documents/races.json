@@ -12,18 +12,18 @@
         "default-template": "races",
         "enabled": true
     },
-    "content": {
-       "previous-race": {
+    "content": 
+        "next-race": {
            "when": "26. - 27. april",
            "name": "Rally Sørland (NM)",
            "homepage": "http://http://rallysorland.no/",
            "nm": true
-        },
-        "next-race": {
+        }, 
+       "previous-race": {
            "when": "2. mars",
            "name": "Numedalsrally (NM)",
            "homepage": "http://www.numedalsrally.no/",
            "nm": true
-        }
+        },
     }
 }
