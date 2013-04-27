@@ -1,10 +1,10 @@
 {
     "meta": {
-        "id": "gjestebok/gjestebok-innlegg-2010.10.09-12.00.00.0",
-        "path": "/gjestebok/gjestebok-innlegg-2010.10.09-12.00.00.0",
+        "id": "gjestebok/gjestebok-innlegg-2010.10.09-13.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.10.09-13.00.00.0",
         "title": "",
-        "time-created": "1286618400000",
-        "time-created-formatted": "2010-10-09 12:00:00",
+        "time-created": "1286622000000",
+        "time-created-formatted": "2010-10-09 13:00:00",
         "classification": "content",
         "type": "guestbook-entry",
         "default-template": "guestbook-entry",
@@ -13,8 +13,8 @@
     "content": {
        "guestbook-entry": {
            "written-by": "tools askim",
-           "timestamp": "1286618400000",
-           "message": "synd at dere måtte bryte.\r\ndet kommer nye løp...\r\nhva er planen fremover?\r\nferie eller har dere flere løp i nær fremtid ??"
+           "timestamp": "1286622000000",
+           "message": "stå på gutter.dette tar dere igjen i løpet av dagen.\r\nvi tror på pallen.\r\nlykke til på dagens etapper....."
         }
     }
 }

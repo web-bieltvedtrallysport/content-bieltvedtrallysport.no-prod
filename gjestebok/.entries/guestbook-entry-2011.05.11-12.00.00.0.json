@@ -1,10 +1,10 @@
 {
     "meta": {
-        "id": "gjestebok/gjestebok-innlegg-2011.05.11-12.00.00.0",
-        "path": "/gjestebok/gjestebok-innlegg-2011.05.11-12.00.00.0",
+        "id": "gjestebok/gjestebok-innlegg-2011.05.11-13.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.05.11-13.00.00.0",
         "title": "",
-        "time-created": "1305108000000",
-        "time-created-formatted": "2011-05-11 12:00:00",
+        "time-created": "1305111600000",
+        "time-created-formatted": "2011-05-11 13:00:00",
         "classification": "content",
         "type": "guestbook-entry",
         "default-template": "guestbook-entry",
@@ -12,9 +12,9 @@
     },
     "content": {
        "guestbook-entry": {
-           "written-by": "R.E Ski",
-           "timestamp": "1305108000000",
-           "message": "God tur nedover.Håper det går som på Sørlandet + en plass\r\nhøyere opp på pallen\r\n\r\nLykke til TOOLS RALLYTEAM"
+           "written-by": "tools askim",
+           "timestamp": "1305111600000",
+           "message": "lykke til i latvia.nå håper vi tools gutta viser\r\nutlendinga hvordan det skal kjøres."
         }
     }
 }

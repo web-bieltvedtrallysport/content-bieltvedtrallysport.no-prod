@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.08.26-12.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.08.26-12.00.00.0",
+        "title": "",
+        "time-created": "1282816800000",
+        "time-created-formatted": "2010-08-26 12:00:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "Trond Fretheim",
+           "timestamp": "1282816800000",
+           "message": "Ser ut som et bra show, synd det ikke er noe i nærheten..."
+        }
+    }
+}

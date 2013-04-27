@@ -1,10 +1,10 @@
 {
     "meta": {
-        "id": "gjestebok/gjestebok-innlegg-2011.06.03-12.00.00.0",
-        "path": "/gjestebok/gjestebok-innlegg-2011.06.03-12.00.00.0",
+        "id": "gjestebok/gjestebok-innlegg-2011.06.03-13.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.06.03-13.00.00.0",
         "title": "",
-        "time-created": "1307095200000",
-        "time-created-formatted": "2011-06-03 12:00:00",
+        "time-created": "1307098800000",
+        "time-created-formatted": "2011-06-03 13:00:00",
         "classification": "content",
         "type": "guestbook-entry",
         "default-template": "guestbook-entry",
@@ -12,9 +12,9 @@
     },
     "content": {
        "guestbook-entry": {
-           "written-by": "Silje",
-           "timestamp": "1307095200000",
-           "message": "Lykke til i morgen:P"
+           "written-by": "R.E Ski",
+           "timestamp": "1307098800000",
+           "message": "Lykke til på Aurskog/Hørland  !\r\n\r\n"
         }
     }
 }

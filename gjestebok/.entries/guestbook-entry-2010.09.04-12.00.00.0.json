@@ -1,10 +1,10 @@
 {
     "meta": {
-        "id": "gjestebok/gjestebok-innlegg-2010.09.04-12.00.00.0",
-        "path": "/gjestebok/gjestebok-innlegg-2010.09.04-12.00.00.0",
+        "id": "gjestebok/gjestebok-innlegg-2010.09.04-13.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.09.04-13.00.00.0",
         "title": "",
-        "time-created": "1283594400000",
-        "time-created-formatted": "2010-09-04 12:00:00",
+        "time-created": "1283598000000",
+        "time-created-formatted": "2010-09-04 13:00:00",
         "classification": "content",
         "type": "guestbook-entry",
         "default-template": "guestbook-entry",
@@ -12,9 +12,9 @@
     },
     "content": {
        "guestbook-entry": {
-           "written-by": "tools askim",
-           "timestamp": "1283594400000",
-           "message": "gratulerer med nok et bra løp.\r\nnå teller vi ned til rally hedemarken.\r\ndobbelt nm mesterskap hadde vært veldig gøy.\r\nstå på..."
+           "written-by": "Øystein",
+           "timestamp": "1283598000000",
+           "message": "Stå på, nå blir svenskene bak..."
         }
     }
 }

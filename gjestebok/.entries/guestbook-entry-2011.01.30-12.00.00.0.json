@@ -1,10 +1,10 @@
 {
     "meta": {
-        "id": "gjestebok/gjestebok-innlegg-2011.01.30-12.00.00.0",
-        "path": "/gjestebok/gjestebok-innlegg-2011.01.30-12.00.00.0",
+        "id": "gjestebok/gjestebok-innlegg-2011.01.30-13.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2011.01.30-13.00.00.0",
         "title": "",
-        "time-created": "1296385200000",
-        "time-created-formatted": "2011-01-30 12:00:00",
+        "time-created": "1296388800000",
+        "time-created-formatted": "2011-01-30 13:00:00",
         "classification": "content",
         "type": "guestbook-entry",
         "default-template": "guestbook-entry",
@@ -12,9 +12,9 @@
     },
     "content": {
        "guestbook-entry": {
-           "written-by": "tools askim",
-           "timestamp": "1296385200000",
-           "message": "bra kjørt i helgen .dere er på rett vei. vi gleder oss til neste\r\nrunde allerede.stå på videre. sees i sverige så vidt jeg skjønner."
+           "written-by": "Bakken",
+           "timestamp": "1296388800000",
+           "message": "Tusen takk for at dere reddet oss med nye hjul på Rally Hadeland.\r\n(så slapp vi og kjøre piggfritt på de 3 siste ss :-)"
         }
     }
 }

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2010.08.03-12.00.00.0",
+        "path": "/gjestebok/gjestebok-innlegg-2010.08.03-12.00.00.0",
+        "title": "",
+        "time-created": "1280829600000",
+        "time-created-formatted": "2010-08-03 12:00:00",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "0"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "laetitia",
+           "timestamp": "1280829600000",
+           "message": "Good morning I am a big fan of rally  I would be very happy if you could send me new or ancient signed Post Cards of you (in several copy please) . Grips a big honour to count you in my collection. By hoping to accept your cards I wish you a good season 2010.\r\nMy address\r\nVendier Laetitia\r\n16 rue principale\r\n88210 le mont (France)\r\n\r\nRegards"
+        }
+    }
+}
