@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2013.04.22-16.19.45.0",
+        "path": "/gjestebok/gjestebok-innlegg-2013.04.22-16.19.45.0",
+        "title": "",
+        "time-created": "1366640385000",
+        "time-created-formatted": "2013-04-22 16:19:45",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "62.16.149.100"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "odd impreza",
+           "timestamp": "1366640385000",
+           "message": "lykke til med rally i mandal ,seier"
+        }
+    }
+}

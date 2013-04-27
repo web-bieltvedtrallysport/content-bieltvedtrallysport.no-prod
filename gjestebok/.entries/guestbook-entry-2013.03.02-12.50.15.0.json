@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2013.03.02-12.50.15.0",
+        "path": "/gjestebok/gjestebok-innlegg-2013.03.02-12.50.15.0",
+        "title": "",
+        "time-created": "1362225015000",
+        "time-created-formatted": "2013-03-02 12:50:15",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "62.16.149.100"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "odd impreza",
+           "timestamp": "1362225015000",
+           "message": "Gratulerer med seier."
+        }
+    }
+}

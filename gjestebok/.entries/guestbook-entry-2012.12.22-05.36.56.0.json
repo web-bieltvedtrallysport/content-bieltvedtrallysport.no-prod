@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2012.12.22-05.36.56.0",
+        "path": "/gjestebok/gjestebok-innlegg-2012.12.22-05.36.56.0",
+        "title": "",
+        "time-created": "1356151016000",
+        "time-created-formatted": "2012-12-22 05:36:56",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "84.202.128.201"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E.Ski",
+           "timestamp": "1356151016000",
+           "message": "God Jul og Godt Nyttår !\r\n\r\nHåper absolutt å se dere i farta igjen 2013 !\r\n"
+        }
+    }
+}

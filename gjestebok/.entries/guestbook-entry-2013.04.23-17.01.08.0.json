@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "id": "gjestebok/gjestebok-innlegg-2013.04.23-17.01.08.0",
+        "path": "/gjestebok/gjestebok-innlegg-2013.04.23-17.01.08.0",
+        "title": "",
+        "time-created": "1366729268000",
+        "time-created-formatted": "2013-04-23 17:01:08",
+        "classification": "content",
+        "type": "guestbook-entry",
+        "default-template": "guestbook-entry",
+        "soft-deleted": "62.16.157.187"
+    },
+    "content": {
+       "guestbook-entry": {
+           "written-by": "R.E Ski",
+           "timestamp": "1366729268000",
+           "message": "Sørlandet og ny NM runde !\r\nLykke til hele teamet !\r\n"
+        }
+    }
+}
