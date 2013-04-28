@@ -14,15 +14,15 @@
     },
     "content": {
         "next-race": {
-           "when": "26. - 27. april",
-           "name": "Rally Sørland (NM)",
-           "homepage": "http://http://rallysorland.no/",
+           "when": "8. juni",
+           "name": "Aurskog Høland Rally (NM)",
+           "homepage": "http://www.ahrally.no/",
            "nm": true
         }, 
        "previous-race": {
-           "when": "2. mars",
-           "name": "Numedalsrally (NM)",
-           "homepage": "http://www.numedalsrally.no/",
+           "when": "26. - 27. april",
+           "name": "Rally Sørland (NM)",
+           "homepage": "http://http://rallysorland.no/",
            "nm": true
         }
     }

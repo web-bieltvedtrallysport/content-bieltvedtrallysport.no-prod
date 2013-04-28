@@ -16,15 +16,15 @@
       "drivers": {
         "competition": "NM klasse 2 2013", 
         "url": "", 
-        "races": 3, 
+        "races": 4, 
         "total-races": 7, 
         "driver-count": 5, 
         "standings": [
-          {"place": 1, "name": "Bieltvedt / Eilertsen",  "points": 69, "primary": true}, 
-          {"place": 2, "name": "Grøndal / Svendsen",     "points": 55}, 
-          {"place": 3, "name": "Frøslid / Haldammen",    "points": 37}, 
-          {"place": 4, "name": "Økseter / Eilertsen",    "points": 29}, 
-          {"place": 5, "name": "Offerdal",               "points": 27}
+          {"place": 1, "name": "Bieltvedt / Eilertsen",  "points": 87, "primary": true}, 
+          {"place": 2, "name": "Grøndal / Svendsen",     "points": 70}, 
+          {"place": 3, "name": "Brynildsen",             "points": 50}, 
+          {"place": 4, "name": "Frøslid / Haldammen",    "points": 45}, 
+          {"place": 5, "name": "Offerdal",               "points": 31}
         ]
       }
     }
